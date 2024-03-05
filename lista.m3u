@@ -163,3 +163,26 @@ http://120296262812776743.nicsd0227a.xyz:80/play/fe315501/BuV6FuMuPE6/776743.ts
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" tvg-id="", TNT Sports
 http://45.5.151.151:8000/play/a002/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24 op2
+#EXTVLCOPT:http-user-agent=iPhone
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/LnXQkIUX.png" group-title="News" user-agent="iPhone",C5N
+#EXTVLCOPT:http-user-agent=iPhone
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://i.imgur.com/LnXQkIUX2.png" group-title="News" user-agent="iPhone",Canal26
+#EXTVLCOPT:http-user-agent=iPhone
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica_Pampa.ar" tvg-logo="https://i.imgur.com/LnXQkIUX22.png" group-title="News" user-agent="iPhone",TV Publica la pampa
+#EXTVLCOPT:http-user-agent=iPhone
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-logo="https://i.imgur.com/LnXQkIUX2s2.png" group-title="News" user-agent="iPhone",Cronica
+#EXTVLCOPT:http-user-agent=iPhone
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
