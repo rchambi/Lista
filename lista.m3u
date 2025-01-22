@@ -70,3 +70,46 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" tvg-id="", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,Bolivision (Bolivia) (🇧🇴)
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,Bolivia 7.1 (Bolivia) (🇧🇴)
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
+#EXTINF:0,Bolivia 7.2 (Bolivia) (🇧🇴)
+https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
+#EXTINF:0,Cadena A (Bolivia) (🇧🇴)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Cadena A (Bolivia) (🇧🇴)
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/.m3u8
+#EXTINF:0,Cristal (Bolivia) (🇧🇴)
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+#EXTINF:0,DTV (Bolivia) (🇧🇴)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Mega (Bolivia) (🇧🇴)
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
+#EXTINF:0,Pat (Bolivia) (🇧🇴)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Red Uno (Bolivia) (🇧🇴)
+https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:0,RTP (Bolivia) (🇧🇴)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Unitel (Bolivia) (🇧🇴)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Unitel (Bolivia) (🇧🇴)
+http://master.tucableip.com/movil/index.m3u8
+#EXTINF:0,VTV Canal 17 (Bolivia) (🇧🇴)
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
+#EXTINF:0,ATB (Bolivia) (🇧🇴)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
