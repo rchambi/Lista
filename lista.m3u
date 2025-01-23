@@ -125,8 +125,7 @@ https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/.m3u8
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
 #EXTINF:0,11 (Portugal) (🇵🇹)
 http://176.65.146.108:8022/play/a076
-#EXTINF:0,11 Kanal (Rusia) (🇷🇺)
-https://tinyurl.com/2rt53d6t
+
 #EXTINF:0,12 (Rusia) (🇷🇺)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:0,12 Parma (Italia) (🇮🇹)
@@ -1860,34 +1859,8 @@ https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/.m3u8
 https://mastershowtv.videovox.pw/master6123/master6123/.m3u8
 #EXTINF:0,Master Show +Rock (Palaos) (🇵🇼)
 https://serv2.videovox.pw/master1667/master1667/.m3u8
-#EXTINF:0,Match (Rusia) (🇷🇺)
-http://185.46.48.18:80/match/index.m3u8
-#EXTINF:0,Match (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/212/index.m3u8
-#EXTINF:0,Match Arena (Rusia) (🇷🇺)
-http://194.143.148.28:8080/MatchArena/index.m3u8
-#EXTINF:0,Match Arena (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/207/index.m3u8
-#EXTINF:0,Match Boec (Rusia) (🇷🇺)
-http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
-#EXTINF:0,Match Boec (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/150/index.m3u8
-#EXTINF:0,Match Futbol 1 (Rusia) (🇷🇺)
-http://194.143.148.28:8080/MatchFutbol1/index.m3u8
-#EXTINF:0,Match Igra (Rusia) (🇷🇺)
-http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
-#EXTINF:0,Match Igra (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/225/index.m3u8
-#EXTINF:0,Match Planeta (Rusia) (🇷🇺)
-http://45.159.74.13:80/MatchPlaneta/index.m3u8
-#EXTINF:0,Match Planeta (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/123/index.m3u8
-#EXTINF:0,Match Premier (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/220/index.m3u8
-#EXTINF:0,Match Strana (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/107/index.m3u8
-#EXTINF:0,Matur (Rusia) (🇷🇺)
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+
+
 #EXTINF:0,MAV Motor Sports (Canada) (🇨🇦)
 https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 #EXTINF:0,MAV Motor Sports (UK) (🇬🇧)
@@ -2000,10 +1973,7 @@ http://244285498241333207.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/333207.ts?ex
 https://cloudvideo.servers10.com:8081/8036/index.m3u8
 #EXTINF:0,MUTV (UK) (🇬🇧)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:0,Muz (Rusia) (🇷🇺)
-https://stream01.vnet.am/MuzTv/index.m3u8
-#EXTINF:0,Muz (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/116/index.m3u8
+
 #EXTINF:0,Muzangala (Angola) (🇦🇴)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/.m3u8
 #EXTINF:0,Muzzik (Serbia) (🇷🇸)
@@ -2098,10 +2068,8 @@ http://tvmate.icu:8080/nCqH8t/631017/47346?extension=m3u8
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:0,NHL Network (USA) (🇺🇸)
 https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:0,NM (Rusia) (🇷🇺)
-https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:0,Novoe (Rusia) (🇷🇺)
-https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
+
+
 #EXTINF:0,Now 70's (Nueva Zelanda) (🇳🇿)
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,Now 80's (Nueva Zelanda) (🇳🇿)
@@ -2181,8 +2149,7 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:0,Play (Camerun) (🇨🇲)
 http://connectiktv.ddns.net:5000/playtv/@playtv/.m3u8
-#EXTINF:0,Playboy (Rusia) (+18) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/527/index.m3u8
+
 #EXTINF:0, PMC (Palestina) (🇵🇸)
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:0,PMC Royale (Palestina) (🇵🇸)
@@ -2201,8 +2168,7 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4?extensi
 http://244285498241960896.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/960896.ts?extension=m3u8
 #EXTINF:0,PremierSports 2 (UK) (🇬🇧)
 http://244285498241958749.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/958749.ts?extension=m3u8
-#EXTINF:0,Private (Rusia) (+18) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/243/index.m3u8
+
 #EXTINF:0,Puringla (Honduras) (🇭🇳)
 https://stmv1.srvif.com/puringla/puringla/.m3u8
 #EXTINF:0,PyC (Colombia) (🇨🇴)
@@ -2219,8 +2185,7 @@ https://5e85d90130e77.streamlock.net/6024/6024/.m3u8
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Rai Sport (Italia) (🇮🇹)
 http://244285498241925667.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/925667.ts?extension=m3u8
-#EXTINF:0,Rap (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/17034/index.m3u8
+
 #EXTINF:0,RBA (Brasil) (🇧🇷)
 https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:0,RBTV Total Play (Brasil) (🇧🇷)
@@ -2250,8 +2215,6 @@ https://iptv.prosto.tv/ch324/video.m3u8
 
 #EXTINF:0,Red+ (Colombia) (🇨🇴)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:0,Redlight (Rusia) (+18) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/242/index.m3u8
 #EXTINF:0,Reflet (Costa De Marfil) (🇨🇮)
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:0,Reforma (Venezuela) (🇻🇪)
@@ -2293,22 +2256,13 @@ http://244285498241886087.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/886087.ts?ex
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:0, Russian (USA) (+18) (🇺🇸)
 https://cdn.adultiptv.net/russian.m3u8
-#EXTINF:0,Russian Night (Rusia) (+18) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/147/index.m3u8
-#EXTINF:0,Russian Rock (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/17037/index.m3u8
-#EXTINF:0,S1 (Rusia) (🇷🇺)
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:0,S86 (Rusia) (🇷🇺)
-https://sitv.ru/hls/s86.m3u8
+
+
 #EXTINF:0,Sabor & Arte (Brasil/Portugal) (🇧🇷🇵🇹)
 http://244285498241828170.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/828170.ts?extension=m3u8
 #EXTINF:0,Sachsen Fernsehen (Alemania) (🇩🇪)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:0,Salyam (Rusia) (🇷🇺)
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:0,Samara GIS (Rusia) (🇷🇺)
-http://45.67.57.9:8080/new/new/index.m3u8
+
 #EXTINF:0,Sat 1 (Alemania) (🇩🇪)
 http://244285498241832240.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832240.ts?extension=m3u8
 #EXTINF:0,Sat 1 Emotions (Alemania) (🇩🇪)
@@ -2325,17 +2279,14 @@ http://xciptv.8888play.one:80/live/228463308/r576049x/2582.ts?extension=m3u8
 http://175.107.244.52:4457/play/a076
 #EXTINF:0,Sci-Fi (Mexico) (🇲🇽)
 https://is.gd/iMFQyY?.m3u8
-#EXTINF:0,Sci-Fi (Rusia/UK) (🇷🇺 🇬🇧)
-https://s1.merlive.am/Sci-Fi/index.m3u8
+
 #EXTINF:0,Scottsdale (USA) (🇺🇸)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/.m3u8
 #EXTINF:0,SEC Network (USA) (🇺🇸)
 https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:0,Setanta Sports (Ucrania) (🇺🇦)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/272/index.m3u8
-#EXTINF:0,Setanta Sports 1 (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/271/index.m3u8
-#EXTINF:0,Setanta Sports 2 (Rusia) (🇷🇺)
+
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/270/index.m3u8
 #EXTINF:0,Señal Colombia (Colombia) (🇨🇴)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/.m3u8
@@ -2419,16 +2370,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
 https://s5.mexside.net:1936/enlinea/enlinea/.m3u8
 #EXTINF:0,SMTV Snowy Mountains (USA) (🇺🇸)
 https://185043-castr.akamaized.net/62dc75c81d350f50023a3d01/live_2a10d2606c3711edbc96a96176a0fe35/index.m3u8
-#EXTINF:0,Sochi Live (Rusia) (🇷🇺)
-https://serv30.vintera.tv/sochi/sochi_stream/playlist.m3u8
+
 #EXTINF:0,Solo Calcio (Italia) (🇮🇹)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0,Solo Calcio (Italia) (🇮🇹)
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/.m3u8
 #EXTINF:0,Song (Armenia) (🇦🇲)
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:0,Song (Rusia) (🇷🇺)
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+
 #EXTINF:0,Sony Channel (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16700?extension=m3u8
 #EXTINF:0,Sorrriso (Italia) (🇮🇹)
