@@ -49,8 +49,7 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/428603015_466219426069564_7536542583503488613_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=7STj8oQ0lfMAX-aS4YK&_nc_ht=scontent.flpb2-2.fna&oh=00_AfAUR5sViAgpWE0_hLsKKXMaKfiDM7kBWTm-IN9-aKr-gA&oe=65EC07EF" group-title="CANALES DE BOLIVIA",Cadena A
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-atb-bolivia-logo-2ABBEC408E-seeklogo.com.png" group-title="CANALES DE BOLIVIA",ATB HD
 http://186.121.206.197/live/daniel/index.m3u8
 
@@ -89,18 +88,6 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
 #EXTINF:0,Bolivia 7.2 (Bolivia) (🇧🇴)
 https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
-#EXTINF:0,Cadena A (Bolivia) (🇧🇴)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
-#EXTINF:0,Cadena A (Bolivia) (🇧🇴)
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/.m3u8
-#EXTINF:0,Cristal (Bolivia) (🇧🇴)
-https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
-#EXTINF:0,DTV (Bolivia) (🇧🇴)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
-#EXTINF:0,Mega (Bolivia) (🇧🇴)
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
-#EXTINF:0,Pat (Bolivia) (🇧🇴)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 #EXTINF:0,Red Uno (Bolivia) (🇧🇴)
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:0,RTP (Bolivia) (🇧🇴)
@@ -119,8 +106,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.
 
 #EXTINF:0,21 HD Pelis (Argentina) (🇦🇷)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:0,America (Argentina) (🇦🇷)
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 #EXTINF:0,AN24 (Argentina) (🇦🇷)
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/.m3u8
 
@@ -137,8 +123,6 @@ https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/.m3u8
 
 #EXTINF:0,1 (Colombia) (🇨🇴)
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
-#EXTINF:0,1 HD Music (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/17038/index.m3u8
 #EXTINF:0,11 (Portugal) (🇵🇹)
 http://176.65.146.108:8022/play/a076
 #EXTINF:0,11 Kanal (Rusia) (🇷🇺)
@@ -149,26 +133,14 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 https://5929b138b139d.streamlock.net/12TVParma/livestream/.m3u8
 #EXTINF:0,24 Hour Free Movies (USA) (🇺🇸)
 https://tinyurl.com/4azsc6z4
-#EXTINF:0,24 Mordovia (Rusia) (🇷🇺)
-https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:0,2x2 (Rusia) (🇷🇺)
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:0,30A (USA) (🇺🇸)
 https://30a-tv.com/my999.m3u8
 #EXTINF:0,30A Classic Movies (USA) (🇺🇸)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:0,30A Music (USA) (🇺🇸)
-https://30a-tv.com/music.m3u8
-#EXTINF:0,360° (Rusia) (🇷🇺)
-https://e10-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:0,360° Hoвости (Rusia) (🇷🇺)
-https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:0,365 Dney (Rusia) (🇷🇺)
 https://s1.merlive.am/365dnei/index.m3u8
 #EXTINF:0,4 (UK) (🇬🇧)
 https://wowza5.leisertv.com/live/channel4hd.stream/.m3u8
-#EXTINF:0,40° Graus (Brasil) (🇧🇷)
-https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0,41 BTK (Rusia) (🇷🇺)
 https://tinyurl.com/3zsue36d
 #EXTINF:0,44 Adelaide (Australia) (🇦🇺)
@@ -179,8 +151,6 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/.m3u8
 https://tinyurl.com/yzkc4wxe
 #EXTINF:0,4UV (USA) (🇺🇸)
 https://tinyurl.com/2mbv545j
-#EXTINF:0,5 (Brasil) (🇧🇷)
-https://5a57bda70564a.streamlock.net/canal5/canal5.sdp/.m3u8
 #EXTINF:0,5 (UK) (🇬🇧)
 http://92.114.85.72:8000/play/a085
 #EXTINF:0,5 Minute Crafts (USA) (🇺🇸)
@@ -205,14 +175,6 @@ http://244285498241879857.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/879857.ts?ex
 http://244285498241832226.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832226.ts?extension=m3u8
 #EXTINF:0,8 Canal (Colombia) (🇨🇴)
 https://glb.bozztv.com/glb/ssh101/envivocanal8/playlist.m3u8
-#EXTINF:0,8 Kanal (Rusia) (🇷🇺)
-https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:0,8 Kanal Int (Rusia) (🇷🇺)
-https://livehd.vedge.infomaniak.com/livecast/livehd/.m3u8
-#EXTINF:0,9 Volna (Rusia) (🇷🇺)
-https://serv30.vintera.tv/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:0,90's Music (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/17011/index.m3u8
 #EXTINF:0,A Bola (Brasil) (🇧🇷)
 http://176.65.146.108:8022/play/a05d
 #EXTINF:0,A&E (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
@@ -380,10 +342,6 @@ https://tinyurl.com/59wpduu3
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/.m3u8
 #EXTINF:0,ATN (Colombia) (🇨🇴)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/.m3u8
-#EXTINF:0,Atomic (Rumania) (🇷🇴)
-https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:0,Atomic Academy (Rumania) (🇷🇴)
-https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:0,ATV (Colombia) (🇨🇴)
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:0,ATV (Rusia) (🇷🇺)
@@ -438,12 +396,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0,AYM Sports (Mexico) (🇲🇽)
 https://aym-as.otteravision.com/aym/as/as.m3u8
-#EXTINF:0,AZ Click (Mexico) (🇲🇽)
-https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:0,AZ Corazon (Mexico) (🇲🇽)
-https://azt-cz.otteravision.com/azt/cz/cz.m3u8
-#EXTINF:0,AZ Corazon (Mexico) (🇲🇽)
-https://d2qb5pmzx6v5zn.cloudfront.net/cz.m3u8
+
 #EXTINF:0,AZA (Honduras) (🇭🇳)
 https://mediacp.us:8081/azatvhd/index.m3u8
 #EXTINF:0,Azteca 7 (Mexico) (🇲🇽)
@@ -462,8 +415,6 @@ https://stream1.freetv.fun/band-1.m3u8
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23?extension=m3u8
 #EXTINF:0,Bang ShowBiz (USA) (🇺🇸)
 https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
-#EXTINF:0,Banovina (Croacia) (🇭🇷)
-https://pool.alter-media.hr:1936/live/myStream/.m3u8
 #EXTINF:0,Bares Fur Rares (Alemania) (🇩🇪)
 https://d3vy3u3emq0kq1.cloudfront.net/index.m3u8
 #EXTINF:0,Bark (USA) (🇺🇸)
@@ -520,8 +471,6 @@ https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8
 https://vdo.pro-fhi.net:3244/stream/play.m3u8
 #EXTINF:0,Berente (Hungria) (🇭🇺)
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
-#EXTINF:0,Bergblick Free (Suiza) (🇨🇭)
-https://tinyurl.com/2mrm5vra
 #EXTINF:0,Berlin (Alemania) (🇩🇪)
 https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/.m3u8
 #EXTINF:0,BET* (USA) (🇺🇸)
@@ -620,66 +569,9 @@ https://rtmp.bredanu.nl/live/tv.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/.m3u8
 #EXTINF:0,Brian (Camboya) (🇰🇭)
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/.m3u8
-#EXTINF:0,Brics Chinese (Rusia) (🇷🇺)
-https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:0,Brics English (Rusia) (🇷🇺)
-https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:0,Brics Portuguese (Rusia) (🇷🇺)
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:0,Brics Russian (Rusia) (🇷🇺)
-https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0,Brics Spanish (Rusia) (🇷🇺)
-https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
-#EXTINF:0,Bridezillas (UK) (🇬🇧)
-https://run-br-uk.otteravision.com/run/br_uk/br_uk.m3u8
-#EXTINF:0,Bridge (Rusia) (🇷🇺)
-http://31.148.48.15/Bridge_TV/index.m3u8
-#EXTINF:0,Bridge (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/122/index.m3u8
-#EXTINF:0,Bridge (Rusia) (🇷🇺)
-http://92.53.64.197:5050/bridge_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Bridge Classic (Rusia) (🇷🇺)
-https://stream01.vnet.am/BRIDGETVClassic/index.m3u8
-#EXTINF:0,Bridge Classic (Rusia) (🇷🇺)
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:0,Bridge Deluxe (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/236/index.m3u8
-#EXTINF:0,Bridge Fresh (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/9053/index.m3u8
-#EXTINF:0,Bridge Hits (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/711/index.m3u8
-#EXTINF:0,Bridge Hits (Rusia) (🇷🇺)
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:0,Bridge Russian Hit (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/120/index.m3u8
-#EXTINF:0,Brightside (Colombia) (🇨🇴)
-https://tinyurl.com/53p685kv
-#EXTINF:0,Brightside (Mexico) (🇲🇽)
-https://tinyurl.com/3n2bdktx
-#EXTINF:0,Brindiamo! (Italia) (🇮🇹)
-https://tinyurl.com/yye8nvfh
-#EXTINF:0,Bring It! (USA) (🇺🇸)
-https://d19s1akyi84tn7.cloudfront.net/playlist.m3u8
-#EXTINF:0,Brit Asia (UK) (🇬🇧)
-https://tinyurl.com/36dzue3d
-#EXTINF:0,Brit Bash (UK) (🇬🇧)
-https://tinyurl.com/s499ah7w
-#EXTINF:0,British Films Rakuten (UK) (🇬🇧)
-https://tinyurl.com/4n2rua7u
-#EXTINF:0,Brividy Cinema (Italia) (🇮🇹)
-https://tinyurl.com/3x7ta8d3
-#EXTINF:0,BRT 1 (Chipre) (🇨🇾)
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/.m3u8
-#EXTINF:0,BRT 2 (Chipre) (🇨🇾)
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/.m3u8
-#EXTINF:0,Brunette (USA) (+18) (🇺🇸)
-https://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:0,Brusque (Brasil) (🇧🇷)
-https://tinyurl.com/3xb7t2tk
-#EXTINF:0,BSO Channel (Italia) (🇮🇹)
-https://57068da1deb21.streamlock.net/bwr/bwr/.m3u8
-#EXTINF:0,BST (Rusia) (🇷🇺)
-http://bsttv.bonus-tv.ru:80/cdn/bst/index.m3u8
+
+
+
 #EXTINF:0,BTA (Venezuela) (🇻🇪)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:0,BTN (Corea Del Sur) (🇰🇷)
@@ -688,8 +580,6 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
 #EXTINF:0,BTV Benfica (Portugal) (🇵🇹)
 http://176.65.146.108:8022/play/a06k
-#EXTINF:0,Buap (Mexico) (🇲🇽)
-https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:0,Buena (Puerto Rico) (🇵🇷)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/.m3u8
 #EXTINF:0,Buena Park (USA) (🇺🇸)
@@ -726,8 +616,6 @@ https://marine2.miplay.cl/c13/playlist.m3u8
 https://live.creacast.com/bluediamond/stream/.m3u8
 #EXTINF:0,C31 Melbourne (Australia) (🇦🇺)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:0,C4 En Alerta (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 #EXTINF:0,C9N (Paraguay) (🇵🇾)
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,CA Caribbean Advantage (Puerto Rico) (🇵🇷)
@@ -739,8 +627,6 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/.m3u8
 
 #EXTINF:0,Cafe 24 (Italia) (🇮🇹)
 https://srvx1.selftv.video/cafe/live/.m3u8
-#EXTINF:0,California Medios (Mexico) (🇲🇽)
-https://s5.mexside.net:1936/medios/medios/.m3u8
 #EXTINF:0,Caltex Music (Iran) (🇮🇷)
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:0,Cambyreta (Paraguay) (🇵🇾)
@@ -755,21 +641,13 @@ https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
 https://tinyurl.com/4t54ftdy
 #EXTINF:0,Canada One (Canada) (🇨🇦)
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:0,Canal 14 Regional (Mexico) (🇲🇽)
-https://glb.bozztv.com/glb/ssh101/videoenvivo/playlist.m3u8
 #EXTINF:0,Canal 24 Horas (Chile) (🇨🇱)
 https://tinyurl.com/3y4pcy59
 #EXTINF:0,Canal 25 Jundiai (Brasil) (🇧🇷)
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:0,Canal 30 (Mexico) (🇲🇽)
-https://glb.bozztv.com/glb/ssh101/canal30mx/playlist.m3u8
 #EXTINF:0,Canal 38 (Brasil) (🇧🇷)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
-#EXTINF:0,Canal Alpha (Suiza) (🇨🇭)
-https://edge14.vedge.infomaniak.com/livecast/smil:canalalpha.smil/.m3u8
-#EXTINF:0,Canal Alpha Jura (Suiza) (🇨🇭)
-https://edge14.vedge.infomaniak.com/livecast/canalalphaju/.m3u8
 #EXTINF:0,Canal Diplomatico (Venezuela) (🇻🇪)
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/.m3u8
 #EXTINF:0,Canal Do Criador (Brasil) (🇧🇷)
@@ -784,34 +662,14 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/.m3u8
 https://tinyurl.com/4tddn7wk
 #EXTINF:0,Canale 88 MadeInBO (Italia) (🇮🇹)
 https://srvx1.selftv.video/dmchannel/live/.m3u8
-#EXTINF:0,Canela (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:0,Canela (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
-#EXTINF:0,Canela Cinema (Mexico) (🇲🇽)
-https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
-#EXTINF:0,Canela Clasicos (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:0,Canela Deportes (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:0,Canela Hits (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:0,Canela Horror (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:0,Canela Kids (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:0,Canela Music Presents (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:0,Canela Telenovelas (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:0,Cantina (Venezuela) (🇻🇪)
 https://vcp.myplaytv.com/cantinatv/cantinatv/.m3u8
 #EXTINF:0,Capital (Nepal) (🇳🇵)
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:0,Capital 21 (Mexico) (🇲🇽)
-https://video.cdmx.gob.mx/redes/stream.m3u8
-#EXTINF:0,Carac1 (Suiza) (🇨🇭)
-http://244285498241752972.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/752972.ts?extension=m3u8
 #EXTINF:0,Caracol (Colombia) (🇨🇴)
 http://181.78.82.6:46090/play/a05y
 #EXTINF:0,Caracol Ahora (Colombia) (🇨🇴)
@@ -864,8 +722,6 @@ http://vip.login.in.th:1935/ch8/ch8/.m3u8
 https://tinyurl.com/ys4t97wt
 #EXTINF:0,Channel Y (Canada) (🇨🇦)
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:0,Chanson (Rusia) (🇷🇺)
-https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:0,Charge! (USA) (🇺🇸)
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0,Charlie (Alemania) (🇩🇪)
@@ -878,8 +734,6 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/.m3u8
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/.m3u8
 #EXTINF:0,CHCO (Canada) (🇨🇦)
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:0,CHD Rock (Rusia) (🇷🇺)
-http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:0,Cheddar News (USA) (🇺🇸)
 https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:0,Chef Champion (USA) (🇺🇸)
@@ -922,12 +776,6 @@ https://tinyurl.com/yvdk42d6
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:0,Cine Mundo (Portugal/Brasil) (🇵🇹🇧🇷)
 http://176.65.146.108:8022/play/a05f
-#EXTINF:0,Cine Picante (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
-#EXTINF:0,Cine Premium (Mexico) (🇲🇽)
-http://181.78.8.90:16123/play/ch49
-#EXTINF:0,Cine Romantico (Mexico) (🇲🇽)
-https://tinyurl.com/y7apr8uz
 #EXTINF:0,Cine Star (Chile) (🇨🇱)
 https://glb.bozztv.com/glb/ssh101/cinestarteve/playlist.m3u8
 #EXTINF:0,Cine Western (Italia) (🇮🇹)
@@ -994,8 +842,6 @@ http://181.78.82.6:46090/play/a05r
 https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
 #EXTINF:0,Clubbing (USA) (🇺🇸)
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,CMC (Croacia) (🇭🇷)
-https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,CMC California Music Channel (USA) (🇺🇸)
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:0,CMTV 3 Costa Mesa's (USA) (🇺🇸)
@@ -1020,12 +866,8 @@ https://stream1.freetv.fun/cnn-1.m3u8
 https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
 #EXTINF:0,Colors Bangla (Bangladesh) (🇧🇩)
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:0,Columna (Rumania) (🇷🇴)
-http://live.columnatv.ro:1935/columnatv/live/.m3u8
 #EXTINF:0,COM Brasil (Brasil) (🇧🇷)
 https://br5093.streamingdevideo.com.br/abc/abc/.m3u8
-#EXTINF:0,Com Ulan-Udje (Rusia) (🇷🇺)
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:0,Combate (Brasil/Portugal) (🇧🇷🇵🇹)
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16703?extension=m3u8
 #EXTINF:0,CombaTV (Mexico) (🇲🇽)
@@ -1040,8 +882,6 @@ https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 https://tinyurl.com/ydckcnc2
 #EXTINF:0,Comedy Hub (UK) (🇬🇧)
 https://d2iqvao9cpdq89.cloudfront.net/playlist.m3u8
-#EXTINF:0,Comedy Play (Rumania) (🇷🇴)
-https://stream1.antenaplay.ro/live/ComedyPlay/.m3u8
 #EXTINF:0,Comet (USA) (🇺🇸)
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:0,Company (Italia) (🇮🇹)
@@ -1106,8 +946,6 @@ https://fl6.moveonjoy.com/CRAVE_2/index.m3u8
 https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:0,Crave 4 (USA) (🇺🇸)
 https://fl6.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:0,Credo (Rumania) (🇷🇴)
-http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:0,Crema (USA) (🇺🇸)
 https://tinyurl.com/4pvvj4sp
 #EXTINF:0,Creo (Peru) (🇵🇪)
@@ -1179,26 +1017,6 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/.m3u8
 http://181.114.57.246:4000/play/23Bp6Sqv99nCx5s6
 #EXTINF:0,D+ Demais (Brasil) (🇧🇷)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/.m3u8
-#EXTINF:0,Da Vinci (Rusia) (🇷🇺)
-https://wowza1.leisertv.com/live/davincilearning.stream/playlist.m3u8
-#EXTINF:0,Da Vinci (USA) (🇺🇸)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
-#EXTINF:0,Da Vinci (Uzbekistan) (🇺🇿)
-https://flussonic.salomtv.uz/Davinci/video.m3u8
-#EXTINF:0,DaAi 1 (Taiwan) (🇹🇼)
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:0,DaAi 2 (Taiwan) (🇹🇼)
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:0,Dagestan (Rusia) (🇷🇺)
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:0,Dali (Taiwan) (🇹🇼)
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:0,Dance Moms (USA) (🇺🇸)
-https://apollo.production-public.tubi.io/live/ac-dance-moms.m3u8
-#EXTINF:0,Dance Moms (USA) (🇺🇸)
-https://tinyurl.com/4jh77yry
-#EXTINF:0,DanceHits 80 (Rusia) (🇷🇺)
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0,Dao Lane Xang (Laos) (🇱🇦)
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/.m3u8
 #EXTINF:0,Darcizzle Offshore (USA) (🇺🇸)
@@ -1273,10 +1091,6 @@ http://wowza5.video-streams.nl:1935/denhaag/denhaag/.m3u8
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/.m3u8
 #EXTINF:0,Deportes TVC (Honduras) (🇭🇳)
 http://190.92.10.66:4000/play/a008
-#EXTINF:0,DerryTV 17 (USA) (🇺🇸)
-https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0,DerryTV 23 (USA) (🇺🇸)
-https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:0,Deshi (Bangladesh) (🇧🇩)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0,Desire (UK) (+18) (🇬🇧)
@@ -1303,8 +1117,6 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/.m3u8
 #EXTINF:0,Different Dreams (Corea Del Sur) (🇰🇷)
 https://tinyurl.com/4z6jyemh
-#EXTINF:0,Digi 24 (Rumania) (🇷🇴)
-https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:0,Digital Congo (Rep. Dem. Congo) (🇨🇩)
 https://tnt-television.com/DIGITAL_REGIE/index.m3u8
 #EXTINF:0,Digitel (Colombia) (🇨🇴)
@@ -1441,32 +1253,16 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/.m3u8
 http://dopachannel.truegse.com/live/dopatv03.m3u8
 #EXTINF:0,Dorcel (Multi) (+18) (🇪🇸🇫🇷🇬🇧🇵🇱)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/245/index.m3u8
-#EXTINF:0,Dotto (Rumania) (🇷🇴)
-https://dotto.edvr.ro/live/index.m3u8
-#EXTINF:0,Dove Channel (USA) (🇺🇸)
-https://dove-distro.cinedigm.com/playlist.m3u8
-#EXTINF:0,Dove Channel (USA) (🇺🇸)
-https://dovenow-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0,DR (Dinamarca) (🇩🇰)
 https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8
-#EXTINF:0,Dr. G Medical Examiner (USA) (🇺🇸)
-https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8
-#EXTINF:0,Dr. Gene Scott (USA) (🇺🇸)
-https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:0,Drone (UK) (🇬🇧)
 https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:0,Drone (USA) (🇺🇸)
-https://tinyurl.com/4jytatw4
-#EXTINF:0,Drone (USA) (🇺🇸)
-https://tinyurl.com/4ywy4mvt
 #EXTINF:0,Dry Bar Comedy (Canada) (🇨🇦)
 https://tinyurl.com/5xmmdmem
 #EXTINF:0,Dry Bar Comedy (Canada) (🇨🇦)
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Dry Bar Comedy (Nueva Zelanda) (🇳🇿)
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Dry Bar Comedy (USA) (🇺🇸)
-https://tinyurl.com/b78ra4zj
 #EXTINF:0,DS Dunia Sinema (Malasia) (🇲🇾)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:0,DSTV Dance Star (UK) (🇬🇧)
@@ -1516,12 +1312,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
 #EXTINF:0,Dubai Zaman (Emiratos) (🇦🇪)
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/.m3u8
-#EXTINF:0,Duck Dynasty (USA) (🇺🇸)
-https://apollo.production-public.tubi.io/live/ac-duck-dynasty.m3u8
-#EXTINF:0,Duck Dynasty (USA) (🇺🇸)
-https://d27ibzhjiawl1m.cloudfront.net/playlist.m3u8
-#EXTINF:0,Duck Hunting (USA) (🇺🇸)
-https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 #EXTINF:0,Dudelange (Luxemburgo) (🇱🇺)
 https://streamer20.multimedia.blue/Eltrona/DudelangeTV/.m3u8
 #EXTINF:0,Dumskaya (Ucrania) (🇺🇦)
@@ -1544,10 +1334,6 @@ http://190.83.2.172:8080/play/a02y
 https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
 #EXTINF:0,Ebenezer (Honduras) (🇭🇳)
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/.m3u8
-#EXTINF:0,Ebony (USA) (🇺🇸)
-https://d2ovuv4g3vka60.cloudfront.net/playlist.m3u8
-#EXTINF:0,Ebony (USA) (🇺🇸)
-https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8
 #EXTINF:0,EBS (Etiopia) (🇪🇹)
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 #EXTINF:0,EBS 1 (Corea Del Sur) (🇰🇷)
@@ -1586,22 +1372,12 @@ https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive/.m3u8
 https://helga.iptv2022.com/EGG_PRO_TV/index.m3u8
 #EXTINF:0,EIMC (Italia) (🇮🇹)
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/.m3u8
-#EXTINF:0,El Gourmet (Mexico) (🇲🇽)
-http://181.78.8.90:16123/play/ch27
 #EXTINF:0,El Nueve (Argentina) (🇦🇷)
 http://190.123.90.146:8000/play/a00m
 #EXTINF:0,El Nueve (Argentina) (🇦🇷)
 http://45.5.151.151:8000/play/a0ll
-#EXTINF:0,El Sonorense (Mexico) (🇲🇽)
-https://s5.mexside.net:1936/elsonorense/elsonorense/.m3u8
 #EXTINF:0,El Trece (Argentina) (🇦🇷)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0,El Tribunal Del Pueblo (USA) (🇺🇸)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-#EXTINF:0,Elbeshara GTV (USA) (🇺🇸)
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/.m3u8
-#EXTINF:0,Electric Now (USA) (🇺🇸)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=53
 #EXTINF:0,Ellef (Paises Bajos) (🇳🇱)
 http://cdn22.streampartner.nl:1935/tvellef/livestream/.m3u8
 #EXTINF:0,Elshaddai (Etiopia) (🇪🇹)
@@ -1632,8 +1408,6 @@ http://178.219.128.68:64888/EROXHD
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/.m3u8
 #EXTINF:0,Esan (Tailandia) (🇹🇭)
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
-#EXTINF:0,Escambia County (USA) (🇺🇸)
-https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/.m3u8
 #EXTINF:0,Espansione (Italia) (🇮🇹)
 https://srvx1.selftv.video/espansione/smil:live.smil/.m3u8
 #EXTINF:0,Esperia (Italia) (🇮🇹)
@@ -1750,18 +1524,6 @@ http://vcpar.myplaytv.com/esportsmax/live/.m3u8
 https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:0,ESR eSports Network (USA) (🇺🇸)
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
-#EXTINF:0,Estrella (Mexico) (🇲🇽)
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,Estrella (Mexico) (🇲🇽)
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,Estrella (Mexico) (🇲🇽)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-localnow/playlist.m3u8
-#EXTINF:0,Estrella (Mexico) (🇲🇽)
-https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
-#EXTINF:0,Estrella (Mexico) (🇲🇽)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:0,Estrella News (Mexico) (🇲🇽)
-https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Estudio (Chile) (🇨🇱)
 https://5eaccbab48461.streamlock.net:1936/8176/8176/.m3u8
 #EXTINF:0,ET Entertainment Tonight (USA) (🇺🇸)
@@ -1794,8 +1556,6 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.
 https://wowza5.leisertv.com/live/euronewshd.stream/.m3u8
 #EXTINF:0,Europa (Colombia) (🇨🇴)
 http://190.83.2.172:8080/play/a034
-#EXTINF:0,Europa Europa (Mexico) (🇲🇽)
-http://181.78.105.146:8800/play/a04v
 #EXTINF:0,Europa Play (Brasil) (🇧🇷)
 https://cdn-3.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:0,Europa Plus (Bielorrusia) (🇧🇾)
@@ -1824,10 +1584,6 @@ http://244285498241769837.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/769837.ts?ex
 http://175.107.244.52:4457/play/a06w
 #EXTINF:0,Exitosa (Peru) (🇵🇪)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:0,Expresa (Mexico) (🇲🇽)
-https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/.m3u8
-#EXTINF:0,Extra (Croacia) (🇭🇷)
-https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:0,Extreme Sports (Rusia) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/144/index.m3u8
 #EXTINF:0,Falastini (Palestina) (🇵🇸)
@@ -1854,16 +1610,12 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0,Fight Sports (USA) (🇺🇸)
 http://366561339425964141.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/964141.ts?extension=m3u8
-#EXTINF:0,Film & Arts (Mexico) (🇲🇽)
-http://190.83.2.172:8080/play/a02z
 #EXTINF:0,Fish (Brasil) (🇧🇷)
 http://244285498241855753.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/855753.ts?extension=m3u8
 #EXTINF:0,Fite (UK) (🇬🇧)
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:0,FL Sport (Guyana) (🇬🇾)
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
-#EXTINF:0,Flow Caribe (USA) (🇺🇸)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:0,Flow Sports (Trinidad Y Tobago) (🇹🇹)
 http://tvmate.icu:8080/nCqH8t/631017/79544?extension=m3u8
 #EXTINF:0,Flow Sports (Trinidad Y Tobago) (🇹🇹)
@@ -1920,16 +1672,12 @@ http://191.52.214.5:8000/play/a03b
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?country=DE&vendor=samsung
 #EXTINF:0,Grjngo (Portugal/Brasil) (🇵🇹🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0,Guinness World Records (USA) (🇺🇸)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
 #EXTINF:0,Guyana Music (Guyana) (🇬🇾)
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8
 #EXTINF:0,H&C Horse & Country (USA) (🇺🇸)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0,Hard Knocks (USA) (🇺🇸)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
-#EXTINF:0,Haz Clic (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:0,Helmond (Paises Bajos) (🇳🇱)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/.m3u8
 #EXTINF:0,HGTV (Alemania) (🇩🇪)
@@ -1958,24 +1706,11 @@ https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 https://hls.goodgame.ru/hls/191858.m3u8
 #EXTINF:0,Hustler HD (Rusia) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/244/index.m3u8
-#EXTINF:0,Hype! (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/99572?extension=m3u8
+
 #EXTINF:0,iConcerts Stingray (Alemania) (🇩🇪)
 http://244285498241971315.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/971315.ts?extension=m3u8
-#EXTINF:0,iHeart 80's (USA) (🇺🇸)
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart 90's (USA) (🇺🇸)
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,ILCE (Mexico) (🇲🇽)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
-#EXTINF:0,Imagen (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:0,Imearth (Alemania) (🇩🇪)
 http://244285498241950930.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/950930.ts?extension=m3u8
-#EXTINF:0,Impact Dance (Rumania) (🇷🇴)
-https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:0,Impact Manele (Rumania) (🇷🇴)
-https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:0,Impact Plus (USA) (🇺🇸)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=30
 #EXTINF:0,Impact Wrestling (Canada) (🇨🇦)
@@ -1998,22 +1733,9 @@ http://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:0,iTV Inter (Colombia) (🇨🇴)
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
-#EXTINF:0,J Sports 1 (Japon) (🇯🇵)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,J Sports 2 (Japon) (🇯🇵)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,J Sports 3 (Japon) (🇯🇵)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,J Sports 4 (Japon) (🇯🇵)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,Jalisco (Mexico) (🇲🇽)
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
 #EXTINF:0,JBTV Music (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2535
-#EXTINF:0,Jeffrey A Swanson Photography (USA) (🇺🇸)
-https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
-#EXTINF:0,Jeffrey A Swanson Travel Adventures (USA) (🇺🇸)
-https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8
 #EXTINF:0,JTBC Begin Again (Corea) (🇰🇷)
 https://dzcjbnn891cu2.cloudfront.net/FC00000009.m3u8
 #EXTINF:0,Juice (Nueva Zelanda) (🇳🇿)
@@ -2026,8 +1748,6 @@ http://244285498241950933.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/950933.ts?ex
 https://glb.bozztv.com/glb/ssh101/juncotv/playlist.m3u8
 #EXTINF:0,Jungle (Ucrania) (🇺🇦)
 https://iptv.prosto.tv/ch339/video.m3u8
-#EXTINF:0,Justicia (Mexico) (🇲🇽)
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/.m3u8
 #EXTINF:0,K-Heritage (Corea Del Sur) (🇰🇷)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=14
 #EXTINF:0,K19 (Austria) (🇦🇹)
@@ -2036,32 +1756,18 @@ https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 http://244285498241832158.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832158.ts?extension=m3u8
 #EXTINF:0,Kabel Eins Doku (Alemania) (🇩🇪)
 http://244285498241944709.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/944709.ts?extension=m3u8
-#EXTINF:0,Kaloopy (USA) (+18) (🇺🇸)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/2.m3u8
-#EXTINF:0,Kanal D (Rumania) (🇷🇴)
-https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:0,Kandela (Venezuela) (🇻🇪)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:0,KBS World (Corea Del Sur) (🇰🇷)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:0,Key (USA) (🇺🇸)
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/.m3u8
 #EXTINF:0,KHL (Rusia) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/519/index.m3u8
 #EXTINF:0,Kino 18+ (Rusia) (+18) (🇷🇺)
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:0,Kinowelt (Alemania) (🇩🇪)
 http://244285498241970914.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/970914.ts?extension=m3u8
-#EXTINF:0,Kiss (Rumania) (🇷🇴)
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:0,Kiss Kiss (Italia) (🇮🇹)
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/.m3u8
-#EXTINF:0,Kiss Kiss Italia (Italia) (🇮🇹)
-https://58f12ffd2447a.streamlock.net/KKTV01/livestream/.m3u8
-#EXTINF:0,Klape i Tambure (Croacia) (🇭🇷)
-https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:0,Konecta (Mexico) (🇲🇽)
-https://glb.bozztv.com/glb/ssh101/konecta/playlist.m3u8
 #EXTINF:0,Kronehit (Austria) (🇦🇹)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0,Kurai (Rusia) (🇷🇺)
@@ -2078,8 +1784,6 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 https://59d39900ebfb8.streamlock.net/top102/top102/.m3u8
 #EXTINF:0,La Top 107.7 (Honduras) (🇭🇳)
 https://59d39900ebfb8.streamlock.net/top107/top107/.m3u8
-#EXTINF:0,La Voz Grupera (Mexico) (🇲🇽)
-https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:0,La-X (Puerto Rico) (🇵🇷)
 https://stream.eleden.com/livelax/ngrp:livelax_all/.m3u8
 #EXTINF:0,Las Estrellas (Mexico) (🇲🇽)
@@ -2100,16 +1804,12 @@ http://244285498241930008.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/930008.ts?ex
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 #EXTINF:0,Little Guyana (Guyana) (🇬🇾)
 https://video1.getstreamhosting.com:1936/8122/8122/.m3u8
-#EXTINF:0,Live Cams (USA) (+18) (🇺🇸)
-https://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:0,Lobo (Mexico) (🇲🇽)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/.m3u8
 #EXTINF:0,Lobo (Mexico) (🇲🇽)
 http://streamingcws20.com:1935/lobodurango/videolobodurango/.m3u8
 #EXTINF:0,Lone Star (USA) (🇺🇸)
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0,Loupe (USA) (🇺🇸)
-https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 #EXTINF:0,Love (Macedonia) (🇲🇰)
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 #EXTINF:0,LSN Lax Sports Network (USA) (🇺🇸)
@@ -2122,10 +1822,6 @@ http://ares.mnet.mk/hls/mnet-kids.m3u8
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:0, M2 (Ucrania) (🇺🇦)
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:0,M2 Rock (USA) (🇺🇸)
-http://49.0.64.96:8007/M2ROCK
-#EXTINF:0,M4 Jazz (USA) (🇺🇸)
-http://49.0.64.96:8007/M4JAZZ
 #EXTINF:0,M4 Sport+ (Hungria) (🇭🇺)
 http://146.19.169.198:8000/play/a01m
 #EXTINF:0,Maah (Malasia) (🇲🇾)
@@ -2144,20 +1840,12 @@ https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0,Main Franken (Alemania) (🇩🇪)
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:0,MainStreet (USA) (🇺🇸)
-https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/.m3u8
 #EXTINF:0,Mais (Brasil) (🇧🇷)
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/.m3u8
 #EXTINF:0,Makan 33 (Israel) (🇮🇱)
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:0,Mangorn (Tailandia) (🇹🇭)
 http://49.0.87.24:1936/HDDragon/Dragon/.m3u8
-#EXTINF:0,Mar La Paz (Mexico) (🇲🇽)
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/.m3u8
-#EXTINF:0,Mar Puerto Vallarta (Mexico) (🇲🇽)
-https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/.m3u8
-#EXTINF:0,Maria Vision (Mexico) (🇲🇽)
-https://1601580044.rsc.cdn77.org/live/_jcn_/Mariavision/.m3u8
 #EXTINF:0,Marineret (Dinamarca) (🇩🇰)
 http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:0,Marti (Cuba) (🇨🇺)
@@ -2166,8 +1854,6 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:0,Mas (Honduras) (🇭🇳)
 https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
-#EXTINF:0,Mas (Mexico) (🇲🇽)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 #EXTINF:0,Mas Canal 23 (Puerto Rico) (🇵🇷)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/.m3u8
 #EXTINF:0,Master Show (Palaos) (🇵🇼)
@@ -2229,10 +1915,6 @@ https://video01.logicahost.com.br/redebemtv/redebemtv/.m3u8
 https://5e85d90130e77.streamlock.net/6028/6028/.m3u8
 #EXTINF:0,Metropolis 19.2 (Honduras) (🇭🇳)
 https://5e85d90130e77.streamlock.net/6014/6014/.m3u8
-#EXTINF:0,Mexiquense (Mexico) (🇲🇽)
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/.m3u8
-#EXTINF:0,Mexiquense 2 (Mexico) (🇲🇽)
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/.m3u8
 #EXTINF:0,Mezzo (Rusia) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/707/index.m3u8
 #EXTINF:0,Mezzo Live (Rusia) (🇷🇺)
@@ -2243,14 +1925,6 @@ https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:0,Miami Latino (USA) (🇺🇸)
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/.m3u8
-#EXTINF:0,Miami Mexico (USA) (+18) (🇺🇸)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
-#EXTINF:0,Migrante (Mexico) (🇲🇽)
-https://s5.mexside.net:1936/tvmigrante/tvmigrante/.m3u8
-#EXTINF:0,Milenio (Mexico) (🇲🇽)
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:0,Milenio (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:0,Minformo (Italia) (🇮🇹)
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/.m3u8
 
@@ -2262,12 +1936,6 @@ https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://amixtv.com/mntvh/index.m3u8
 #EXTINF:0,Moja (Bosnia/Herzegovina) (🇧🇦)
 https://webtvstream.bhtelecom.ba/malta.m3u8
-#EXTINF:0,Mooz Dance (Rumania) (🇷🇴)
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:0,Mooz Hits (Rumania) (🇷🇴)
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:0,Mooz RO! (Rumania) (🇷🇴)
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:0,More Than Sports (Alemania) (🇩🇪)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:0,Moto America (USA) (🇺🇸)
@@ -2330,8 +1998,6 @@ https://movil.ejeserver.com/live/mundovisiontv.m3u8
 http://244285498241333207.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/333207.ts?extension=m3u8
 #EXTINF:0,Music United States Network (USA) (🇺🇸)
 https://cloudvideo.servers10.com:8081/8036/index.m3u8
-#EXTINF:0,Music°On! (Japon) (🇯🇵)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0,MUTV (UK) (🇬🇧)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:0,Muz (Rusia) (🇷🇺)
@@ -2378,8 +2044,6 @@ http://244285498241969451.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/969451.ts?ex
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:0,Myzsika International 2 (Rusia) (🇷🇺)
 https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:0,N+ Monterrey (Mexico) (🇲🇽)
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:0,N-TV (Alemania) (🇩🇪)
 http://244285498241971287.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/971287.ts?extension=m3u8
 #EXTINF:0,N24 Doku (Alemania) (🇩🇪)
@@ -2392,8 +2056,6 @@ http://244285498241821661.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/821661.ts?ex
 http://tvmate.icu:8080/nCqH8t/631017/119447?extension=m3u8
 #EXTINF:0,National Geographic (Alemania) (🇩🇪)
 http://244285498241937993.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/937993.ts?extension=m3u8
-#EXTINF:0,Naturaleza (Mexico) (🇲🇽)
-https://is.gd/unRGK5?.m3u8
 #EXTINF:0,Nature Stream (USA) (🇺🇸)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
 #EXTINF:0,Naturescape Stingray (Canada) (🇨🇦)
@@ -2412,8 +2074,6 @@ https://fl5.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://244285498241970924.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/970924.ts?extension=m3u8
 #EXTINF:0,NE Nova Era (Brasil) (🇧🇷)
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/.m3u8
-#EXTINF:0,Neco (Japon) (🇯🇵)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0,Neo (Argentina) (🇦🇷)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:0,Neox (Argentina) (🇦🇷)
@@ -2450,12 +2110,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,NPC Musica (Portugal) (🇵🇹)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/.m3u8
-#EXTINF:0,NRT Mexico (Mexico) (🇲🇽)
-https://5c001c2729b09.streamlock.net:4443/live/canal6/.m3u8
 #EXTINF:0,NSTV (Colombia) (🇨🇴)
 https://cp.panelchs.com:1936/8162/8162/.m3u8
-#EXTINF:0,Nu9ve (Mexico) (🇲🇽)
-http://366561339425964948.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/964948.ts?extension=m3u8
 #EXTINF:0,Nubeh (Venezuela) (🇻🇪)
 https://vcp.myplaytv.com/nubehtv/nubehtv/.m3u8
 #EXTINF:0,Nueva Vida (Puerto Rico) (🇵🇷)
@@ -2486,14 +2142,10 @@ http://244285498241752971.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/752971.ts?ex
 https://amg01258-raycomsports-originsports-samsunguk-1f7fe.amagi.tv/playlist/amg01258-raycomsports-originsports-samsunguk/playlist.m3u8
 #EXTINF:0,Otaku (Brasil) (🇧🇷)
 https://stmv1.srvif.com/otaku/otaku/.m3u8
-#EXTINF:0,Outlaw (USA) (🇺🇸)
-http://173.225.32.123/KABY-CW-2364/index.m3u8
 #EXTINF:0,Oxigeno (Venezuela) (🇻🇪)
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:0,Oxygen Music (Hungria) (🇭🇺)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:0,Pac 12 Insider (USA) (🇺🇸)
-https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0,Palitra News (Georgia) (🇬🇪)
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:0,Panamericana (Peru) (🇵🇪)
@@ -2508,8 +2160,6 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34?extens
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0,Party Tyme Karaoke (UK) (🇬🇧)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
-#EXTINF:0,Party Tyme Karaoke (USA) (🇺🇸)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63
 
 #EXTINF:0,People Are Awesome (Canada) (🇨🇦)
 https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_PeopleAreAwesome/playlist.m3u8
@@ -2523,8 +2173,6 @@ https://raphls.persiana.live/hls/stream.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/nacls_mov/atvnoticiasmovil_t6.stream/playlist.m3u8
 #EXTINF:0,Peñol (Colombia) (🇨🇴)
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/.m3u8
-#EXTINF:0,PFL (USA) (🇺🇸)
-https://is.gd/GSbzpc?.m3u8
 #EXTINF:0,Phoenix (Alemania) (🇩🇪)
 http://244285498241832222.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832222.ts?extension=m3u8
 #EXTINF:0,PL Prensa Latina (Cuba) (🇨🇺)
@@ -2535,16 +2183,10 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/.m3u8
 #EXTINF:0,Playboy (Rusia) (+18) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/527/index.m3u8
-#EXTINF:0,Plugeed (USA) (🇺🇸)
-https://cdnvod.panda-os.com/livehls/5f94a9b96986fb2fd93c2d72/master.m3u8
 #EXTINF:0, PMC (Palestina) (🇵🇸)
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:0,PMC Royale (Palestina) (🇵🇸)
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:0,Poker GO (USA) (🇺🇸)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12693
-#EXTINF:0,Pop Pegajoso (USA) (🇺🇸)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:0,Portal Ativo (Brasil) (🇧🇷)
 https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:0,Power (Argentina) (🇦🇷)
@@ -2559,18 +2201,10 @@ http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4?extensi
 http://244285498241960896.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/960896.ts?extension=m3u8
 #EXTINF:0,PremierSports 2 (UK) (🇬🇧)
 http://244285498241958749.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/958749.ts?extension=m3u8
-#EXTINF:0,Presumiendo Mexico (Mexico) (🇲🇽)
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/.m3u8
-#EXTINF:0,Prima Sport 1 (Rumania) (🇷🇴)
-http://193.106.124.204:8002/play/a01l
-#EXTINF:0,Prima Sport 1 (Rumania) (🇷🇴)
-http://366561339425897225.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/897225.ts?extension=m3u8
 #EXTINF:0,Private (Rusia) (+18) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/243/index.m3u8
 #EXTINF:0,Puringla (Honduras) (🇭🇳)
 https://stmv1.srvif.com/puringla/puringla/.m3u8
-#EXTINF:0,Puro Romance (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 #EXTINF:0,PyC (Colombia) (🇨🇴)
 https://glb.bozztv.com/glb/ssh101/pyctelevision/index.m3u8
 #EXTINF:0,Pykasu (Paraguay) (🇵🇾)
@@ -2581,26 +2215,16 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/.m3u8
 #EXTINF:0,Q'hubo (Honduras) (🇭🇳)
 https://5e85d90130e77.streamlock.net/6024/6024/.m3u8
-#EXTINF:0,Qub (Rumania) (🇷🇴)
-https://live.djemba.ro/live/qubtvlive/.m3u8
-#EXTINF:0,Quietude (USA) (🇺🇸)
-https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
 #EXTINF:0,Qwest Jazz & Beyond (UK) (🇬🇧)
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,Racing America (USA) (🇺🇸)
-https://racingamerica-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Rai Sport (Italia) (🇮🇹)
 http://244285498241925667.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/925667.ts?extension=m3u8
-#EXTINF:0,Raly (Mexico) (🇲🇽)
-https://cloudvideo.servers10.com:8081/8072/index.m3u8
 #EXTINF:0,Rap (Rusia) (🇷🇺)
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/17034/index.m3u8
 #EXTINF:0,RBA (Brasil) (🇧🇷)
 https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:0,RBTV Total Play (Brasil) (🇧🇷)
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:0,RCG (Mexico) (🇲🇽)
-https://video1.getstreamhosting.com:1936/8172/8172/.m3u8
 #EXTINF:0,RCM (Nueva Zelanda) (🇳🇿)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:0,RCN (Colombia) (🇨🇴)
@@ -2619,16 +2243,10 @@ https://59d39900ebfb8.streamlock.net/rcv/rcv/.m3u8
 http://tvmate.icu:8080/nCqH8t/631017/57490?extension=m3u8
 #EXTINF:0,RDS 2 (Canada) (🇨🇦)
 http://244285498241967499.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/967499.ts?extension=m3u8
-#EXTINF:0,RE (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/21094?extension=m3u8
-#EXTINF:0,Real Wild Docubox (USA) (🇺🇸)
-http://tvmate.icu:8080/nCqH8t/631017/119451?extension=m3u8
 #EXTINF:0,Record News (Brasil) (🇧🇷)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:0,Recreation (Ucrania) (🇺🇦)
 https://iptv.prosto.tv/ch324/video.m3u8
-#EXTINF:0,Red Bull (USA) (🇺🇸)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:0,Red+ (Colombia) (🇨🇴)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
@@ -2650,16 +2268,10 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:0,Revry LatinX (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
-#EXTINF:0,Ritmos Inolvidables (USA) (🇺🇸)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:0,RNF (Alemania) (🇩🇪)
 http://244285498241832228.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832228.ts?extension=m3u8
 #EXTINF:0,Rock (Macedonia) (🇲🇰)
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:0,Rock (Rumania) (🇷🇴)
-http://244285498241953917.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/953917.ts?extension=m3u8
-#EXTINF:0,Rompe Tus Limites (USA) (🇺🇸)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 #EXTINF:0,RPM (Sudafrica) (🇿🇦)
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 #EXTINF:0,RSV (Honduras) (🇭🇳)
@@ -2677,16 +2289,8 @@ http://244285498241875495.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/875495.ts?ex
 #EXTINF:0,RTL Zwei (Alemania) (🇩🇪)
 http://244285498241886087.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/886087.ts?extension=m3u8
 
-#EXTINF:0,RTQ Quetetaro (Mexico) (🇲🇽)
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/.m3u8
-#EXTINF:0,RTS 2 (Suiza) (🇨🇭)
-http://244285498241316600.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/316600.ts?extension=m3u8
-#EXTINF:0,RTS Couleur 3 (Suiza) (🇨🇭)
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:0,RU Music (Rusia) (🇷🇺)
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:0,Rush Sports (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/100043?extension=m3u8
 #EXTINF:0, Russian (USA) (+18) (🇺🇸)
 https://cdn.adultiptv.net/russian.m3u8
 #EXTINF:0,Russian Night (Rusia) (+18) (🇷🇺)
@@ -2725,8 +2329,6 @@ https://is.gd/iMFQyY?.m3u8
 https://s1.merlive.am/Sci-Fi/index.m3u8
 #EXTINF:0,Scottsdale (USA) (🇺🇸)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/.m3u8
-#EXTINF:0,ScreamBox (USA) (🇺🇸)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
 #EXTINF:0,SEC Network (USA) (🇺🇸)
 https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:0,Setanta Sports (Ucrania) (🇺🇦)
@@ -2737,16 +2339,6 @@ http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/271/index.m3u8
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/270/index.m3u8
 #EXTINF:0,Señal Colombia (Colombia) (🇨🇴)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/.m3u8
-#EXTINF:0,Sicom 16.1 (Mexico) (🇲🇽)
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/.m3u8
-#EXTINF:0,Sicom 16.2 (Mexico) (🇲🇽)
-https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/.m3u8
-#EXTINF:0,SideWalks (USA) (🇺🇸)
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:0,Sipse (Mexico) (🇲🇽)
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:0,Sipse TVCun (Mexico) (🇲🇽)
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:0,SIXX (Alemania) (🇩🇪)
 http://244285498241903273.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/903273.ts?extension=m3u8
 #EXTINF:0,Sizart Canal 24 (Mexico) (🇲🇽)
@@ -2839,8 +2431,6 @@ https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:0,Sony Channel (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16700?extension=m3u8
-#EXTINF:0,Sony Competencias (Mexico) (🇲🇽)
-https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Sorrriso (Italia) (🇮🇹)
 https://tvd-sorrr.fluid.stream/RadioSorrrisoTV/livestream/.m3u8
 #EXTINF:0,SOS Kanal Plus (Serbia) (🇷🇸)
@@ -2869,10 +2459,6 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 http://244285498241869884.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/869884.ts?extension=m3u8
 #EXTINF:0,Sports Connect (Sudafrica) (🇿🇦)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-#EXTINF:0,Sports Max (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/99569?extension=m3u8
-#EXTINF:0,Sports Max 2 (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/119471?extension=m3u8
 #EXTINF:0,SportsNet 360 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/57299?extension=m3u8
 #EXTINF:0,SportsNet One (Canada) (🇨🇦)
@@ -2887,24 +2473,18 @@ http://tvmate.icu:8080/nCqH8t/631017/75675?extension=m3u8
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14?extension=m3u8
 #EXTINF:0,Sportv 2 (Brasil/Portugal) (🇧🇷🇵🇹)
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9?extension=m3u8
-#EXTINF:0,Stadium (USA) (🇺🇸)
-https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8
 #EXTINF:0,Star Channel (Colombia) (🇨🇴)
 http://200.52.150.5:8000/play/a0si
 #EXTINF:0,Star Channel (Mexico) (🇲🇽)
 http://190.83.2.172:8081/play/a05a
 #EXTINF:0,Star Plus Music (Macedonia) (🇲🇰)
 https://live.muzickatv.mk/live/StarMusic2.m3u8
-#EXTINF:0,Stream Uno (USA) (🇺🇸)
-https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:0,Strongman (Paises Bajos) (🇳🇱)
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,STS Kids (Rusia) (🇷🇺)
 https://stream02.vnet.am/DisneyChannel/index.m3u8
 #EXTINF:0,Studio (Brasil) (🇧🇷)
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF:0,Super (Rumania) (🇷🇴)
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:0,Super Canal (Peru) (🇵🇪)
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:0,Superyacht (Monaco) (🇲🇨)
@@ -2925,40 +2505,24 @@ http://244285498241832285.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832285.ts?ex
 https://glb.bozztv.com/glb/ssh101/animacion/playlist.m3u8
 #EXTINF:0,TBO (Brasil) (🇧🇷)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/.m3u8
-#EXTINF:0, Techno Dance Music (Rusia) (🇷🇺)
-https://hls.goodgame.ru/hls/180509.m3u8
-#EXTINF:0,Teen (USA) (+18) (🇺🇸)
-https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:0,Tele 5 (Alemania) (🇩🇪)
 http://244285498241832286.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832286.ts?extension=m3u8
-#EXTINF:0,Tele 7 Music (Rumania) (🇷🇴)
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:0,Tele Gold (Alemania) (🇩🇪)
 http://188.60.179.180:8000/play/xxDTMusikFernsehenyy
 #EXTINF:0,Tele Musica (Colombia) (🇨🇴)
 https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:0,Tele Ritmo (Mexico) (🇲🇽)
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0,Tele Saltillo (Mexico) (🇲🇽)
-https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:0,Tele San Jacinto (Colombia) (🇨🇴)
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:0,TeleAntioquia (Colombia) (🇨🇴)
 http://tvmate.icu:8080/nCqH8t/631017/78706?extension=m3u8
 #EXTINF:0,TeleAruba (Paises Bajos) (🇳🇱)
 http://tvmate.icu:8080/nCqH8t/631017/99574?extension=m3u8
-#EXTINF:0,TeleBielingue (Suiza) (🇨🇭)
-https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/.m3u8
 #EXTINF:0,Telecafe (Colombia) (🇨🇴)
 http://tvmate.icu:8080/nCqH8t/631017/78726?extension=m3u8
 #EXTINF:0,Telecolor (Peru) (🇵🇪)
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:0,TeleDiario (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:0,Teleformula (Mexico) (🇲🇽)
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:0,TeleFormula (Mexico) (🇲🇽)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:0,Teleislas (Colombia) (🇨🇴)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/.m3u8
 #EXTINF:0,Telemax (Mexico) (🇲🇽)
@@ -2989,28 +2553,16 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 #EXTINF:0,Televilla (Colombia) (🇨🇴)
 https://cp.panelchs.com:1936/8060/8060/.m3u8
-#EXTINF:0,Tempo Afric (USA) (🇺🇸)
-https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 #EXTINF:0,Tennis Channel (USA) (🇺🇸)
 https://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:0,The Africa Channel (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/99567
 #EXTINF:0,The Archive (USA) (🇺🇸)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=93
 #EXTINF:0,The Boat Show (UK) (🇬🇧)
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
-#EXTINF:0,The Bob Ross Channel (USA) (🇺🇸)
-https://d2lpbza53l2e86.cloudfront.net/playlist.m3u8
-#EXTINF:0,The Country Network (USA) (🇺🇸)
-https://d39uqn16w2n0w1.cloudfront.net/scte35/index.m3u8
-#EXTINF:0,The Grio (USA) (🇺🇸)
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0,The Guardian (UK) (🇬🇧)
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8
 #EXTINF:0,The Spa Stingray (Canada) (🇨🇦)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,The Ultimate Music (USA) (🇺🇸)
-https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
 #EXTINF:0,ThePapare (Sri Lanka) (🇱🇰)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269552.ts?extension=m3u8
 #EXTINF:0,TidPix (Kenia) (🇰🇪)
@@ -3024,14 +2576,8 @@ https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:0,TLC (Alemania) (🇩🇪)
 http://244285498241894161.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/894161.ts?extension=m3u8
 
-#EXTINF:0,TMF RUS (Rusia) (🇷🇺)
-https://hls.goodgame.ru/hls/201891.m3u8
 #EXTINF:0,TNT (Brasil) (🇧🇷)
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27?extension=m3u8
-#EXTINF:0,TNT Music (Rusia) (🇷🇺)
-http://195.26.83.96:7029/play/9
-#EXTINF:0,TNT Music (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/710/index.m3u8
 #EXTINF:0,TNT Sports 1 (USA) (🇺🇸)
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/53708.ts?extension=m3u8
 #EXTINF:0,TNT Sports 2 (USA) (🇺🇸)
@@ -3052,8 +2598,6 @@ https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/topmixtv/.m3u8
 #EXTINF:0,Topestrada (Macedonia) (🇲🇰)
 http://live.topestrada.com/live/topestrada/index.m3u8
-#EXTINF:0,TR Rodeo (USA) (🇺🇸)
-https://tinyurl.com/6ksndkpa?.m3u8
 #EXTINF:0,TR Sport (Italia) (🇮🇹)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:0,Trace Brasil (Brasil) (🇧🇷)
@@ -3112,38 +2656,16 @@ http://244285498241422919.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/422919.ts?ex
 http://tvmate.icu:8080/nCqH8t/631017/99861?extension=m3u8
 #EXTINF:0,TVI Reality (Portugal) (🇵🇹)
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:0,TVJ (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/78918?extension=m3u8
-#EXTINF:0,TVJ Sports (Jamaica) (🇯🇲)
-http://tvmate.icu:8080/nCqH8t/631017/66077?extension=m3u8
-#EXTINF:0,TVM 3 (Suiza) (🇨🇭)
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/.m3u8
 #EXTINF:0,TVM Channel (Rusia) (🇷🇺)
 http://cdn-01.bonus-tv.ru:80/tvm_edge/index.m3u8
-#EXTINF:0,TVP Culiacan (Mexico) (🇲🇽)
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/.m3u8
-#EXTINF:0,TVP Los Mochis (Mexico) (🇲🇽)
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 #EXTINF:0,TVP Publica (Argentina) (🇦🇷)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
 #EXTINF:0,TVR (Chile) (🇨🇱)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:0,TyC Sports (Argentina) (🇦🇷)
-http://181.78.105.146:2000/play/a095
 #EXTINF:0,UCL (Uruguay) (🇺🇾)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:0,UFC Fight (Brasil/Portugal) (🇧🇷🇵🇹)
 http://244285498241827642.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827642.ts?extension=m3u8
-#EXTINF:0,Ujat (Mexico) (🇲🇽)
-https://5e50264bd6766.streamlock.net/ujat/videoujat/.m3u8
-#EXTINF:0,Ultra (Mexico) (🇲🇽)
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
-#EXTINF:0,UMTV (Mexico) (🇲🇽)
-https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/.m3u8
-#EXTINF:0,UNAM (Mexico) (🇲🇽)
-https://s5.mexside.net:1936/tvunam/tvunam/.m3u8
-#EXTINF:0,Unbeaten (USA) (🇺🇸)
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0,Uni Teve (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:0,Unicable (Mexico) (🇲🇽)
@@ -3169,12 +2691,6 @@ https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0,VA+ (Mexico) (🇲🇽)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/.m3u8
-#EXTINF:0,VAM Vid's & More (Curazao) (🇨🇼)
-https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
-#EXTINF:0,VB Media (Mexico) (🇲🇽)
-https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:0,Venus Media (Paraguay) (🇵🇾)
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 #EXTINF:0,Veo (Colombia) (🇨🇴)
 https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:0,Vepaco (Venezuela) (🇻🇪)
@@ -3183,12 +2699,6 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 #EXTINF:0,Vevo Retro Rock (Australia) (🇦🇺)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:0,Viju Sport (Rusia) (🇷🇺)
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/160/index.m3u8
-#EXTINF:0,VIVA (Rusia) (🇷🇺)
-https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0,VIVA (Rusia) (🇷🇺)
-https://glb.bozztv.com/glb/ssh101/vivarussia/playlist.m3u8
 #EXTINF:0,Vivo (Uruguay) (🇺🇾)
 https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:0,Volksmusik (Alemania) (🇩🇪)
@@ -3218,18 +2728,12 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/106.m3u8
 https://iptv.prosto.tv/ch329/video.m3u8
 #EXTINF:0,WDR Fernsehen (Alemania) (🇩🇪)
 http://244285498241970981.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/970981.ts?extension=m3u8
-#EXTINF:0,We Love Cars (USA) (🇺🇸)
-https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:0,Weather Spy (Brasil) (🇧🇷)
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Wedo Movies (Alemania) (🇩🇪)
 http://244285498241970991.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/970991.ts?extension=m3u8
 #EXTINF:0,Welt Der Wunder (Alemania) (🇩🇪)
 http://244285498241951151.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/951151.ts?extension=m3u8
-#EXTINF:0,Western Bound (USA) (🇺🇸)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12681
-#EXTINF:0,Wild Earth (USA) (🇺🇸)
-https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:0,Win Sports (Colombia) (🇨🇴)
 http://244285498241949379.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/949379.ts?extension=m3u8
 #EXTINF:0,Win Sports (Colombia) (🇨🇴)
@@ -3240,8 +2744,6 @@ http://244285498241946102.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/946102.ts?ex
 http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
 #EXTINF:0,World Fishing Network (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/57471?extension=m3u8
-#EXTINF:0,Wu-Tang Collection (USA) (🇺🇸)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 #EXTINF:0,X Sport+ (Ucrania) (🇺🇦)
 http://45.143.108.104:80/XSPORT_SD/index.m3u8
 #EXTINF:0,X-Stream (Ucrania) (🇺🇦)
@@ -3252,23 +2754,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:0,XITE 80's Flashback (Canada) (🇨🇦)
 https://d19xo51z4ig5jl.cloudfront.net/playlist.m3u8
-#EXTINF:0,XITE 90's Throwback (USA) (🇺🇸)
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
 #EXTINF:0,Xite Celebrates (USA) (🇺🇸)
 https://d3jrybhjdqht1p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zif4invbz9iap/playlist.m3u8
 #EXTINF:0,XITE Hits (UK) (🇬🇧)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
-#EXTINF:0,XITE Just Chill (USA) (🇺🇸)
-https://d3ai750ol9my06.cloudfront.net/playlist.m3u8
 #EXTINF:0,XITE Rock On (Alemania) (🇩🇪)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-rockoneu-samsungde/playlist.m3u8
-#EXTINF:0,XITE Rock On (USA) (🇺🇸)
-https://dri82941jql2y.cloudfront.net/playlist.m3u8
 
 #EXTINF:0,Yeeaah (Brasil) (🇧🇷)
 https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
-#EXTINF:0,YES Network (USA) (🇺🇸)
-https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:0,Zerouno (Italia) (🇮🇹)
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/.m3u8
 #EXTINF:0,Zeta (Italia) (🇮🇹)
