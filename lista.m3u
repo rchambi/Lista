@@ -58,6 +58,38 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://deredes.tv/wp-content/uploads/2022/05/Bolivia-tv-Oficial-on-Twitter.jpg" group-title="CANALES DE BOLIVIA", Bolivia TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
+~#EXTINF:0,Bolivision (Bolivia) (🇧🇴)
+~https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+~#EXTINF:0,Bolivia 7.1 (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
+#EXTINF:0,Bolivia 7.2 (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
+#EXTINF:0,Cadena A (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Cadena A (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/.m3u8
+#EXTINF:0,Cristal (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+#EXTINF:0,DTV (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Mega (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
+#EXTINF:0,Pat (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Red Uno (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:0,RTP (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Unitel (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Unitel (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+http://master.tucableip.com/movil/index.m3u8
+#EXTINF:0,VTV Canal 17 (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
+#EXTINF:0,ATB (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+
 #EXTINF:-1,TYC SPORTS OPCION2
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
@@ -82,24 +114,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
 
-#EXTINF:0,Bolivision (Bolivia) (🇧🇴)
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,Bolivia 7.1 (Bolivia) (🇧🇴)
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
-#EXTINF:0,Bolivia 7.2 (Bolivia) (🇧🇴)
-https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
-#EXTINF:0,Red Uno (Bolivia) (🇧🇴)
-https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:0,RTP (Bolivia) (🇧🇴)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
-#EXTINF:0,Unitel (Bolivia) (🇧🇴)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:0,Unitel (Bolivia) (🇧🇴)
-http://master.tucableip.com/movil/index.m3u8
-#EXTINF:0,VTV Canal 17 (Bolivia) (🇧🇴)
-https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
-#EXTINF:0,ATB (Bolivia) (🇧🇴)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
 
 
 
@@ -2920,4 +2935,3 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
