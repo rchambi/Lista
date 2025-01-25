@@ -58,9 +58,9 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://deredes.tv/wp-content/uploads/2022/05/Bolivia-tv-Oficial-on-Twitter.jpg" group-title="CANALES DE BOLIVIA", Bolivia TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-~#EXTINF:0,Bolivision (Bolivia) (🇧🇴)
-~https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-~#EXTINF:0,Bolivia 7.1 (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+#EXTINF:0,Bolivision (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,Bolivia 7.1 (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
 #EXTINF:0,Bolivia 7.2 (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
 https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
@@ -70,7 +70,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/.m3u8
 #EXTINF:0,Cristal (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
-#EXTINF:0,DTV (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
+#EXTINF:0,DTV (Bolivia), group-title="CANALES DE BOLIVIA"
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 #EXTINF:0,Mega (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
