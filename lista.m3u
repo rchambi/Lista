@@ -2931,7 +2931,6 @@ https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tu
 
 
 
-
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
@@ -3163,3 +3162,10 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="CANALES DE ARG",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="CANALES DE ARG",TELE FE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="CANALES DE ARG",CANAL26
+https://www.youtube.com/watch?v=35LSnUPu5RY
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
+https://www.youtube.com/watch?v=Xj1boMmMJKU
