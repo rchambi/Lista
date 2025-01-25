@@ -70,7 +70,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/.m3u8
 #EXTINF:0,Cristal (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
-#EXTINF:0,DTV (Bolivia), group-title="CANALES DE BOLIVIA"
+#EXTINF:-1  group-title="CANALES DE BOLIVIA", DTV (Bolivia) (🇧🇴)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 #EXTINF:0,Mega (Bolivia) (🇧🇴), group-title="CANALES DE BOLIVIA"
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
