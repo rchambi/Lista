@@ -3162,10 +3162,12 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="CANALES DE ARG",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="CANALES DE ARG",TELE FE
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="CANALES DE ARG",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="CANALES DE ARG",CANAL26
-https://www.youtube.com/watch?v=35LSnUPu5RY
+#https://www.youtube.com/watch?v=35LSnUPu5RY
+https://anym3u8player.com/youtube.php/id/6795a555bed8f.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
-https://www.youtube.com/watch?v=Xj1boMmMJKU
+https://anym3u8player.com/youtube.php/id/6795a37984825.m3u8
+# https://anym3u8player.com/yt/
