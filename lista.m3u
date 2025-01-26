@@ -118,7 +118,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A (Bolivia)  
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A (Bolivia)  
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/.m3u8
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Cristal (Bolivia)  
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1  group-title="CANALES DE BOLIVIA", DTV (Bolivia) 
@@ -127,8 +127,13 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat (Bolivia)  
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat Oficial Santa Cruz
+https://w8.redpat.tv:7777/play/110/index.m3u8
+
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno (Bolivia)  
 https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno Oficial 
+https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", RTP (Bolivia)  
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel (Bolivia)  
@@ -3085,6 +3090,9 @@ https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="CANALES DE BOLIVIA v2",RED GIGAVISION SCZ HD
 https://tv.bitstreaming.net:3348/multi_web/play_720.m3u8
 
+#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="CANALES DE BOLIVIA",GIGAVISION SCZ HD
+https://master.tucableip.com/gigavision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="FAP TV" tvg-logo="https://i.postimg.cc/dVshPDR9/FAP-TV.jpg" group-title="CANALES DE BOLIVIA v2",FAP TV HD
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
@@ -3105,7 +3113,8 @@ https://www.dailymotion.com/video/x8ra7t7
 https://www.dailymotion.com/video/x84eirw
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/rsMNSB0D/ATB-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC", ATB SCZ HD
-https://www.dailymotion.com/video/x84t82c
+#https://www.dailymotion.com/video/x84t82c
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
 https://www.dailymotion.com/video/x7vsfua
