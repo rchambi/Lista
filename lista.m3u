@@ -3,8 +3,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina", AN24 (Argentina) 
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/.m3u8
-#EXTINF:-1 group-title="Argentina", group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Argentina", group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CiUSAd_magazine_logo.png/640px-CiUSAd_magazine_logo.png" CiUSAd Magazine
+https://livetrx01.vodgc.net/live-01-07-ciUSAd.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Argentina", tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" 13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
@@ -25,8 +25,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina", tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 group-title="Argentina", tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 group-title="Argentina", tvg-id="CiUSAdMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" CiUSAd Magazine
+https://live-01-07-ciUSAd.vodgc.net/live-01-07-ciUSAd.vodgc.net/index.m3u8
 
 
 #EXTINF:-1 group-title="Argentina", tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" Magic Kids
@@ -54,9 +54,9 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 http://181.78.105.146:8800/play/a05a
 #EXTINF:-1 group-title="Argentina", Cosmos (Argentina) 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 group-title="Argentina", Ciudad Magazine (Argentina) 
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 group-title="Argentina", Ciudad Magica (Argentina) 
+#EXTINF:-1 group-title="Argentina", CiUSAd Magazine (Argentina) 
+https://live-01-07-ciUSAd.vodgc.net/live-01-07-ciUSAd.vodgc.net/index.m3u8
+#EXTINF:-1 group-title="Argentina", CiUSAd Magica (Argentina) 
 https://glb.bozztv.com/glb/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 group-title="Argentina", Cinecanal (Argentina) 
 http://38.180.133.31:8000/play/a0p4
@@ -86,7 +86,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 http://190.60.32.178:8178/play/a0aa
 #EXTINF:-1 group-title="Argentina", Orbe 21 (Argentina) 
 http://244285498241909076.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/909076.ts?extension=m3u8
-#EXTINF:-1 group-title="Argentina", AXN (Argentina/USA) (🇦🇷🇺🇸)
+#EXTINF:-1 group-title="Argentina", AXN (Argentina/USA) 
 http://181.78.105.146:6060/play/a04m
 #EXTINF:-1 group-title="Argentina", America Sports (Argentina) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
@@ -571,7 +571,7 @@ https://cdn.adultiptv.net/blowjob.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/.m3u8
 #EXTINF:0,BM Bruno Masi (Paraguay) (🇵🇾)
 https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/.m3u8
-#EXTINF:0,BOK (Sudafrica) (🇿🇦)
+#EXTINF:0,BOK (SUSAfrica) (🇿🇦)
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
 #EXTINF:0,Boks (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
 https://stream01.vnet.am/BoksTv/index.m3u8
@@ -850,7 +850,7 @@ http://181.78.8.90:16123/play/ch10
 http://181.114.57.246:4000/play/ppDuxzpFe2YZtbph
 #EXTINF:0,Cinema (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
 https://s1.merlive.am/sinemahd/index.m3u8
-#EXTINF:0,Cinema Hausa (Sudafrica) (🇿🇦)
+#EXTINF:0,Cinema Hausa (SUSAfrica) (🇿🇦)
 https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
 #EXTINF:0,Cinema Segreto (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
@@ -1117,7 +1117,7 @@ http://190.121.42.18:8000/play/a016
 https://tinyurl.com/2xfbj436
 #EXTINF:0,Deejay (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/.m3u8
-#EXTINF:0,Deen (Sudafrica) (🇿🇦)
+#EXTINF:0,Deen (SUSAfrica) (🇿🇦)
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:0,Deepto (Bangladesh) (🇧🇩)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -2267,7 +2267,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
 http://244285498241832228.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832228.ts?extension=m3u8
 #EXTINF:0,Rock (Macedonia) (🇲🇰)
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:0,RPM (Sudafrica) (🇿🇦)
+#EXTINF:0,RPM (SUSAfrica) (🇿🇦)
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 #EXTINF:0,RSV (Honduras) (🇭🇳)
 https://stmv1.srvif.com/rsvhonduras/rsvhonduras/.m3u8
@@ -2438,7 +2438,7 @@ https://glb.bozztv.com/glb/ssh101/sportklub1srb/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Sport1 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 http://244285498241869884.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/869884.ts?extension=m3u8
-#EXTINF:0,Sports Connect (Sudafrica) (🇿🇦)
+#EXTINF:0,Sports Connect (SUSAfrica) (🇿🇦)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 #EXTINF:0,SportsNet 360 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/57299?extension=m3u8
@@ -3143,31 +3143,29 @@ https://d1svme839xkbsn.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg" group-title="CANALES DE PERU",ATV PE HD
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJBhNswr/TLMD.jpg" group-title="CANALES DE UDA",TELEMUNDO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJBhNswr/TLMD.jpg" group-title="CANALES DE USA",TELEMUNDO HD
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="CANALES DE ARG",EL TRECE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="Argentina",EL TRECE HD
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="CANALES DE ARG", CRONICA TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="Argentina", CRONICA TV HD
 https://g5.mc-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T16tVjFT/TVP-ARGENTINA.jpg" group-title="CANALES DE ARG",TVP ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T16tVjFT/TVP-ARGENTINA.jpg" group-title="Argentina",TVP ARGENTINA HD
 https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="CANALES DE ARG",EWTN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="Argentina",EWTN HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="CANALES DE ARG",NET TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Argentina",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="CANALES DE ARG",TELEFE
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="CANALES DE ARG",CANAL26
-#https://www.youtube.com/watch?v=35LSnUPu5RY
-https://anym3u8player.com/youtube.php/id/6795a555bed8f.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina",CANAL26
+https://www.youtube.com/watch?v=35LSnUPu5RY/HLS
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="Argentina",C5N
 https://www.youtube.com/watch?v=Xj1boMmMJKU/HLS
-# https://anym3u8player.com/yt/
