@@ -3176,5 +3176,5 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina",CANAL26
 https://www.youtube.com/watch?v=35LSnUPu5RY/HLS
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="Argentina",C5N
+#EXTINF:-1 tvg-chno="5" group-title="Argentina",C5N
 https://www.youtube.com/watch?v=Xj1boMmMJKU/HLS
