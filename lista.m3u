@@ -103,11 +103,12 @@ https://www.youtube.com/watch?v=Xj1boMmMJKU/HLS
 
 
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA",ATB HD
+#EXTINF:-1 group-title="CANALES DE BOLIVIA",ATB BOLIVIA 
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Bolivia TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
@@ -117,28 +118,37 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Bolivia 7.2 (Bolivia)  
 https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A (Bolivia)  
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A (Bolivia)  
+
+
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A - No 24hrs (Bolivia)  
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w195859145.m3u8
+
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Cristal (Bolivia)  
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", DTV (Bolivia) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
+
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Mega (Bolivia)  
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat (Bolivia)  
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT LA PAZ HD
+https://www.redpat.tv/proxy/index.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat Oficial Santa Cruz
-https://w8.redpat.tv:7777/play/110/index.m3u8
+https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno (Bolivia)  
-https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno Oficial 
-https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno HD COCHABAMBA
+https://live-b.cf.dmcdn.net/sec2(iBLd-JzF8jj1ya8PZpoMMufKk0OepfKCvHvMHysP9Doiat7T8O_Og0vFZ_v8P96DhdFRY_GOXfeMDU4vGCpSe9aZd0JUwTdwU7BG-mVSprnqiMnPGaiIoGypdFX8vk_r)/dm/3/x905w7a/d/live-380.m3u8
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno HD LA PAZ
+
+https://live-c.cf.dmcdn.net/sec2(dxK0EdBqm7MfGSmcMREs86kHHTQrd6Tn0aSnjADDPMrV7svmLAQnjgYXMOI9qIsnAZiMV_4PTaeHJQXEYnWHwaxst73odiFaLTM4YuGt2cC3Esa0AmksAViYwuwrHfLF)/dm/3/x8vzlqi/d/live-240.m3u8
+
+
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Red Uno HD  SANTA CRUZ
+https://live-b.cf.dmcdn.net/sec2(42MG2RMZZLXuq9U3sE5ovQbAW3ydIFlIba5klfS2Wwpvz6NHyYwCy-NAY_-cB05PqOZZ7xfXBzMahafyppiJedv9ade4f9llcxV2CUMfGyjSIG0m19VuKOkdvkfhpDDo)/dm/3/x98uwpi/d/live-720.m3u8
+
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", RTP (Bolivia)  
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel (Bolivia)  
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel HD (Bolivia)  
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel (Bolivia)  
 http://master.tucableip.com/movil/index.m3u8
@@ -2881,9 +2891,6 @@ https://seo.tv.bo/tv/ISEO-TV-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA v2",PAT SANTA CRUZ HD
 https://fl1004.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA v2",PAT LA PAZ HD
-https://www.redpat.tv/proxy/index.m3u8
-
 
 
 
@@ -2950,6 +2957,7 @@ https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
 #EXTINF:-1 tvg-id="DTV BOLIVIA" tvg-logo="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg" group-title="CANALES DE BOLIVIA v2",RED DTV HD
 https://master.tucableip.com//dtvsc/tracks-v1a1/mono.m3u8
+#https://master.tucableip.com//dtvsc/playlist.m3u8  DE SU PAGINA
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA v2",GOGOPLAY TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
