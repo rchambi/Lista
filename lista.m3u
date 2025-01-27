@@ -291,8 +291,7 @@ https://tinyurl.com/fy882sry
 https://d2hnz12weo628w.cloudfront.net/samsung.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,Amazon Sat (Brasil)  
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:0,AMC (Chile) (🇨🇱)
-https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", AMC (Colombia) 
 http://181.78.105.146:6060/play/a02h
 #EXTINF:0 group-title="CANALES DE MEXICO", AMC (Mexico) 
@@ -334,14 +333,10 @@ https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
 
 #EXTINF:0 group-title="CANALES DE COLOMBIA", ANC (Colombia) 
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
-#EXTINF:0,ANC (Filipinas) (🇵🇭)
-https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:0,Andorra (Andorra) (🇦🇩)
-https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8
+
 #EXTINF:0,Andromeda (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://tinyurl.com/5n7d8ufy
-#EXTINF:0,Animal Planet (Chile) (🇨🇱)
-http://191.52.214.5:8000/play/a038
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", Animal Planet (Colombia) 
 http://181.78.82.6:46090/play/a01v
 #EXTINF:0 group-title="CANALES DE MEXICO", Animal Planet (Mexico) 
@@ -444,8 +439,6 @@ https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0,Ax Men (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
 https://tinyurl.com/4tmkrkx2
 
-#EXTINF:0,AXN (Chile) (🇨🇱)
-http://45.169.163.83:8000/play/a18g
 #EXTINF:0,AXN (Colombia/USA) (🇨🇴🇺🇸)
 http://190.83.2.172:8081/play/a06t
 #EXTINF:0,AXN (Mexico/USA) (🇲🇽🇺🇸)
@@ -638,8 +631,6 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
 #EXTINF:0,BTV Bardejovska (Eslovaquia) (🇸🇰)
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
-#EXTINF:0 group-title="CANALES DE PORTUGAL" ,BTV Benfica (Portugal) 
-http://176.65.146.108:8022/play/a06k
 #EXTINF:0,Buena (Puerto Rico) (🇵🇷)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,Buena Park (USA) 
@@ -668,10 +659,7 @@ https://59959724487e3.streamlock.net/stream/live/.m3u8
 https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.m3u8?drm_optional=1
 #EXTINF:0,C1 (Mongolia) (🇲🇳)
 https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
-#EXTINF:0,C1 Cinema One (Filipinas) (🇵🇭)
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:0,C13 (Chile) (🇨🇱)
-https://marine2.miplay.cl/c13/playlist.m3u8
+
 #EXTINF:0,C3 Benin (Benin) (🇧🇯)
 https://live.creacast.com/bluediamond/stream/.m3u8
 #EXTINF:0,C31 Melbourne (Australia) (🇦🇺) group-title="CANALES DE AUSTRALIA"
@@ -691,8 +679,6 @@ https://srvx1.selftv.video/cafe/live/.m3u8
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:0,Cambyreta (Paraguay) (🇵🇾)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL" ,Camoes (Portugal) 
-https://tinyurl.com/bzr226pz
 #EXTINF:0 group-title="CANALES DE USA" ,Camp Spoopy (USA) 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:0 group-title="CANALES DE USA" ,Campus Lore Sports (USA) 
@@ -701,8 +687,6 @@ https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
 https://tinyurl.com/4t54ftdy
 #EXTINF:0,Canada One (Canada) (🇨🇦)
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:0,Canal 24 Horas (Chile) (🇨🇱)
-https://tinyurl.com/3y4pcy59
 #EXTINF:0 group-title="CANALES DE BRASIL" ,Canal 25 Jundiai (Brasil)  
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,Canal 38 (Brasil)  
@@ -804,8 +788,7 @@ https://bozztv.com/gusa/gusa-chefrock/index.m3u8
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:0,Chernivtsi Promin (Ucrania) (🇺🇦)
 https://langate.tv/promin/live_720/index.m3u8
-#EXTINF:0,Chilevision (Chile) (🇨🇱)
-https://marine2.miplay.cl/chvchile/index.m3u8
+
 #EXTINF:0,Chivacoa (Venezuela) (🇻🇪)
 https://glb.bozztv.com/glb/ssh101/1234chivacoa/playlist.m3u8
 #EXTINF:0,Choluteca (Honduras) (🇭🇳)
@@ -831,17 +814,41 @@ http://181.78.8.90:16123/play/ch51
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 #EXTINF:0,Cine Madame (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://tinyurl.com/yvdk42d6
-#EXTINF:0,Cine Mo! (Filipinas) (🇵🇭)
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:0,Cine Mundo (Portugal/Brasil) (🇵🇹🇧🇷)
 http://176.65.146.108:8022/play/a05f
-#EXTINF:0,Cine Star (Chile) (🇨🇱)
-https://glb.bozztv.com/glb/ssh101/cinestarteve/playlist.m3u8
 #EXTINF:0,Cine Western (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://tinyurl.com/2njhat83
 
-#EXTINF:0,Cinecanal (Chile) (🇨🇱)
+#EXTINF:0 group-title="CANALES DE CHILE" ,Sport Ext (Chile)
+https://marine2.miplay.cl/sportext/playlist.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,T13 (Chile)
+https://marine2.miplay.cl/t13/index.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,TV+ (Chile)
+https://marine2.miplay.cl/tvmas/playlist.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,TVR (Chile)
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,AMC (Chile)
+https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,Chilevision (Chile)
+https://marine2.miplay.cl/chvchile/index.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,C13 (Chile)
+https://marine2.miplay.cl/c13/playlist.m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,Cinecanal (Chile)
 http://nxt.plus:8080/jesus01/jesus01/2833?extension=m3u8
+#EXTINF:0 group-title="CANALES DE CHILE" ,DK Discovery Kids (Chile)
+http://181.78.105.146:8800/play/a00r
+#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN (Chile)
+http://38.180.133.31:8000/play/a0tb
+#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 2 (Chile)
+http://190.60.32.178:8178/play/a0at
+#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 3 (Chile)
+http://190.102.246.93:9005/play/a02l
+#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 4 (Chile)
+http://190.102.246.93:9005/play/a019
+#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 6 (Chile)
+http://181.78.82.6:46090/play/a00w
+
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", Cinecanal (Colombia) 
 http://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX
 #EXTINF:0 group-title="CANALES DE MEXICO" ,Cinecanal (Mexico) 
@@ -1244,8 +1251,6 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:0,Djazz Stingray (Canada) (🇨🇦)
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0,DK Discovery Kids (Chile) (🇨🇱)
-http://181.78.105.146:8800/play/a00r
 #EXTINF:0 group-title="CANALES DE COLOMBIA", DK Discovery Kids (Colombia) 
 http://190.83.2.172:8080/play/a015
 #EXTINF:0 group-title="CANALES DE MEXICO" ,DK Discovery Kids (Mexico) 
@@ -1467,8 +1472,7 @@ http://hzcdn.vood.top:80/hls/309458_.m3u8
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1?extension=m3u8
-#EXTINF:0,ESPN (Chile) (🇨🇱)
-http://38.180.133.31:8000/play/a0tb
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN (Colombia) 
 http://38.180.133.31:8000/play/a0wa
 #EXTINF:0,ESPN (Jamaica) (🇯🇲)
@@ -1488,8 +1492,7 @@ http://366561339425947728.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/947728.ts?ext
 http://tv.amplista.com/live/gamaliel/2019/36977.ts?extension=m3u8
 #EXTINF:0,ESPN 2 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
-#EXTINF:0,ESPN 2 (Chile) (🇨🇱)
-http://190.60.32.178:8178/play/a0at
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN 2 (Colombia) 
 http://181.78.106.127:9000/play/ca034
 #EXTINF:0,ESPN 2 (Jamaica) (🇯🇲)
@@ -1507,8 +1510,7 @@ http://244285498241827464.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827464.ts?ex
 http://tv.amplista.com/live/gamaliel/2019/36976.ts?extension=m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 3 (Brasil/Portugal) 
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126.m3u8
-#EXTINF:0,ESPN 3 (Chile) (🇨🇱)
-http://190.102.246.93:9005/play/a02l
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN 3 (Colombia) 
 http://191.52.214.5:8000/play/a025
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 3 (Mexico) 
@@ -1523,8 +1525,7 @@ http://tv.amplista.com/live/gamaliel/2019/36970.ts?extension=m3u8
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143.m3u8
 #EXTINF:0,ESPN 4 (Brasil/Portugal) 
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143?extension=m3u8
-#EXTINF:0,ESPN 4 (Chile) (🇨🇱)
-http://190.102.246.93:9005/play/a019
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN 4 (Colombia) 
 http://38.180.133.31:8000/play/a0wd
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 4 (Mexico) 
@@ -1542,8 +1543,7 @@ http://38.180.133.31:8000/play/a0w7
 
 #EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 6 (Brasil/Portugal) 
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1005.m3u8
-#EXTINF:0,ESPN 6 (Chile) (🇨🇱)
-http://181.78.82.6:46090/play/a00w
+
 #EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN 6 (Colombia) 
 http://190.60.32.178:8178/play/a0aa
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 6 (Mexico) 
@@ -1566,8 +1566,6 @@ http://vcpar.myplaytv.com/esportsmax/live/.m3u8
 https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,ESR eSports Network (USA) 
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
-#EXTINF:0,Estudio (Chile) (🇨🇱)
-https://5eaccbab48461.streamlock.net:1936/8176/8176/.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,ET Entertainment Tonight (USA) 
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:0,Etele (Benin) (🇧🇯)
@@ -1814,8 +1812,6 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0,Kurai (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
 https://bsttv.bonus-tv.ru/cdn/kurai/index.m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL" ,Kuriakos Music (Portugal) 
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,L!ke (Brasil)  
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:0,La 5ta (Peru) (🇵🇪)
@@ -2053,8 +2049,6 @@ http://244285498241951076.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/951076.ts?ex
 http://244285498241951092.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/951092.ts?extension=m3u8
 #EXTINF:0,MyTeam TV4 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 http://244285498241969451.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/969451.ts?extension=m3u8
-#EXTINF:0,MYX (Filipinas) (🇵🇭)
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:0,Myzsika International 2 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,N-TV (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
@@ -2114,8 +2108,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,Now Rock (Nueva Zelanda) (🇳🇿)
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL" ,NPC Musica (Portugal) 
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/.m3u8
 #EXTINF:0 group-title="CANALES DE COLOMBIA", NSTV (Colombia) 
 https://cp.panelchs.com:1936/8162/8162/.m3u8
 #EXTINF:0,Nubeh (Venezuela) (🇻🇪)
@@ -2427,8 +2419,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://is.gd/6f1ShU?.m3u8
 #EXTINF:0,Sport Digital (Suiza) (🇨🇭)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-#EXTINF:0,Sport Ext (Chile) (🇨🇱)
-https://marine2.miplay.cl/sportext/playlist.m3u8
+
 #EXTINF:0,Sport Italia (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/.m3u8
 #EXTINF:0,Sport Italia 24 (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
@@ -2479,12 +2470,10 @@ https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:0,T Sports (Bangladesh) (🇧🇩)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts?extension=m3u8
-#EXTINF:0,T13 (Chile) (🇨🇱)
-https://marine2.miplay.cl/t13/index.m3u8
+
+
 #EXTINF:0,Tagesschau24 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 http://244285498241832285.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832285.ts?extension=m3u8
-#EXTINF:0,Taltal (Chile) (🇨🇱)
-https://glb.bozztv.com/glb/ssh101/animacion/playlist.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,TBO (Brasil)  
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/.m3u8
 #EXTINF:0,Tele 5 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
@@ -2622,8 +2611,7 @@ http://181.78.105.146:2000/play/a08j
 https://is.gd/wKFGGo?.m3u8
 #EXTINF:0,Turkmenistan Sport (Turkmenistan) (🇹🇲)
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:0,TV+ (Chile) (🇨🇱)
-https://marine2.miplay.cl/tvmas/playlist.m3u8
+
 #EXTINF:0,TV2 Sport (Dinamarca) (🇩🇰)
 http://244285498241492283.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/492283.ts?extension=m3u8
 #EXTINF:0,TV2 Sport X (Dinamarca) (🇩🇰)
@@ -2636,13 +2624,10 @@ http://244285498241970973.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/970973.ts?ex
 http://244285498241422919.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/422919.ts?extension=m3u8
 #EXTINF:0,TVCarib (Paises Bajos) (🇳🇱)
 http://tvmate.icu:8080/nCqH8t/631017/99861?extension=m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL" ,TVI Reality (Portugal) 
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:0,TVM Channel (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
 http://cdn-01.bonus-tv.ru:80/tvm_edge/index.m3u8
 
-#EXTINF:0,TVR (Chile) (🇨🇱)
-https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+
 #EXTINF:0,UCL (Uruguay) (🇺🇾)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,UFC Fight (Brasil/Portugal) 
