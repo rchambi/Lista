@@ -45,7 +45,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Argentina",ESPN (argentina bic)
 http://daleplay.club:80/live/LizbethLeon/Lizbeth09122021/339542.ts
-#EXTINF:-1 tVP Publica (Argentina) 
+#EXTINF:-1 group-title="Argentina", TVP Publica (Argentina) 
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
 #EXTINF:-1 group-title="Argentina", Uni Teve (Argentina) 
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
