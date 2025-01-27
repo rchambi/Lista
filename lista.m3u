@@ -94,14 +94,11 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="Argentina",EL TRECE HD
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="Argentina", CRONICA TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="Argentina", CRONICA TV HD --NF
 https://g5.mc-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T16tVjFT/TVP-ARGENTINA.jpg" group-title="Argentina",TVP ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T16tVjFT/TVP-ARGENTINA.jpg" group-title="Argentina",TVP ARGENTINA HD --NF
 https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="Argentina",EWTN HD
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Argentina",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -109,10 +106,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina",CANAL26
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina",CANAL26 VLC
 https://www.youtube.com/watch?v=35LSnUPu5RY/HLS
-#EXTINF:-1 tvg-chno="5" group-title="Argentina",C5N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/240px-C5N_logo.svg.png" tvg-chno="5" group-title="Argentina",C5N VLC
 https://www.youtube.com/watch?v=Xj1boMmMJKU/HLS
+
 
 
 
@@ -765,8 +763,6 @@ http://vip.login.in.th:1935/ch8/ch8/.m3u8
 https://tinyurl.com/ys4t97wt
 #EXTINF:0,Channel Y (Canada) (🇨🇦)
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE USA" ,Charge! (USA) 
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0,Charlie (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 https://tinyurl.com/2xczvnrf
 #EXTINF:0 group-title="CANALES DE BRASIL" ,Charlie (Brasil)  
