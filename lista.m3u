@@ -108,6 +108,8 @@ https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg", Red Uno SCZ HD 
 https://www.dailymotion.com/embed/video/x98uwpi?syndication=278713
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", ATB BOLIVIA 
+https://geo.dailymotion.com/ca417635-f845-4197-b1d6-362a4eb1141c
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
