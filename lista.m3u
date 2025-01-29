@@ -103,8 +103,11 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="UNITEL2" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL SCZ HD
+https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg
 
-
+#EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg", Red Uno SCZ HD 
+https://www.dailymotion.com/embed/video/x98uwpi?syndication=278713
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -3119,3 +3122,10 @@ http://tvmate.icu:8080/nCqH8t/631017/78717?extension=m3u8
 
 #EXTINF:0 group-title="CANALES DE COLOMBIA", Win Sports+ (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
+
+https://geo.dailymotion.com/
+
+unitel 
+https://live-c2.cf.dmcdn.net/sec2(syJas1kXajR6NaZlgxhKI89-gMFdDxKiWyCGK-0n-pn8jv1wytVCks4Cj6Os2B4d5luwKYOc50g4ScdXsyTuxXh1jQKk4c-jyyftpJm_iuy2EqKGI95Yg_tSE3QatNGh)/cloud/3/x7vsezg/d/live-480.m3u8
+red uno
+https://live-b.cf.dmcdn.net/sec2(YSEBQj0J6QGnSMWsP_umtbxhkEM9UUd6-vsl6nHYeOlovo6SlVIaejuUGRQpx2FYAkj86PHQT70x9pbvfrmMe3KIvCgBEtKwWsYqriHrq5PnFf3_UWEVnbK3mpT2jPO2)/dm/3/x98uwpi/d/live-720.m3u8
