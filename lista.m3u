@@ -95,6 +95,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" user-agent="iPhone",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
+
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina",CANAL26 VLC
 https://www.youtube.com/watch?v=35LSnUPu5RY/HLS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/240px-C5N_logo.svg.png" tvg-chno="5" group-title="Argentina",C5N VLC
@@ -109,7 +110,29 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Argentina2",CRONICA
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+#EXTINF:-1 group-title="Argentina2",DIRECTV
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Argentina2",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTINF:-1 group-title="Argentina2",TELEFE INTER
+https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
+#EXTINF:-1 group-title="Argentina2",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Argentina2",AMERICA TV 
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
+#EXTINF:-1 group-title="Argentina2",CANAL 26 OP1
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="Argentina2",CANAL 26 OP2
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 group-title="Argentina2",CANAL 26 OP3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 group-title="Argentina2",CANAL 26 OP4
+http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
+#EXTINF:-1 group-title="Argentina2",DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL2" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL SCZ HD
 https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg
