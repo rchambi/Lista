@@ -103,11 +103,14 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-id="UNITEL2" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL SCZ HD
 https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg", Red Uno SCZ HD 
-https://www.dailymotion.com/embed/video/x98uwpi?syndication=278713
+https://geo.dailymotion.com/player.html?syndicationKey=278713&video=x98uwpi
+
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", ATB BOLIVIA 
 https://geo.dailymotion.com/ca417635-f845-4197-b1d6-362a4eb1141c
 
@@ -116,6 +119,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Bolivia 7.1 (Bolivia)  
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
+
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w926301649.m3u8
