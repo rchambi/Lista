@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="Argentina", AN24 (Argentina) 
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/.m3u8
-#EXTINF:-2 ,Y
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-#EXTINF:-2 ,X
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="Argentina",Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
