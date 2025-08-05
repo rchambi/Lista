@@ -8,22 +8,15 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", America TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Argentina",  Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://i.imgur.com/PaQH5JM.png" group-title="Argentina", Canal 20 Villa Maria
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+
 #EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Argentina", Canal 21 TV
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Argentina", Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
@@ -34,29 +27,26 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Argentina", Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 tvg-id="PlayTelevision.ar" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="Argentina", Play Television
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Argentina", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="Argentina",  El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN (argentina bic)
-http://daleplay.club:80/live/LizbethLeon/Lizbeth09122021/339542.ts
+
 #EXTINF:-1 group-title="Argentina", TVP Publica (Argentina) 
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
 #EXTINF:-1 group-title="Argentina", Uni Teve (Argentina) 
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 group-title="Argentina", Discovery Channel (Argentina) 
-http://181.78.105.146:8800/play/a05a
+
+
 #EXTINF:-1 group-title="Argentina", Cosmos (Argentina) 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Argentina", Ciudad Magica (Argentina) 
 https://glb.bozztv.com/glb/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 group-title="Argentina", Cinecanal (Argentina) 
 http://38.180.133.31:8000/play/a0p4
-#EXTINF:-1 group-title="Argentina", DK Discovery Kids (Argentina) 
-http://191.52.214.5:8000/play/a02h
+
 #EXTINF:-1 group-title="Argentina",El Nueve (Argentina) 
 http://190.123.90.146:8000/play/a00m
 #EXTINF:-1 group-title="Argentina",El Nueve (Argentina) 
@@ -69,22 +59,12 @@ http://38.180.133.31:8000/play/a0w4
 http://181.78.105.146:8800/play/a053
 #EXTINF:-1 group-title="Argentina", ESPN 6 (Argentina) 
 http://190.60.32.178:8178/play/a0aa
-#EXTINF:-1 group-title="Argentina", Orbe 21 (Argentina) 
-http://244285498241909076.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/909076.ts?extension=m3u8
-#EXTINF:-1 group-title="Argentina", AXN (Argentina/USA) 
-http://181.78.105.146:6060/play/a04m
+
 #EXTINF:-1 group-title="Argentina", America Sports (Argentina) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="Argentina",EL TRECE HD
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="Argentina", CRONICA TV HD --NF
-https://g5.mc-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T16tVjFT/TVP-ARGENTINA.jpg" group-title="Argentina",TVP ARGENTINA HD --NF
-https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Argentina",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -93,14 +73,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (720p) [Geo-blocked]
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" user-agent="iPhone",America TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina",CANAL26 VLC
 https://www.youtube.com/watch?v=35LSnUPu5RY/HLS
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/240px-C5N_logo.svg.png" tvg-chno="5" group-title="Argentina",C5N VLC
 https://www.youtube.com/watch?v=Xj1boMmMJKU/HLS
 
@@ -110,41 +87,12 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 group-title="Argentina" tvg-id="TVPublica_Pampa.ar" tvg-logo="https://i.imgur.com/LnXQkIUX22.png",TV Publica la pampa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Argentina2",CRONICA
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
-#EXTINF:-1 group-title="Argentina2",DIRECTV
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="Argentina2",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 group-title="Argentina2",TELEFE INTER
 https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 #EXTINF:-1 group-title="Argentina2",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 group-title="Argentina2",AMERICA TV 
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
-#EXTINF:-1 group-title="Argentina2",CANAL 26 OP1
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 group-title="Argentina2",CANAL 26 OP2
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 group-title="Argentina2",CANAL 26 OP3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 group-title="Argentina2",CANAL 26 OP4
-http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
-#EXTINF:-1 group-title="Argentina2",DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UNITEL2" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL SCZ HD
-https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg
-
-#EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg", Red Uno SCZ HD 
-https://geo.dailymotion.com/player.html?syndicationKey=278713&video=x98uwpi
-
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", ATB BOLIVIA 
-https://geo.dailymotion.com/ca417635-f845-4197-b1d6-362a4eb1141c
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -167,10 +115,9 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A - No 24hrs (Bolivia)  
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
 #https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w195859145.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Cristal (Bolivia)  NF
-https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", DTV (Bolivia) NF
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 
@@ -179,17 +126,6 @@ https://www.redpat.tv/proxy/index.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat Oficial Santa Cruz
 https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg", Red Uno HD COCHABAMBA
-https://live-b.cf.dmcdn.net/sec2(iBLd-JzF8jj1ya8PZpoMMufKk0OepfKCvHvMHysP9Doiat7T8O_Og0vFZ_v8P96DhdFRY_GOXfeMDU4vGCpSe9aZd0JUwTdwU7BG-mVSprnqiMnPGaiIoGypdFX8vk_r)/dm/3/x905w7a/d/live-380.m3u8
-
-#EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg", Red Uno HD LA PAZ
-https://live-c.cf.dmcdn.net/sec2(dxK0EdBqm7MfGSmcMREs86kHHTQrd6Tn0aSnjADDPMrV7svmLAQnjgYXMOI9qIsnAZiMV_4PTaeHJQXEYnWHwaxst73odiFaLTM4YuGt2cC3Esa0AmksAViYwuwrHfLF)/dm/3/x8vzlqi/d/live-240.m3u8
-
-#EXTINF:-1 group-title="CANALES DE BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg", Red Uno HD  SANTA CRUZ
-https://live-b.cf.dmcdn.net/sec2(42MG2RMZZLXuq9U3sE5ovQbAW3ydIFlIba5klfS2Wwpvz6NHyYwCy-NAY_-cB05PqOZZ7xfXBzMahafyppiJedv9ade4f9llcxV2CUMfGyjSIG0m19VuKOkdvkfhpDDo)/dm/3/x98uwpi/d/live-720.m3u8
-
-
 
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", RTP (Bolivia)  NF
@@ -206,12 +142,6 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", ATB (Bolivia)  
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
@@ -231,46 +161,10 @@ https://seo.tv.bo/tv/ISEO-TV-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpgcbtK0/NEW-SEO-TV-DEPORTES-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV NOVELAS HD
 https://seo.tv.bo/tv/ISEO-TV-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
-https://fl1004.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL -BUSCAR TOKEN
-https://live-c2.cf.dmcdn.net/sec2(85Q2vyhGDLoz3RonXUDnC1goyV8f9xqc0whMFUsWXe-eZNim5mrdlviW60IZpqXO7mPjMzXNmaGc_8xcIbod6qDn1Zd067ZjxahwoKOas9zDCAgIeUsZsAeMvCjzW_-O)/cloud/3/x7wzxiw/s/live-720.m3u8
-
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA BUSCAR TOKEN
-https://live-b.cf.dmcdn.net/sec2(C0XRsSBQ1HONJFDKVdHWtCs-p7w9E8jL8iJ0cpAf34DjCNxdfGPQHxxZff52Vv4zzryP6E40-QOj0UkFqMnNcefuwXznosiFyDfeLPNqySRRDQujSQiy7Rgia4LGE0TR)/dm/3/x84eirw/s/live-720.m3u8
-
-
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/KzfkdGXH/bollpz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ SD
-https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD NF
-https://d2e599a9ekjlc5.cloudfront.net/live2/alba-bo-bolivision-upptv_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7]
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1670999708.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRyzkg7K/MEGAVISION-HD.jpg" group-title="CANALES DE BOLIVIA",TV MEGAVISION HD NF
-https://video.live.com.bo:3999/live/megavisionlive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
-#EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="CANALES DE BOLIVIA",ABYA YALA TV HD
-https://seo.tv.bo/tv/ISEO-TV-8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
-https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q9nfjpX/CRISTAL-HD-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",CRISTAL HD NF
-https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
-
-#EXTINF:-1 tvg-id="DTV BOLIVIA" tvg-logo="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg" group-title="CANALES DE BOLIVIA",RED DTV HD NF
-https://master.tucableip.com//dtvsc/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION LPZ HD
 https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
@@ -312,20 +206,11 @@ https://www.dailymotion.com/video/x7y922d
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
 https://www.dailymotion.com/video/x7wzxiw
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMX2rJd/DW-ESPA-OL-HD-01.jpg" group-title="CANALES DE BOLIVIA",DW ESPAÑOL HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="CANALES DE BOLIVIA",DW ESPAÑOL FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhTW6yd/DW-INGLES-HD.jpg" group-title="CANALES DE BOLIVIA",DW ENGLISH HD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg" group-title="CANALES DE BOLIVIA",TELESUR FHD
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 group-title="CANALES DE USA" tvg-logo="https://i.postimg.cc/PJBhNswr/TLMD.jpg" ,TELEMUNDO HD
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
@@ -334,37 +219,6 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 group-title="CANALES DE PORTUGAL" ,11 (Portugal) 
-http://176.65.146.108:8022/play/a076
 
 #EXTINF:0,12 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
@@ -1226,26 +1080,7 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 https://tinyurl.com/ycyta5vw
 #EXTINF:0 group-title="CANALES DE USA" ,Dateline (USA) 
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:0,DAZN 1 (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
-http://366561339425911736.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/911736.ts?extension=m3u8
-#EXTINF:0,DAZN 1 (Portugal/Brasil) (🇵🇹🇧🇷)
-http://176.65.146.108:8022/play/a06r
-#EXTINF:0,DAZN 2 (Portugal/Brasil) (🇵🇹🇧🇷)
-http://176.65.146.108:8022/play/a072
-#EXTINF:0,DAZN 3 (Portugal/Brasil) (🇵🇹🇧🇷)
-http://176.65.146.108:8022/play/a073
-#EXTINF:0,DAZN 4 (Portugal/Brasil) (🇵🇹🇧🇷)
-http://176.65.146.108:8022/play/a06t
-#EXTINF:0,DAZN 5 (Portugal/Brasil) (🇵🇹🇧🇷)
-http://176.65.146.108:8022/play/a06u
-#EXTINF:0,DAZN 6 (Portugal/Brasil) (🇵🇹🇧🇷)
-http://176.65.146.108:8022/play/a074
-#EXTINF:0,DAZN Combat (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
-https://is.gd/XQHp2d?.m3u8
-#EXTINF:0,DAZN Ringside (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
-https://is.gd/6sFrhT?.m3u8
-#EXTINF:0,DAZN Womens Football (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+
 
 #EXTINF:0,DC Dutch Caribbean (Paises Bajos) (🇳🇱)
 https://cur.watch/api/get_stream/dctv/basilachill/mystream.m3u8
