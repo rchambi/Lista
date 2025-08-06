@@ -140,9 +140,6 @@ http://master.tucableip.com/movil/index.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", VTV Canal 17 (Bolivia)  
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", ATB (Bolivia)  
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
 
@@ -175,36 +172,6 @@ https://tv.bitstreaming.net:3348/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="FAP TV" tvg-logo="https://i.postimg.cc/dVshPDR9/FAP-TV.jpg" group-title="CANALES DE BOLIVIA",FAP TV HD
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO LPZ HD
-https://www.dailymotion.com/video/x8vzlqi
-
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO SCZ HD
-https://www.dailymotion.com/video/x98uwpi
-
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO CBBA HD
-https://www.dailymotion.com/video/x8ra7t7
-
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/Y06y7NgW/ATB-BOLIVIA-HD.jpg" group-title="BOLIVIA USAR VLC", ATB BOLIVIA HD
-https://www.dailymotion.com/video/x84eirw
-
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/rsMNSB0D/ATB-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC", ATB SCZ HD
-#https://www.dailymotion.com/video/x84t82c
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
-https://www.dailymotion.com/video/x7vsfua
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL SCZ HD
-https://www.dailymotion.com/video/x7vsezg
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/d3LzKZ6R/UNITEL-CBBA-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL CBBA HD
-https://www.dailymotion.com/video/x7y922d
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
-https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="CANALES DE BOLIVIA",DW ESPAÑOL FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -1418,8 +1385,6 @@ https://srvx1.selftv.video/espansione/smil:live.smil/.m3u8
 http://wms.shared.streamshow.it/esperiatv/esperiatv/.m3u8
 
 #EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131.m3u8
@@ -2233,8 +2198,6 @@ http://244285498241812232.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/812232.ts?ex
 http://244285498241886097.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/886097.ts?extension=m3u8
 #EXTINF:0,Sky Select 3 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 http://244285498241962514.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/962514.ts?extension=m3u8
-#EXTINF:0,Sky Select 3 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
-http://244285498241962514.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/962514.ts?extension=m3u8
 #EXTINF:0,Sky Select 4 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 http://244285498241963364.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/963364.ts?extension=m3u8
 #EXTINF:0,Sky Select 6 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
@@ -2507,10 +2470,6 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
 
-#EXTINF:0,Universal (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
-http://244285498241832291.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832291.ts?extension=m3u8
-#EXTINF:0,Universal (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
-http://244285498241832291.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832291.ts?extension=m3u8
 #EXTINF:0,Universal (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,Univision 24/7 (USA) 
@@ -2633,10 +2592,7 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: AZTECA INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: LAS ESTRELLAS
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 #EXTINF:-1 group-title="Bics MX", MX: ESTRELLAS
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA 7
@@ -2647,8 +2603,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics US", US: AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Bics Latino", PR: TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:-1 group-title="Bics Latino", BO: CANAL 7.1
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Latino", BO: CANAL 7.2 DEPORTES
@@ -2719,10 +2674,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 
 
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS ESPAÑOL
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-****** 07  ******
 #EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
@@ -2734,10 +2686,6 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", SKY LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTINF:-1 group-title="Bics US", UNIVISION EAST
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
-
  
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
 http://181.78.8.90:16123/play/ch17
@@ -3007,51 +2955,20 @@ http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Argentina3", La Nación +
 http://181.209.114.13:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Argentina3", Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Argentina3", TN
 http://181.209.114.13:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Argentina3", A24
 http://186.0.248.113:8000/play/a0bq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Argentina3", Latina Radio FM 101.1
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Argentina3", C5N
-http://143.0.67.77:8000/play/a01p/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Argentina3", El Nueve
-http://138.121.114.50:8000/play/a09q/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Argentina3", Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
-
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Argentina3", Canal 26
 http://181.209.114.13:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Argentina3", El Trece
-http://138.121.114.50:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Argentina3", America
 http://181.209.114.13:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Argentina3", Net TV
 http://186.0.248.113:8000/play/a0bs/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Argentina3", IP Noticias
-http://181.78.27.128:8000/play/a055/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Argentina3" , Bravo TV
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Argentina3", Cronica HD
-http://201.217.246.177:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="Argentina3", El Destape TV 
 http://200.55.244.75:8000/play/a0e4/index.m3u8
@@ -3377,183 +3294,136 @@ http://143.0.67.77:8000/play/a0bc/index.m3u8
 http://143.0.67.77:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="cable-arg", FOX Sports
-
 http://143.0.67.77:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="cable-arg", FOX Sports 2
-
 http://143.0.67.77:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="cable-arg", FOX Sports 3
-
 http://143.0.67.77:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS 
 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
 http://179.63.6.17:9000/play/a08e
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
-
-http://179.63.6.17:9000/play/a08e
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
-
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
-
 http://179.51.136.19:8000/play/a112/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
-
 http://38.211.242.128:8001/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
-
 http://38.211.242.128:8001/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
-
 http://38.211.242.128:8001/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="cable-arg", ESPN
-
 http://143.0.67.77:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="cable-arg", ESPN 2
-
 http://143.0.67.77:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="cable-arg", ESPN 3
-
 http://143.0.67.77:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="cable-arg", Golf Channel
-
 http://45.228.234.133:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="cable-arg", TyC Sports
-
 http://143.0.67.77:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="cable-arg", Deportv
-
 http://143.0.67.77:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1-021-UodM6pL9n0Lf5BGv-KuPFtAJHjXW7QjI8qrH8FIxkYnEqLf4Nf80NJqeEhAhHejkI=s48-c-k-c0x00ffffff-no-rj" group-title="cable-arg", DNews
-
 http://45.230.38.117:8000/play/a02n
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="cable-arg", CNN en Español
-
 http://143.0.67.77:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="cable-arg", CNN
-
 http://200.115.120.1:8000/play/ca060/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="cable-arg", CNN Chile
-
 http://177.53.155.236:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="cable-arg", 24 HORAS
-
 http://200.113.4.75:7210/play/a00m/index.m3u8 
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="cable-arg", La Nación +
-
 http://143.0.67.77:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="cable-arg", TN
-
 http://143.0.67.77:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="cable-arg", C5N
-
 http://143.0.67.77:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="cable-arg", Cronica HD
-
 http://201.217.246.177:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="cable-arg", A24
-
 http://138.121.114.50:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="cable-arg", Canal 26
-
 http://143.0.67.77:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="cable-arg", IP Noticias
-
 http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="cable-arg", Chacra TV
-
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://intn24.lalr.co/img/post-default.png" group-title="cable-arg", NTN 24
-
 http://160.20.165.246:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="cable-arg", Telemax
-
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="cable-arg", Cablenoticias
-
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="cable-arg", Rural TV
-
 http://138.121.114.50:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="cable-arg", Construir TV
-
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="cable-arg", National Geographic
-
 http://143.0.67.77:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="cable-arg", Discovery Channel
-
 http://143.0.67.77:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="cable-arg", Animal Planet
-
 http://200.60.124.19:29000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="cable-arg", Discovery Turbo
-
 http://143.0.67.77:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="cable-arg", Discovery TLC
-
 http://186.0.248.113:8000/play/a0bh/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="cable-arg", History
-
 http://181.13.173.86:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="cable-arg", History 2
-
 http://38.159.227.126:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJiQMcl1qF6rL4PSfRZhSP5EJZGZx78LiQA&s" group-title="cable-arg", Univision
-
 http://45.228.234.133:8000/play/a0kr/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Spanish" group-title="cable-arg", Antena 3
-
 http://160.20.165.246:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="cable-arg", RAI
-
 http://143.0.67.77:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="cable-arg", BBC News
-
 http://45.5.151.151:8000/play/a0ld/index.m3u8
 
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="cable-arg", DW Español
