@@ -2980,52 +2980,6 @@ http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
 
 
 
-#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Argentina3", La Nación +
-http://181.209.114.13:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Argentina3", TN
-http://181.209.114.13:8000/play/a058/index.m3u8
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Argentina3", A24
-http://186.0.248.113:8000/play/a0bq/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Argentina3", Canal 26
-http://181.209.114.13:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Argentina3", America
-http://181.209.114.13:8000/play/a055/index.m3u8
-
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Argentina3", Net TV
-http://186.0.248.113:8000/play/a0bs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="Argentina3", El Destape TV 
-http://200.55.244.75:8000/play/a0e4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Argentina3", Canal E
-https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="Argentina3", Extra TV
-http://200.121.48.17:8000/play/a08p/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="Argentina3", CARAS TV 
-https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="Argentina3", Diputados TV 
-http://200.121.48.17:8000/play/a14m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Argentina3" , Canal de la Ciudad  
-http://181.209.114.13:8000/play/a06e/index.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
