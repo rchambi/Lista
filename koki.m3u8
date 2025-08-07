@@ -826,24 +826,10 @@ http://176.65.146.108:8022/play/a05f
 #EXTINF:0,Cine Western (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 https://tinyurl.com/2njhat83
 
-#EXTINF:0 group-title="CANALES DE CHILE" ,Sport Ext (Chile)
-https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE CHILE" ,T13 (Chile)
-https://marine2.miplay.cl/t13/index.m3u8
-#EXTINF:0 group-title="CANALES DE CHILE" ,TV+ (Chile)
-https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:0 group-title="CANALES DE CHILE" ,TVR (Chile)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:0 group-title="CANALES DE CHILE" ,AMC (Chile)
 https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE CHILE" ,Chilevision (Chile)
-https://marine2.miplay.cl/chvchile/index.m3u8
-#EXTINF:0 group-title="CANALES DE CHILE" ,C13 (Chile)
-https://marine2.miplay.cl/c13/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE CHILE" ,Cinecanal (Chile)
-http://nxt.plus:8080/jesus01/jesus01/2833?extension=m3u8
-#EXTINF:0 group-title="CANALES DE CHILE" ,DK Discovery Kids (Chile)
-http://181.78.105.146:8800/play/a00r
 #EXTINF:0 group-title="CANALES DE CHILE" ,ESPN (Chile)
 http://38.180.133.31:8000/play/a0tb
 #EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 2 (Chile)
@@ -2420,8 +2406,6 @@ https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:0,TLC (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
 http://244285498241894161.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/894161.ts?extension=m3u8
 
-#EXTINF:0 group-title="CANALES DE BRASIL" ,TNT (Brasil)  
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27?extension=m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,TNT Sports 1 (USA) 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/53708.ts?extension=m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,TNT Sports 2 (USA) 
@@ -2430,16 +2414,12 @@ http://175.107.244.52:4457/play/a070/index.m3u8
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/53709.ts?extension=m3u8
 #EXTINF:0 group-title="CANALES DE MEXICO" ,Todo Novelas (Mexico) 
 https://d2t7ujjc7lurgd.cloudfront.net/index.m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,Top (Brasil)  
-https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,Top Fight (USA) 
 http://49.0.64.96:8007/TOPFIGHT
 #EXTINF:0,Top Gear (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
 https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,Top Gear (USA) 
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,Top Mix (Brasil)  
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/topmixtv/.m3u8
 #EXTINF:0,Topestrada (Macedonia) (🇲🇰)
 http://live.topestrada.com/live/topestrada/index.m3u8
 #EXTINF:0,TR Sport (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
@@ -3413,4 +3393,3 @@ http://177.93.152.229:8000/play/a02i
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="cable-arg", Latina Radio FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
