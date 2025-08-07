@@ -1408,79 +1408,60 @@ https://srvx1.selftv.video/espansione/smil:live.smil/.m3u8
 #EXTINF:0,Esperia (Italia) (🇮🇹) group-title="CANALES DE ITALIA"
 http://wms.shared.streamshow.it/esperiatv/esperiatv/.m3u8
 
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
-http://hzcdn.vood.top:80/hls/309458_.m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
-http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131.m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN (Brasil/Portugal) 
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1?extension=m3u8
+
+
+
+
+
 
 #EXTINF:0,ESPN (Jamaica) (🇯🇲)
 http://tvmate.icu:8080/nCqH8t/631017/66372?extension=m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN (Mexico) 
-http://181.78.82.6:46090/play/a00q
-
-#EXTINF:0 group-title="CANALES DE USA" ,ESPN (USA) 
-https://fl5.moveonjoy.com/ESPN/index.m3u8
-
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 2 (Brasil/Portugal) 
-http://244285498241827462.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827462.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 2 (Brasil/Portugal) 
-http://366561339425947728.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/947728.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 2 (Brasil/Portugal) 
-http://tv.amplista.com/live/gamaliel/2019/36977.ts?extension=m3u8
-#EXTINF:0,ESPN 2 (Canada) (🇨🇦)
-http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
 
 #EXTINF:0,ESPN 2 (Jamaica) (🇯🇲)
 http://tvmate.icu:8080/nCqH8t/631017/99623?extension=m3u8
+
+
+
+
+
+#EXTINF:0,ESPN 2 (Canada) (🇨🇦)
+http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
+
+
+
+
+
+#EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN (Mexico) 
+http://181.78.82.6:46090/play/a00q
+
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 2 (Mexico) 
 http://181.78.105.146:8800/play/a08t
 
 
-#EXTINF:0 group-title="CANALES DE USA" ,ESPN 2 (USA) 
-https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 3 (Brasil/Portugal) 
-http://244285498241827464.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827464.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 3 (Brasil/Portugal) 
-http://tv.amplista.com/live/gamaliel/2019/36976.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 3 (Brasil/Portugal) 
-http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126.m3u8
-
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 3 (Mexico) 
 http://181.78.82.6:46090/play/a00v
 
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 4 (Brasil/Portugal) 
-http://244285498241827465.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827465.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 4 (Brasil/Portugal) 
-http://tv.amplista.com/live/gamaliel/2019/36970.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 4 (Brasil/Portugal) 
-http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143.m3u8
-#EXTINF:0,ESPN 4 (Brasil/Portugal) 
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143?extension=m3u8
-
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 4 (Mexico) 
 http://181.78.106.127:9000/play/ca036
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 5 (Brasil/Portugal) 
-http://244285498241333155.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/333155.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 5 (Brasil/Portugal) 
-http://tv.amplista.com/live/gamaliel/2019/36971.ts?extension=m3u8
-#EXTINF:0 group-title="CANALES DE BRASIL" , ESPN 5 (Brasil/Portugal) 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140?extension=m3u8
+
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 5 (Mexico) 
 http://38.180.133.31:8000/play/a0w7
-
-#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 6 (Brasil/Portugal) 
-http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1005.m3u8
 
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 6 (Mexico) 
 http://38.180.133.31:8000/play/a0qo
 
-#EXTINF:0 group-title="CANALES DE USA" ,ESPN News (USA) 
-https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN Premium (Mexico) 
 http://190.102.246.93:9005/play/a00x
+
+
+#EXTINF:0 group-title="CANALES DE USA" ,ESPN (USA) 
+https://fl5.moveonjoy.com/ESPN/index.m3u8
+
+#EXTINF:0 group-title="CANALES DE USA" ,ESPN 2 (USA) 
+https://fl5.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:0 group-title="CANALES DE USA" ,ESPN News (USA) 
+https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:0 group-title="CANALES DE USA" ,ESPN U (USA) 
 https://fl5.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:0 group-title="CANALES DE BRASIL" ,Esportes Brasilia (Brasil)  
@@ -2623,7 +2604,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN USA
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
@@ -2631,9 +2612,9 @@ http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:-1 group-title="Bics US", US: PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2 USA
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2 USA
 http://fl5.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
@@ -3271,13 +3252,13 @@ http://38.211.242.128:8001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="cable-arg", DSPORTS
 http://38.211.242.128:8001/play/a05g/index.m3u8
 
-#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="cable-arg", ESPN
+#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="cable-arg", ESPN ARG
 http://143.0.67.77:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="cable-arg", ESPN 2
+#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="cable-arg", ESPN 2 ARG
 http://143.0.67.77:8000/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="cable-arg", ESPN 3
+#EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="cable-arg", ESPN 3 ARG
 http://143.0.67.77:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="cable-arg", Golf Channel
