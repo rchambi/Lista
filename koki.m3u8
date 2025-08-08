@@ -87,15 +87,11 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 group-title="Argentina" tvg-id="TVPublica_Pampa.ar" tvg-logo="https://i.imgur.com/LnXQkIUX22.png",TV Publica la pampa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina2",TELEFE
+#EXTINF:-1 group-title="Argentina",TELEFE OP2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 group-title="Argentina2",TELEFE INTER
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
-#EXTINF:-1 group-title="Argentina2",TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Argentina",El Trece OP5
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
 
 
@@ -2583,51 +2579,13 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-
-#EXTINF:-1 group-title="Bics MX", MX: ESTRELLAS
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: AZTECA 7
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-
 #EXTINF:-1 group-title="Bics US", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics US", US: AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN USA
-http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-#EXTINF:-1 group-title="Bics US", US: UNIVISION
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
-#EXTINF:-1 group-title="Bics US", US: PARAMOUNT NETWORK
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2 USA
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2 USA
-http://fl5.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
-http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
-http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-
-******************
 
 **** CODERX24 *****
 #EXTINF:-1 group-title="Bics US", US: TELEMUNDO
@@ -2642,14 +2600,8 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19682
 
-#EXTINF:-1 group-title="Bics Latino", MX: UNIVERSAL PREMIER
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
-
-#EXTINF:-1 group-title="Bics DEPORTES", Fox Deportes Español
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports Premium
-http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
+#EXTINF:-1 group-title="Bics US", US: UNIVISION
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
 
 
@@ -2664,36 +2616,68 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 #EXTINF:-1 group-title="Bics US", US: UNIMAS
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 
+#EXTINF:-1 group-title="Bics US", US: PARAMOUNT NETWORK
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
+
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: ESPN USA NF
+http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: ESPN 2 USA NF
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: ESPN 2 USA
+http://fl5.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: FS 1 NF
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: FS 1
+http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: YES NETWORK NF
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", US: YES NETWORK
+http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", Fox Deportes Español 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", Fox Sports Premium
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
+
+
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",Claro Sport NF
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 2 NF
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN NF
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 3 NF
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", SKY LA LIGA
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX", SKY LA LIGA NF
 http://181.78.105.146:2000/play/a08m/index.m3u8
  
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 2 HD NF
 http://181.78.8.90:16123/play/ch17
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 3 HD NF
 http://181.78.8.90:16123/play/ch18
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 3 HD NF
 http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 4 HD NF
 http://190.60.32.178:8178/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 5 NF
 http://181.78.8.90:16123/play/ch19
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 6
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN 6 NF 
 http://190.60.32.178:8178/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN DEPORTES
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",ESPN DEPORTES NF
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
+#EXTINF:-1 group-title="Bics DEPORTES USA/MEX",FOX DEPORTES NF
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
 
@@ -2708,20 +2692,9 @@ https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tu
 
 
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",America
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",TV Pública 
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",El Trece
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",A24
-https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",Cronica HD
-https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 
 
