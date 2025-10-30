@@ -326,7 +326,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="CANALES DE COLOMBIA", 1 (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
 
-#EXTINF:0,AXN (Colombia/USA)
+#EXTINF:0 group-title="CANALES DE COLOMBIA",AXN (Colombia/USA)
 http://190.83.2.172:8081/play/a06t
 
 #EXTINF:0 group-title="CANALES DE COLOMBIA", Caracol (Colombia) 
@@ -945,7 +945,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
 
 #EXTINF:0 group-title="CANALES DE CURAZAO", Direct 13 (Curazao) (🇨🇼)
 https://edge1.tvdirect13.com/live/playlist.m3u8
-
 
 
 
