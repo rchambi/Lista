@@ -910,7 +910,7 @@ http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16712?extension=m3u8
 
 #EXTINF:0 group-title="CANALES DE KOREA DEL SUR",BTN (Corea Del Sur) (🇰🇷)
 https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
-#EXTINF:0 group-title="CANALES DE KOREA DEL SURL", EBS Kids (Corea Del Sur) (🇰🇷)
+#EXTINF:0 group-title="CANALES DE KOREA DEL SUR", EBS Kids (Corea Del Sur) (🇰🇷)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/.m3u8
 
 
@@ -945,7 +945,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
 
 #EXTINF:0 group-title="CANALES DE CURAZAO", Direct 13 (Curazao) (🇨🇼)
 https://edge1.tvdirect13.com/live/playlist.m3u8
-
 
 
 
