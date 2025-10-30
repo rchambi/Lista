@@ -584,85 +584,83 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 
 
 
-
-#EXTINF:0,Adventure Earth (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",Adventure Earth (UK) (🇬🇧) 
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",Autentic History (UK) (🇬🇧) 
 https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",Autentic Travel (UK) (🇬🇧) 
 https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,AWE Encore (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",AWE Encore (UK) (🇬🇧) 
 https://aweencore-tcl.amagi.tv/playlist.m3u8
-#EXTINF:0,BBC News (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",BBC News (UK) (🇬🇧) 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:0,Crime & Justice (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",Crime & Justice (UK) (🇬🇧) 
 https://d1vsdt3c2xcxl2.cloudfront.net/playlist.m3u8
-#EXTINF:0,DFB Play (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",DFB Play (UK) (🇬🇧) 
 https://dhernglcdl9xo.cloudfront.net/dfbtv.m3u8
-#EXTINF:0,Discover Film (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",Discover Film (UK) (🇬🇧) 
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,DW Deutsche Welle (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",DW Deutsche Welle (UK) (🇬🇧) 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,Premier Sports 1 (UK) (🇬🇧) group-title="CANALES DE GRAN BRETAÑA"
+#EXTINF:0 group-title="CANALES DE GRAN BRETAÑA",Premier Sports 1 (UK) (🇬🇧)
 #http://366561339425960896.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/960896.ts?extension=m3u8
 
 
 
-#EXTINF:0,Baden (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Baden (Alemania) (🇩🇪) 
 https://cdn.icu.de/rtplive/btv.stream/.m3u8
-#EXTINF:0,Berlin (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Berlin (Alemania) (🇩🇪) 
 https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/.m3u8
-#EXTINF:0,BLK (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", BLK (Alemania) (🇩🇪) 
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:BLKonline_high/.m3u8
-#EXTINF:0,Deluxe Dance (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Deluxe Dance (Alemania) (🇩🇪) 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0,Dokusat (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Dokusat (Alemania) (🇩🇪) 
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:0,Echt Jetzt (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Echt Jetzt (Alemania) (🇩🇪) 
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
-#EXTINF:0,Main Franken (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Main Franken (Alemania) (🇩🇪) 
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:0,More Than Sports (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", More Than Sports (Alemania) (🇩🇪) 
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:0,Spiegel Geschichte (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Spiegel Geschichte (Alemania) (🇩🇪) 
 http://244285498241832282.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/832282.ts?extension=m3u8
-#EXTINF:0,Sky Sport 1 (Alemania) (🇩🇪) group-title="CANALES DE GRAN ALEMANIA"
+#EXTINF:0 group-title="CANALES DE GRAN ALEMANIA", Sky Sport 1 (Alemania) (🇩🇪) 
 #http://244285498241934962.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/934962.ts?extension=m3u8
 
 
 
-#EXTINF:0,Aris 24 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Aris 24 (Rusia) (🇷🇺) 
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:0,Cinema (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Cinema (Rusia) (🇷🇺) 
 https://s1.merlive.am/sinemahd/index.m3u8
-#EXTINF:0,Dmitry (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Dmitry (Rusia) (🇷🇺) 
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:0,Echo (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Echo (Rusia) (🇷🇺) 
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Enisey (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Enisey (Rusia) (🇷🇺) 
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:0,Eurosport 1 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Eurosport 1 (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/228/index.m3u8
-#EXTINF:0,Eurosport 2 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Eurosport 2 (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/234/index.m3u8
-#EXTINF:0,Extreme Sports (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Extreme Sports (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/144/index.m3u8
-#EXTINF:0,Futbol 1 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Futbol 1 (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/222/index.m3u8
-#EXTINF:0,Futbol 2 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Futbol 2 (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/211/index.m3u8
-#EXTINF:0,Futbol 3 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Futbol 3 (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/206/index.m3u8
-
-#EXTINF:0,Hustler HD (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Hustler HD (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/244/index.m3u8
-#EXTINF:0,KHL (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", KHL (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/519/index.m3u8
-#EXTINF:0,Maidan (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Maidan (Rusia) (🇷🇺) 
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:0,Metal (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Metal (Rusia) (🇷🇺) 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/17033/index.m3u8
-#EXTINF:0,Myzsika International 2 (Rusia) (🇷🇺) group-title="CANALES DE RUSIA"
+#EXTINF:0 group-title="CANALES DE RUSIA", Myzsika International 2 (Rusia) (🇷🇺) 
 https://kino-1.catcast.tv/content/37742/index.m3u8
 
 
@@ -763,80 +761,72 @@ http://181.78.82.6:46090/play/a00w
 
 
 
-
-
-#EXTINF:0,City News (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", City News (Canada) (🇨🇦)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:0,ESPN 2 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", ESPN 2 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
-#EXTINF:0,NBA (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", NBA (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/22995?extension=m3u8
-#EXTINF:0,NFL Network (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", NFL Network (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/47346?extension=m3u8
-#EXTINF:0,RDS 2 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", RDS 2 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/57490?extension=m3u8
-#EXTINF:0,SportsNet 360 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", SportsNet 360 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/57299?extension=m3u8
-#EXTINF:0,SportsNet World (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", SportsNet World (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/75675?extension=m3u8
-#EXTINF:0,SportsNet One (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", SportsNet One (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/10247?extension=m3u8
-#EXTINF:0,TSN 2 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", TSN 2 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/16129?extension=m3u8
-#EXTINF:0,TSN 3 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", TSN 3 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/10389?extension=m3u8
-#EXTINF:0,TSN 4 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", TSN 4 (Canada) (🇨🇦)
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/66783?extension=m3u8
-#EXTINF:0,TSN 4 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", TSN 4 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/47446?extension=m3u8
-#EXTINF:0,TSN 5 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", TSN 5 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/16131?extension=m3u8
-#EXTINF:0,TSN 5 (Canada) (🇨🇦)
+#EXTINF:0 group-title="CANALES DE CANADA", TSN 5 (Canada) (🇨🇦)
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131?extension=m3u8
 
 
 
 
-#EXTINF:0,UCL (Uruguay) (🇺🇾)
+#EXTINF:0 group-title="CANALES DE URUGUAY",UCL (Uruguay) (🇺🇾)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 
 
-#EXTINF:0,C9N (Paraguay) (🇵🇾)
+#EXTINF:0 group-title="CANALES DE PARAGUAY", C9N (Paraguay) (🇵🇾)
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,Mi (Paraguay) (🇵🇾)
+#EXTINF:0 group-title="CANALES DE PARAGUAY", Mi (Paraguay) (🇵🇾)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:0,Next (Paraguay) (🇵🇾)
+#EXTINF:0 group-title="CANALES DE PARAGUAY", Next (Paraguay) (🇵🇾)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
-
-
-#EXTINF:0,Tiva (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", Tiva (Puerto Rico) (🇵🇷)
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
-#EXTINF:0,Buena (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", Buena (Puerto Rico) (🇵🇷)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/.m3u8
-#EXTINF:0,CA Caribbean Advantage (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", CA Caribbean Advantage (Puerto Rico) (🇵🇷)
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:0,Telemundo (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", Telemundo (Puerto Rico) (🇵🇷)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0,Telemundo (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", Telemundo (Puerto Rico) (🇵🇷)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:0,Mas Canal 23 (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", Mas Canal 23 (Puerto Rico) (🇵🇷)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/.m3u8
-#EXTINF:0,La-X (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", La-X (Puerto Rico) (🇵🇷)
 https://stream.eleden.com/livelax/ngrp:livelax_all/.m3u8
-#EXTINF:0,CTNi (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", CTNi (Puerto Rico) (🇵🇷)
 https://video1.getstreamhosting.com:1936/8226/8226/.m3u8
-
-
-
-
-
-
-#EXTINF:0,Telemundo Int (Puerto Rico) (🇵🇷)
+#EXTINF:0 group-title="CANALES DE PUERTO RICO", Telemundo Int (Puerto Rico) (🇵🇷)
 http://200.60.124.19:29000/play/a01g
+
+
 
 
 
@@ -870,31 +860,28 @@ http://38.180.133.31:8000/play/a0qo
 http://190.102.246.93:9005/play/a00x
 #EXTINF:0 group-title="CANALES DE MEXICO" ,Las Estrellas (Mexico) 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO" ,TeleDiario (Mexico) 
+#EXTINF:0 group-title="CANALES DE MEXICO", TeleDiario (Mexico) 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:0 group-title="CANALES DE MEXICO",Warner (Mexico) 
+#EXTINF:0 group-title="CANALES DE MEXICO", Warner (Mexico) 
 http://181.78.106.127:9000/play/ca071
 
 
 
 
 
-
-
-
-#EXTINF:0,Dubai (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", Dubai (Emiratos) (🇦🇪)
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/.m3u8
-#EXTINF:0,Dubai One (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", Dubai One (Emiratos) (🇦🇪)
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/.m3u8
-#EXTINF:0,Dubai Sports 1 (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", Dubai Sports 1 (Emiratos) (🇦🇪)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8
-#EXTINF:0,Dubai Sports 2 (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", Dubai Sports 2 (Emiratos) (🇦🇪)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8
-#EXTINF:0,Dubai Sports 3 (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", Dubai Sports 3 (Emiratos) (🇦🇪)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
-#EXTINF:0,Dubai Zaman (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", Dubai Zaman (Emiratos) (🇦🇪)
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/.m3u8
-#EXTINF:0,DW Deutsche Welle (Emiratos) (🇦🇪)
+#EXTINF:0 group-title="CANALES DE EMIRATOS", DW Deutsche Welle (Emiratos) (🇦🇪)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
@@ -902,64 +889,76 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
 
+
+
+
  
-#EXTINF:0 group-title="CANALES DE PORTUGAL",Grjngo (Portugal/Brasil) (🇵🇹🇧🇷)
+#EXTINF:0 group-title="CANALES DE PORTUGAL", Grjngo (Portugal/Brasil) (🇵🇹🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL",Cindie Lite (Portugal/Brasil) (🇵🇹🇧🇷)
+#EXTINF:0 group-title="CANALES DE PORTUGAL", Cindie Lite (Portugal/Brasil) (🇵🇹🇧🇷)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:0 group-title="CANALES DE PORTUGAL" ,CNN (Portugal)  (🇵🇹🇧🇷)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL",Sony Channel (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
+#EXTINF:0 group-title="CANALES DE PORTUGAL", Sony Channel (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16700?extension=m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL",Discovery World (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
+#EXTINF:0 group-title="CANALES DE PORTUGAL", Discovery World (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
 http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16712?extension=m3u8
 
 
 
 
 
-
-
-#EXTINF:0,BTN (Corea Del Sur) (🇰🇷)
+#EXTINF:0 group-title="CANALES DE KOREA DEL SUR",BTN (Corea Del Sur) (🇰🇷)
 https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
-#EXTINF:0,EBS Kids (Corea Del Sur) (🇰🇷)
+#EXTINF:0 group-title="CANALES DE KOREA DEL SURL", EBS Kids (Corea Del Sur) (🇰🇷)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/.m3u8
 
 
 
 
-#EXTINF:0,Sport Digital (Suiza) (🇨🇭)
+#EXTINF:0 group-title="CANALES DE SUIZA",Sport Digital (Suiza) (🇨🇭)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 
 
 
 
-
-
-
-#EXTINF:0,ESPN (Jamaica) (🇯🇲)
+#EXTINF:0 group-title="CANALES DE JAMAICA", ESPN (Jamaica) (🇯🇲)
 http://tvmate.icu:8080/nCqH8t/631017/66372?extension=m3u8
-#EXTINF:0,ESPN 2 (Jamaica) (🇯🇲)
+#EXTINF:0 group-title="CANALES DE JAMAICA", ESPN 2 (Jamaica) (🇯🇲)
 http://tvmate.icu:8080/nCqH8t/631017/99623?extension=m3u8
 
 
 
-#EXTINF:0,Flow Sports (Trinidad Y Tobago) (🇹🇹)
+#EXTINF:0group-title="CANALES DE TRINIDAD Y TOBAGO", Flow Sports (Trinidad Y Tobago) (🇹🇹)
 http://tvmate.icu:8080/nCqH8t/631017/79544?extension=m3u8
-#EXTINF:0,Flow Sports (Trinidad Y Tobago) (🇹🇹)
+#EXTINF:0 group-title="CANALES DE TRINIDAD Y TOBAGO",Flow Sports (Trinidad Y Tobago) (🇹🇹)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts?extension=m3u8
 
 
 
 
-#EXTINF:0,Oman Sports (Oman) (🇴🇲)
+#EXTINF:0group-title="CANALES DE OMAN", Oman Sports (Oman) (🇴🇲)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
 
 
 
 
-#EXTINF:0,Direct 13 (Curazao) (🇨🇼)
+#EXTINF:0 group-title="CANALES DE CURAZAO", Direct 13 (Curazao) (🇨🇼)
 https://edge1.tvdirect13.com/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
