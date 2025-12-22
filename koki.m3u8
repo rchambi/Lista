@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u" 
 
+
+
+# General/Abierta
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales" user-agent="iPhone", A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
@@ -7,7 +10,32 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
+
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title=Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Nacionales" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Nacionales" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+#EXTINF:-1 tvg-id="0915" group-title="Nacionales" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
