@@ -328,18 +328,17 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
-
 #EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION LPZ HD
-https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
+https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
 #EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION SCZ HD
-https://tv.bitstreaming.net:3348/multi_web/play_720.m3u8
+https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhHxHC/CGTN-HD.jpg" group-title="PELICULAS",CGTN ES HD
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="PELICULAS",BIG TV HD
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 
 
