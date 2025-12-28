@@ -51,76 +51,74 @@ http://200.113.4.75:7210/play/a00m/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="ar#espn-1" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Chile
-http://45.173.229.190:8083/play/a0k7/index.m3u8
-#EXTINF:-1 tvg-id="ar#espnUS-1"  group-title="Deportes", US: ESPN USA NF
-http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN (Argentina) 
+#EXTINF:-1 tvg-id="ar#espnUS-1"  group-title="Deportes", US: ESPN USA NF
+http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
+#EXTINF:-1 tvg-id="ar#espn-1" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Chile
+http://45.173.229.190:8083/play/a0k7/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png", ESPN (Argentina) 
 http://181.78.106.127:9000/play/ca033
-#EXTINF:-1 group-title="Deportes",ESPN 2 (Argentina) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 2 (Argentina) 
 http://38.180.133.31:8000/play/a0w4
-#EXTINF:-1 group-title="Deportes",ESPN 3 (Argentina) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 3 (Argentina) 
 http://181.78.105.146:8800/play/a053
-#EXTINF:-1 group-title="Deportes", ESPN 6 (Argentina) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN 6 (Argentina) 
 http://190.60.32.178:8178/play/a0aa
-#EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN (Colombia) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN (Colombia) 
 http://38.180.133.31:8000/play/a0wa
-#EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN 2 (Colombia) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN 2 (Colombia) 
 http://181.78.106.127:9000/play/ca034
-#EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN 6 (Colombia) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN 6 (Colombia) 
 http://190.60.32.178:8178/play/a0aa
-#EXTINF:0 group-title="CANALES DE COLOMBIA", ESPN Premium (Colombia) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN Premium (Colombia) 
 http://45.184.87.142:8000/play/a045
-#EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 3 (Mexico) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png"  ,ESPN 3 (Mexico) 
 http://181.78.82.6:46090/play/a00v
-#EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 4 (Mexico) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 4 (Mexico) 
 http://181.78.106.127:9000/play/ca036
-#EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 5 (Mexico) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 5 (Mexico) 
 http://38.180.133.31:8000/play/a0w7
-#EXTINF:0 group-title="CANALES DE MEXICO" ,ESPN 6 (Mexico) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png"  ,ESPN 6 (Mexico) 
 http://38.180.133.31:8000/play/a0qo
-#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN (Chile)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN (Chile)
 http://38.180.133.31:8000/play/a0tb
-#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 2 (Chile)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 2 (Chile)
 http://190.60.32.178:8178/play/a0at
-#EXTINF:0 group-title="CANALES DE CHILE" ,ESPN 6 (Chile)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 6 (Chile)
 http://181.78.82.6:46090/play/a00w
-#EXTINF:0 group-title="CANALES DE PERU" ,ESPN 2 (Peru) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 2 (Peru) 
 http://181.78.82.6:46090/play/a00i
-#EXTINF:0 group-title="CANALES DE PERU" ,ESPN 3 (Peru) 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 3 (Peru) 
 http://190.60.32.178:8178/play/a015
-#EXTINF:0 group-title="CANALES DE CANADA", ESPN 2 (Canada) (🇨🇦)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN 2 (Canada) (🇨🇦)
 http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
-#EXTINF:0 group-title="CANALES DE JAMAICA", ESPN (Jamaica) (🇯🇲)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN (Jamaica) (🇯🇲)
 http://tvmate.icu:8080/nCqH8t/631017/66372?extension=m3u8
-#EXTINF:0 group-title="CANALES DE JAMAICA", ESPN 2 (Jamaica) (🇯🇲)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" , ESPN 2 (Jamaica) (🇯🇲)
 http://tvmate.icu:8080/nCqH8t/631017/99623?extension=m3u8
 
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 2 HD (2)
 http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 3 HD (2)
 http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4 HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 4 HD (2)
 http://181.78.82.6:46090/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 5 HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 5 HD (2)
 http://181.78.82.6:46090/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 6 HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 6 HD (2)
 http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 7 HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN 7 HD (2)
 http://181.78.82.6:46090/play/a01d/index.m3u8 
-#EXTINF:-1 group-title="Deportes",ESPN COL HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN COL HD (2)
 http://181.78.82.6:46090/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN ARG HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN ARG HD (2)
 http://181.78.82.6:46090/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN CHI HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN CHI HD (2)
 http://181.78.82.6:46090/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN PREMIUM HD (2)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" ,ESPN PREMIUM HD (2)
 http://181.78.82.6:46090/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Deportes", TyC SPORTS 
