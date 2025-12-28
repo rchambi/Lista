@@ -13,7 +13,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="Nacionales",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title=Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -33,13 +33,6 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="Nacionales", NET TV
 https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="NACIONALES", MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="Nacionales", TERRAMIA TV
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Nacionales", CM
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
-https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="Nacionales", CIUDAD MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Nacionales" , AMC
@@ -947,9 +940,9 @@ http://45.5.151.62:8000/play/a02v/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Cable", HBO Plus
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Cable", HBO Plus Validar
 http://190.123.90.146:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Cable", Hola TV
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Cable", Hola TV Validar
 http://177.234.230.206:8011/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Cable", Sony Channel
 http://190.60.37.154:45000/play/a04m/index.m3u8
@@ -957,7 +950,7 @@ http://190.60.37.154:45000/play/a04m/index.m3u8
 http://190.60.37.154:45000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Cable", FX
 http://190.60.37.154:45000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="cable", History 2
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Cable", History 2
 http://38.159.227.126:8000/play/a07k/index.m3u8
 #EXTINF:-1 group-title="Cable", Cinecanal (Argentina) 
 http://38.180.133.31:8000/play/a0p4
@@ -1011,3 +1004,6 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="CINE", ESTRENO 6
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Cable", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
