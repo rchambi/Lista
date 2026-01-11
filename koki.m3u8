@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales" user-agent="iPhone", A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales" user-agent="iPhone", A24 (ARG1)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV (ARG1)
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -13,57 +13,57 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="Nacionales",Net TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="Nacionales",Net TV 6 (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title=Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title=Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV 6 (ARG1)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Nacionales" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Nacionales" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad  (ARG1)
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Nacionales" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Nacionales" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve 5 (ARG1)
 http://107.152.39.199:8030/hls/canal7.m3u8
-#EXTINF:-1 tvg-id="0915" group-title="Nacionales" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTINF:-1 tvg-id="0915" group-title="Nacionales" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 5 (ARG1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV 4 (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26 op3 (ARG1)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+ 3 (ARG1)
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="Nacionales", NET TV
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="Nacionales", NET TV 2 (ARG1)
 https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="Nacionales", CIUDAD MAGAZINE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="Nacionales", CIUDAD MAGAZINE 4(ARG1)
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Nacionales" , AMC
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Nacionales" , AMC (ARG1)
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Nacionales", CANAL E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="Nacionales", CRONICA HD 
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="Nacionales", CRONICA HD 2  (ARG1)
 http://201.217.246.177:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="Nacionales", CADENA 3
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="Nacionales", CADENA 3 (ARG1)
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Nacionales", Ciudad Magazine
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Nacionales", Ciudad Magazine3 (ARG1)
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="Nacionales",Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="Nacionales",Ciudad Magazine 2
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Nacionales",13Max Television
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Nacionales",13Max Television (ARG1)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Nacionales",  Canal 13 La Rioja
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Nacionales",  Canal 13 La Rioja  (ARG1)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Nacionales", Cinco TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Nacionales", Ciudad Magazine
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Nacionales", Cinco TV (ARG1)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8 
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Nacionales", Ciudad Magazine  (ARG1)
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Nacionales", Magic Kids
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Nacionales", Magic Kids (ARG1)
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Nacionales", Neo TV2
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Nacionales", Neo TV2 (ARG1)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Nacionales", Neox TV
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Nacionales", Neox TV (ARG1)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Nacionales", Net TV
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Nacionales", Net TV (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="Nacionales",  El Trece
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="Nacionales",  El Trece (ARG1)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Nacionales", TVP Publica (Argentina) 
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
@@ -71,35 +71,35 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 group-title="Nacionales", Cosmos (Argentina) 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="Nacionales",EL TRECE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="Nacionales",EL TRECE HD (ARG1)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Nacionales",NET TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Nacionales",NET TV HD (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales",TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales",TELEFE  (ARG1)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales",Telefe (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Nacionales",Telefe (720p) [Geo-blocked]  (ARG1)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 group-title="Nacionales" tvg-id="TVPublica_Pampa.ar" tvg-logo="https://i.imgur.com/LnXQkIUX22.png",TV Publica la pampa
+#EXTINF:-1 group-title="Nacionales" tvg-id="TVPublica_Pampa.ar" tvg-logo="https://i.imgur.com/LnXQkIUX22.png",TV Publica la pampa (ARG1)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TELEFE OP2
+#EXTINF:-1 group-title="Nacionales",TELEFE OP2 (ARG1)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Nacionales",El Trece OP5
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Nacionales",El Trece OP5  (ARG1)
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales", BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="Nacionales", Canal 7 Jujuy
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="Nacionales", Canal 7 Jujuy (ARG1)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Cronica HD
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Cronica HD (ARG1)
 http://201.217.246.177:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Nacionales", TV Publica Pampeana
+#EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Nacionales", TV Publica Pampeana (ARG1)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="Nacionales", QUANTICA TV  16.3
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="Nacionales", QUANTICA TV  16.3 (ARG1)
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="Nacionales", TELEFE CORDOBA
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="Nacionales", TELEFE CORDOBA (ARG1)
 https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Nacionales" , EL DOCE CORDOBA  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Nacionales" , EL DOCE CORDOBA   (ARG1)
 https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Nacionales" , EL DOCE CORDOBA  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="Nacionales" , EL DOCE CORDOBA   (ARG1)
 https://smt-usr-edge02.sensa.com.ar/output/Canal12D/output.mpd
 #EXTINF:-1 group-title="Nacionales",  TN (v3)
 http://45.5.151.62:8000/play/a020/index.m3u8
@@ -294,19 +294,19 @@ http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="CANALES DE BOLIVIA",Bolivia TV 7.1 (Bolivia)
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="CANALES DE BOLIVIA", Bolivia 7.1 (Bolivia)  
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
 
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD (Bolivia)
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w926301649.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA", Bolivia 7.2 (Bolivia)  
 https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", BO: CANAL 7.1
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", BO: CANAL 7.1 (Bolivia)
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Bolivision (Bolivia)  
@@ -314,28 +314,28 @@ https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD (Bolivia)
 https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD (Bolivia)
 https://d2e599a9ekjlc5.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD (Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A - No 24hrs (Bolivia)  
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7] (Bolivia)
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", DTV (Bolivia) NF
 #https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT LA PAZ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT LA PAZ  (Bolivia)
 https://www.redpat.tv/proxy/index.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat Oficial Santa Cruz
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat Oficial Santa Cruz (Bolivia)
 https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel HD (Bolivia)  NF
@@ -347,20 +347,23 @@ https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", VTV Canal 17 (Bolivia)  
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
 
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL (Bolivia)
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
+#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD (Bolivia)
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD (Bolivia)
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
-#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION LPZ HD
+#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION LPZ HD (Bolivia)
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION SCZ HD
+#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION SCZ HD (Bolivia)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWhHxHC/CGTN-HD.jpg" group-title="PELICULAS",CGTN ES HD
@@ -373,9 +376,9 @@ https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/HK7d7fK/ATV-PLUS-HD.jpg" group-title="CANALES DE PERU",ATV+ NOTICIAS HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/HK7d7fK/ATV-PLUS-HD.jpg" group-title="CANALES DE PERU",ATV+ NOTICIAS HD (Peru) 
 https://d1svme839xkbsn.cloudfront.net/original.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg" group-title="CANALES DE PERU",ATV PE HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg" group-title="CANALES DE PERU",ATV PE HD (Peru) 
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:0 group-title="CANALES DE PERU" ,Creo (Peru) 
 https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
@@ -778,9 +781,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
 
-
-
-
  
 #EXTINF:0 group-title="CANALES DE PORTUGAL", Grjngo (Portugal/Brasil) (🇵🇹🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
@@ -788,10 +788,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:0 group-title="CANALES DE PORTUGAL" ,CNN (Portugal)  (🇵🇹🇧🇷)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL", Sony Channel (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16700?extension=m3u8
-#EXTINF:0 group-title="CANALES DE PORTUGAL", Discovery World (Portugal/Brasil/UK) (🇵🇹🇧🇷🇬🇧)
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16712?extension=m3u8
 
 
 
@@ -810,17 +806,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 
 
 
-
-
-
-#EXTINF:0group-title="CANALES DE TRINIDAD Y TOBAGO", Flow Sports (Trinidad Y Tobago) (🇹🇹)
-http://tvmate.icu:8080/nCqH8t/631017/79544?extension=m3u8
-#EXTINF:0 group-title="CANALES DE TRINIDAD Y TOBAGO",Flow Sports (Trinidad Y Tobago) (🇹🇹)
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts?extension=m3u8
-
-
-
-
 #EXTINF:0group-title="CANALES DE OMAN", Oman Sports (Oman) (🇴🇲)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
 
@@ -835,103 +820,102 @@ https://edge1.tvdirect13.com/live/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ArgOP2",  A&E HD (v3)
-http://45.172.111.227:8000/play/a03s
-#EXTINF:-1 group-title="ArgOP2",  AXN HD (v3)
-http://45.172.111.227:8000/play/a03p
-#EXTINF:-1 group-title="ArgOP2",  Cartoon Network HD (v3)
-http://45.172.111.227:8000/play/a03v
-#EXTINF:-1 group-title="ArgOP2",  Cinecanal (v3)
-http://45.172.111.227:8000/play/a03d
-#EXTINF:-1 group-title="ArgOP2",  Discovery Channel HD (v3)
-http://45.172.111.227:8000/play/a042
-#EXTINF:-1 group-title="ArgOP2",  Discovery H&H HD (v3)
-http://45.172.111.227:8000/play/a041
-#EXTINF:-1 group-title="ArgOP2",  Discovery Kids HD (v3)
-http://45.172.111.227:8000/play/a079
-#EXTINF:-1 group-title="ArgOP2",  Discovery Theater HD (v3)
-http://45.172.111.227:8000/play/a04h
-#EXTINF:-1 group-title="ArgOP2",  Discovery World HD (v3)
-http://45.172.111.227:8000/play/a04i
-#EXTINF:-1 group-title="ArgOP2",  Disney Channel HD (v3)
-http://45.172.111.227:8000/play/a04a
-#EXTINF:-1 group-title="ArgOP2",  ESPN 2 HD (v3)
-http://45.172.111.227:8000/play/a03j
-#EXTINF:-1 group-title="ArgOP2",  ESPN 3 HD (v3)
-http://45.172.111.227:8000/play/a03l
-#EXTINF:-1 group-title="ArgOP2",  ESPN HD (v3)
-http://45.172.111.227:8000/play/a03k
-#EXTINF:-1 group-title="ArgOP2",  ESPN Premium HD (v3)
-http://45.172.111.227:8000/play/a03w
-#EXTINF:-1 group-title="ArgOP2",  Fox Sports (v3)
-http://45.172.111.227:8000/play/a03c
-#EXTINF:-1 group-title="ArgOP2",  Fox Sports 2 HD (v3)
-http://45.172.111.227:8000/play/a03m
-#EXTINF:-1 group-title="ArgOP2",  Fox Sports 3 HD (v3)
-http://45.172.111.227:8000/play/a07i
-#EXTINF:-1 group-title="ArgOP2",  FX HD (v3)
-http://45.172.111.227:8000/play/a04d
-#EXTINF:-1 group-title="ArgOP2",  Golden Premiere HD (v3)
-http://45.172.111.227:8000/play/a07a
-#EXTINF:-1 group-title="ArgOP2",  HBO Family HD (v3)
-http://45.172.111.227:8000/play/a06z
-#EXTINF:-1 group-title="ArgOP2",  HBO HD (v3)
-http://45.172.111.227:8000/play/a06w
-#EXTINF:-1 group-title="ArgOP2",  HBO Plus HD (v3)
-http://45.172.111.227:8000/play/a06y
-#EXTINF:-1 group-title="ArgOP2",  HBO XTREME (v3)
-http://45.172.111.227:8000/play/a070
-#EXTINF:-1 group-title="ArgOP2",  HBO2 HD (v3)
-http://45.172.111.227:8000/play/a06x
-#EXTINF:-1 group-title="ArgOP2",  Nat Geo HD (v3)
-http://45.172.111.227:8000/play/a03q
-#EXTINF:-1 group-title="ArgOP2",  Paramount HD (v3)
-http://45.172.111.227:8000/play/a04g
-#EXTINF:-1 group-title="ArgOP2",  Sony HD (v3)
-http://45.172.111.227:8000/play/a03n
-#EXTINF:-1 group-title="ArgOP2",  Space HD (v3)
-http://45.172.111.227:8000/play/a04e
-#EXTINF:-1 group-title="ArgOP2",  Star Channel HD (v3)
-http://45.172.111.227:8000/play/a03x
-#EXTINF:-1 group-title="ArgOP2",  TNT HD (v3)
-http://45.172.111.227:8000/play/a03y
-#EXTINF:-1 group-title="ArgOP2",  TNT Novelas HD (v3)
-http://45.172.111.227:8000/play/a040
-#EXTINF:-1 group-title="ArgOP2",  TNT Series HD (v3)
-http://45.172.111.227:8000/play/a03z
-#EXTINF:-1 group-title="ArgOP2",  TNT Sports HD (v3)
-http://45.172.111.227:8000/play/a04c
-#EXTINF:-1 group-title="ArgOP2",  The History Channel HD (v3)
-http://45.172.111.227:8000/play/a03r
-#EXTINF:-1 group-title="ArgOP2",  TyC Sports HD (v3)
-http://45.172.111.227:8000/play/a04b
-#EXTINF:-1 group-title="ArgOP2",  Universal HD (v3)
-http://45.172.111.227:8000/play/a03t
-#EXTINF:-1 group-title="ArgOP2",  Volver (v3)
-http://45.172.111.227:8000/play/a044
-#EXTINF:-1 group-title="ArgOP2",  Warner Channel HD (v3)
-http://45.172.111.227:8000/play/a03o
-#EXTINF:-1 group-title="ArgOP2",  CINECANAL HD (v3)
-http://45.5.151.62:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  CINEMAX HD (v3)
-http://45.5.151.62:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  ESPN 2 HD (v3)
-http://45.5.151.62:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  ESPN 3 HD (v3)
-http://45.5.151.62:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  ESPN HD (v3)
-http://45.5.151.62:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  NICK JR (v3)
-http://45.5.151.62:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  PARAMOUNT HD (v3)
-http://45.5.151.62:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  SONY HD (v3)
-http://45.5.151.62:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  TCM (v3)
-http://45.5.151.62:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="ArgOP2",  WB HD (v3)
-http://45.5.151.62:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="ArgOP2",  A&E HD (ARG2)
+http://45.172.111.227:8000/play/a03s	
+#EXTINF:-1 group-title="ArgOP2",  AXN HD (ARG2)
+http://45.172.111.227:8000/play/a03p	
+#EXTINF:-1 group-title="ArgOP2",  Cartoon Network HD (ARG2)
+http://45.172.111.227:8000/play/a03v	
+#EXTINF:-1 group-title="ArgOP2",  Cinecanal (ARG2)
+http://45.172.111.227:8000/play/a03d	
+#EXTINF:-1 group-title="ArgOP2",  Discovery Channel HD (ARG2)
+http://45.172.111.227:8000/play/a042	
+#EXTINF:-1 group-title="ArgOP2",  Discovery H&H HD (ARG2)
+http://45.172.111.227:8000/play/a041	
+#EXTINF:-1 group-title="ArgOP2",  Discovery Kids HD (ARG2)
+http://45.172.111.227:8000/play/a079	
+#EXTINF:-1 group-title="ArgOP2",  Discovery Theater HD (ARG2)
+http://45.172.111.227:8000/play/a04h	
+#EXTINF:-1 group-title="ArgOP2",  Discovery World HD (ARG2)
+http://45.172.111.227:8000/play/a04i	
+#EXTINF:-1 group-title="ArgOP2",  Disney Channel HD (ARG2)
+http://45.172.111.227:8000/play/a04a	
+#EXTINF:-1 group-title="ArgOP2",  ESPN 2 HD (ARG2)
+http://45.172.111.227:8000/play/a03j	
+#EXTINF:-1 group-title="ArgOP2",  ESPN 3 HD (ARG2)
+http://45.172.111.227:8000/play/a03l	
+#EXTINF:-1 group-title="ArgOP2",  ESPN HD (ARG2)
+http://45.172.111.227:8000/play/a03k	
+#EXTINF:-1 group-title="ArgOP2",  ESPN Premium HD (ARG2)
+http://45.172.111.227:8000/play/a03w	
+#EXTINF:-1 group-title="ArgOP2",  Fox Sports (ARG2)
+http://45.172.111.227:8000/play/a03c	
+#EXTINF:-1 group-title="ArgOP2",  Fox Sports 2 HD (ARG2)
+http://45.172.111.227:8000/play/a03m	
+#EXTINF:-1 group-title="ArgOP2",  Fox Sports 3 HD (ARG2)
+http://45.172.111.227:8000/play/a07i	
+#EXTINF:-1 group-title="ArgOP2",  FX HD (ARG2)
+http://45.172.111.227:8000/play/a04d	
+#EXTINF:-1 group-title="ArgOP2",  Golden Premiere HD (ARG2)
+http://45.172.111.227:8000/play/a07a	
+#EXTINF:-1 group-title="ArgOP2",  HBO Family HD (ARG2)
+http://45.172.111.227:8000/play/a06z	
+#EXTINF:-1 group-title="ArgOP2",  HBO HD (ARG2)
+http://45.172.111.227:8000/play/a06w	
+#EXTINF:-1 group-title="ArgOP2",  HBO Plus HD (ARG2)
+http://45.172.111.227:8000/play/a06y	
+#EXTINF:-1 group-title="ArgOP2",  HBO XTREME (ARG2)
+http://45.172.111.227:8000/play/a070	
+#EXTINF:-1 group-title="ArgOP2",  HBO2 HD (ARG2)
+http://45.172.111.227:8000/play/a06x	
+#EXTINF:-1 group-title="ArgOP2",  Nat Geo HD (ARG2)
+http://45.172.111.227:8000/play/a03q	
+#EXTINF:-1 group-title="ArgOP2",  Paramount HD (ARG2)
+http://45.172.111.227:8000/play/a04g	
+#EXTINF:-1 group-title="ArgOP2",  Sony HD (ARG2)
+http://45.172.111.227:8000/play/a03n	
+#EXTINF:-1 group-title="ArgOP2",  Space HD (ARG2)
+http://45.172.111.227:8000/play/a04e	
+#EXTINF:-1 group-title="ArgOP2",  Star Channel HD (ARG2)
+http://45.172.111.227:8000/play/a03x	
+#EXTINF:-1 group-title="ArgOP2",  TNT HD (ARG2)
+http://45.172.111.227:8000/play/a03y	
+#EXTINF:-1 group-title="ArgOP2",  TNT Novelas HD (ARG2)
+http://45.172.111.227:8000/play/a040	
+#EXTINF:-1 group-title="ArgOP2",  TNT Series HD (ARG2)
+http://45.172.111.227:8000/play/a03z	
+#EXTINF:-1 group-title="ArgOP2",  TNT Sports HD (ARG2)
+http://45.172.111.227:8000/play/a04c	
+#EXTINF:-1 group-title="ArgOP2",  The History Channel HD (ARG2)
+http://45.172.111.227:8000/play/a03r	
+#EXTINF:-1 group-title="ArgOP2",  TyC Sports HD (ARG2)
+http://45.172.111.227:8000/play/a04b	
+#EXTINF:-1 group-title="ArgOP2",  Universal HD (ARG2)
+http://45.172.111.227:8000/play/a03t	
+#EXTINF:-1 group-title="ArgOP2",  Volver (ARG2)
+http://45.172.111.227:8000/play/a044	
+#EXTINF:-1 group-title="ArgOP2",  Warner Channel HD (ARG2)
+http://45.172.111.227:8000/play/a03o	
+#EXTINF:-1 group-title="ArgOP2",  CINECANAL HD (ARG2)
+http://45.5.151.62:8000/play/a011/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  CINEMAX HD (ARG2)
+http://45.5.151.62:8000/play/a012/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  ESPN 2 HD (ARG2)
+http://45.5.151.62:8000/play/a00e/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  ESPN 3 HD (ARG2)
+http://45.5.151.62:8000/play/a00f/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  ESPN HD (ARG2)
+http://45.5.151.62:8000/play/a00d/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  NICK JR (ARG2)
+http://45.5.151.62:8000/play/a00z/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  PARAMOUNT HD (ARG2)
+http://45.5.151.62:8000/play/a03x/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  SONY HD (ARG2)
+http://45.5.151.62:8000/play/a02x/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  TCM (ARG2)
+http://45.5.151.62:8000/play/a03u/index.m3u8	
+#EXTINF:-1 group-title="ArgOP2",  WB HD (ARG2)
+http://45.5.151.62:8000/play/a02v/index.m3u8	
 
 
 
