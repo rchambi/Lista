@@ -15,7 +15,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="Nacionales",Net TV 6 (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title=Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV 6 (ARG1)
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="Nacionales "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", América TV 6 (ARG1)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Nacionales" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad  (ARG1)
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
