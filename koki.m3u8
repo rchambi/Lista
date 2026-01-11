@@ -341,8 +341,8 @@ https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel HD (Bolivia)  NF
 #https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel (Bolivia)  VALIDAR
-#http://master.tucableip.com/movil/index.m3u8
+#EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel (Bolivia)  TEMPORAL
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 group-title="CANALES DE BOLIVIA", VTV Canal 17 (Bolivia)  
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
