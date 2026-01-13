@@ -15,8 +15,10 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="Nacionales",Net TV 6 (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="Nacionales "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", América TV 6 (ARG1)
+
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="Nacionales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", América TV 6 (ARG1)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Nacionales" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad  (ARG1)
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Nacionales" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve 5 (ARG1)
@@ -254,6 +256,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="Deportes", Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
+#EXTINF:-1 group-title="Deportes", MX: AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+#EXTINF:-1 group-title="Deportes", MX: AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 group-title="Deportes",MX ESPN 3 HD
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="Deportes", MX ESPN 6
+http://190.60.32.178:8178/play/a0aa/index.m3u8
 
 
 
@@ -268,25 +278,26 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 
 
 
-#EXTINF:0 group-title="CANALES DE COLOMBIA", 1 (Colombia) 
+
+#EXTINF:0 group-title="COLOMBIA", 1 (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
-#EXTINF:0 group-title="CANALES DE COLOMBIA",AXN (Colombia/USA)
+#EXTINF:0 group-title="COLOMBIA",AXN (Colombia/USA)
 http://190.83.2.172:8081/play/a06t
-#EXTINF:0 group-title="CANALES DE COLOMBIA", Caracol (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", Caracol (Colombia) 
 http://181.78.82.6:46090/play/a05y
-#EXTINF:0 group-title="CANALES DE COLOMBIA", RCN v1 (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", RCN v1 (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78694?extension=m3u8
-#EXTINF:0 group-title="CANALES DE COLOMBIA", RCN+ (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", RCN+ (Colombia) 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE COLOMBIA", Star Channel (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", Star Channel (Colombia) 
 http://200.52.150.5:8000/play/a0si
-#EXTINF:0 group-title="CANALES DE COLOMBIA", Telepacifico (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", Telepacifico (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78729?extension=m3u8
-#EXTINF:0 group-title="CANALES DE COLOMBIA", Warner (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", Warner (Colombia) 
 http://190.60.32.178:8178/play/a0az
-#EXTINF:0 group-title="CANALES DE COLOMBIA", Win Sports (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", Win Sports (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78717?extension=m3u8
-#EXTINF:0 group-title="CANALES DE COLOMBIA", Win Sports+ (Colombia) 
+#EXTINF:0 group-title="COLOMBIA", Win Sports+ (Colombia) 
 http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
 
 
@@ -294,72 +305,71 @@ http://tvmate.icu:8080/nCqH8t/631017/78697?extension=m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="CANALES DE BOLIVIA",Bolivia TV 7.1 (Bolivia)
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1 (Bolivia)
+#http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
+https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="CANALES DE BOLIVIA", Bolivia 7.1 (Bolivia)  
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA", Bolivia 7.1 (Bolivia)  
+#https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/.m3u8
 
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD (Bolivia)
-https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w926301649.m3u8
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="BOLIVIA",BOLIVIA TV 7.1 HD (Bolivia)
+#https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w926301649.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA", Bolivia 7.2 (Bolivia)  
-https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="BOLIVIA", Bolivia 7.2 (Bolivia)  
+#https://video1.getstreamhosting.com:1936/8224/8224/.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", BO: CANAL 7.1 (Bolivia)
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA", BO: CANAL 7.1 (Bolivia)
+#https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Bolivision (Bolivia)  
-#https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="BOLIVIA", Bolivision  (Bolivia)  
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD (Bolivia)
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD (Bolivia)
 https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD (Bolivia)
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION SCZ HD (Bolivia)
 https://d2e599a9ekjlc5.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD (Bolivia)
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="BOLIVIA",RTP LA PAZ HD (Bolivia)
 https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Cadena A - No 24hrs (Bolivia)  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="BOLIVIA", CADENA A HD op1 [NOT 24/7] (Bolivia)
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7] (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="BOLIVIA", CADENA A HD op2 [NOT 24/7] (Bolivia)
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", DTV (Bolivia) NF
-#https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT LA PAZ  (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="BOLIVIA",PAT LA PAZ  (Bolivia)
 https://www.redpat.tv/proxy/index.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Pat Oficial Santa Cruz (Bolivia)
+#EXTINF:-1 group-title="BOLIVIA", Pat Oficial Santa Cruz (Bolivia)
 https://fl1002.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel HD (Bolivia)  NF
-#https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", Unitel (Bolivia)  TEMPORAL
+#EXTINF:-1 group-title="BOLIVIA", Unitel (Bolivia)  [NOT 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
-#EXTINF:-1 group-title="CANALES DE BOLIVIA", VTV Canal 17 (Bolivia)  
+#EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (Bolivia)  Test
+https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=C-wUloyuXh4JRj8dG1KF8LqG-aeKWt6nEXuqbgQn8vJCgka-lO6KCjInJGgJwwFkfQr5C-NowT20_epequSMwA&dmTs=755642&dmV1st=984c1c43-0f48-4869-801e-ac4b33cd1905
+
+#EXTINF:-1 group-title="BOLIVIA", Red Uno - Santa Cruz (Bolivia)  Test
+https://cdndirector.dailymotion.com/cdn/live/video/x9n2qyk.m3u8?sec=hd_DTSiwPEE6xcIODlipbBiPEC8MQABjCeKoo2TQxPw9CY4-NTYeXu3ry2IwM2hT9XtVA4i21HPo26ZAnJOuoQ&dmTs=755642&dmV1st=984c1c43-0f48-4869-801e-ac4b33cd1905
+
+#EXTINF:-1 group-title="BOLIVIA", VTV Canal 17 (Bolivia)  
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
 
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL (Bolivia)
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="BOLIVIA",ATB MOVIL (Bolivia)
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD (Bolivia)
+#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="BOLIVIA",TDT MULTIMEDIA HD (Bolivia)
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD (Bolivia)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="BOLIVIA",TELE ESTRELLA TV HD (Bolivia)
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
-#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION LPZ HD (Bolivia)
+#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="BOLIVIA",RED GIGAVISION LPZ HD (Bolivia)
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="CANALES DE BOLIVIA",RED GIGAVISION SCZ HD (Bolivia)
+#EXTINF:-1 tvg-id="GIGAVISION" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION SCZ HD (Bolivia)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
 
@@ -731,31 +741,51 @@ http://200.60.124.19:29000/play/a01g
 
 
 
-#EXTINF:0 group-title="CANALES DE MEXICO", AMC (Mexico) 
+#EXTINF:0 group-title="MEXICO", AMC (Mexico) 
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO", Antena (Mexico) 
+#EXTINF:0 group-title="MEXICO", Antena (Mexico) 
 https://5ca9af4645e15.streamlock.net/grd/videogrd/.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO", AYM Sports (Mexico) 
+#EXTINF:0 group-title="MEXICO", AYM Sports (Mexico) 
 https://aym-as.otteravision.com/aym/as/as.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO", Azteca Int (Mexico) 
+#EXTINF:0 group-title="MEXICO", Azteca Int (Mexico) 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO", Azteca Uno (Mexico) 
+#EXTINF:0 group-title="MEXICO", Azteca Uno (Mexico) 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-#EXTINF:0 group-title="CANALES DE MEXICO", Bein Sports Xtra Ñ (Mexico) 
+#EXTINF:0 group-title="MEXICO", Bein Sports Xtra Ñ (Mexico) 
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO" , Disney Channel (Mexico) 
+#EXTINF:0 group-title="MEXICO" , Disney Channel (Mexico) 
 http://179.49.163.34:45000/play/a00b
-#EXTINF:0 group-title="CANALES DE MEXICO" ,Disney Jr (Mexico) 
+#EXTINF:0 group-title="MEXICO" ,Disney Jr (Mexico) 
 http://179.49.163.34:45000/play/a00a
-#EXTINF:0 group-title="CANALES DE MEXICO" ,DK Discovery Kids (Mexico) 
+#EXTINF:0 group-title="MEXICO" ,DK Discovery Kids (Mexico) 
 http://179.49.163.34:45000/play/a009
 
-#EXTINF:0 group-title="CANALES DE MEXICO" ,Las Estrellas (Mexico) 
+#EXTINF:0 group-title="MEXICO" ,Las Estrellas (Mexico) 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0 group-title="CANALES DE MEXICO", TeleDiario (Mexico) 
+#EXTINF:0 group-title="MEXICO", TeleDiario (Mexico) 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:0 group-title="CANALES DE MEXICO", Warner (Mexico) 
+#EXTINF:0 group-title="MEXICO", Warner (Mexico) 
 http://181.78.106.127:9000/play/ca071
+
+
+
+#EXTINF:-1 group-title="MEXICO", MX: IMAGEN TV+ (Mexico) 
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: MULTIMEDIOS CDMX (Mexico)
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: MULTIMEDIOS MTY (Mexico)
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: MULTIMEDIOS LAGUNA (Mexico)
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: MULTIMEDIOS GDL (Mexico)
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: MULTIMEDIOS PUEBLA (Mexico)
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: ADN 40 (Mexico)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MEXICO", MX: MILENIO (Mexico)
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
 
 
 
@@ -991,3 +1021,91 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Cable", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Cable op7", US: CANAL 57 (Cable op7)
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Cable op7", US: CNN (Cable op7)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Cable op7", US: AL JAZEERA EN (Cable op7)
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="Cable op7", US: AL JAZEERA ARAB (Cable op7)
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+
+#EXTINF:-1 group-title="Cable op7", PR: TELEMUNDO (Cable op7)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Cable op7", EC: ECUADOR TV (Cable op7)
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cable op7", VE: VPI TV (Cable op7)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 group-title="Cable op7", VE: VENEVISION INTERNACIONAL (Cable op7)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
+
+
+#EXTINF:-1 group-title="Cable op7", Animal Planet (Cable op7) 
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="Cable op7", BET HER (Cable op7)
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="Cable op7", CARTOON NETWORK (Cable op7)
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cable op7", CINEMAX EAST (Cable op7)
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="Cable op7", CNBC (Cable op7)
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="Cable op7", CNN (Cable op7)
+http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 group-title="Cable op7", CRAVE 2 (Cable op7)
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="Cable op7", ESPN 2 (Cable op7)
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Cable op7", ESPN U (Cable op7)
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Cable op7", ESPN NETWORK (Cable op7)
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cable op7", FOX SPORTS 1 (Cable op7)
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Cable op7", FX (Cable op7)
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="Cable op7", FX MOVIE (Cable op7)
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="Cable op7", FXX (Cable op7)
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="Cable op7", INSP (Cable op7)
+http://fl2.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 group-title="Cable op7", LIFETIME MOVIE NET (Cable op7)
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cable op7", ME TV (Cable op7)
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="Cable op7", NEWS NATION (Cable op7)
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="Cable op7", NICK JR (Cable op7)
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Cable op7", NICKTOONS (Cable op7)
+http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="Cable op7", OXYGEN (Cable op7)
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="Cable op7", TBS (Cable op7)
+http://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="Cable op7", TCM (Cable op7)
+http://fl2.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="Cable op7", UFC (Cable op7)
+http://fl1.moveonjoy.com/UFC/index.m3u8
+
+
+
+
+
