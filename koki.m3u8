@@ -131,42 +131,51 @@ http://45.172.111.227:8000/play/a03f
 http://45.172.111.227:8000/play/a03i
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
-http://200.113.4.75:7210/play/a005/index.m3u8
+#http://200.113.4.75:7210/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Internacionales", Telemundo Internacional
-http://200.113.4.75:7210/play/a018/index.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Internacionales", 24 HORAS Chile
-http://200.113.4.75:7210/play/a00m/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png" group-title="Internacionales", CNN INTERNACIONAL
+#http://200.113.4.75:7210/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Internacionales", 24 HORAS Chile
+#http://200.113.4.75:7210/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png" group-title="Internacionales", US: CNN INTERNACIONAL
 http://45.5.116.178:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/668px-Rai_News_24_-_Logo_2013.svg.png" group-title="Internacionales", RAI NEWS
 https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="Internacionales", TV FANB	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="Internacionales", TV FANB	(Noticias)
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="Internacionales", TELESUR ᴴᴰ	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="Internacionales", TELESUR ᴴᴰ	(Noticias)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="Internacionales", VENEZUELA NEWS TV	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="Internacionales", VENEZUELA NEWS TV	(Noticias)
 https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="Internacionales", TELEMUNDO FLORIDA	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="Internacionales", TELEMUNDO FLORIDA	(Noticias)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/0fd5c964-718e-4b06-8ec8-5a88fce40fc0/4.m3u8	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dB9n4Ds.jpeg" group-title="Internacionales", TVN DE CHILE ᴴᴰ	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB9n4Ds.jpeg" group-title="Internacionales", TVN DE CHILE ᴴᴰ	(Noticias)
 https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="Internacionales", TELE TRECE ᴴᴰ	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="Internacionales", TELE TRECE ᴴᴰ	(Noticias)
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e95rkEq.jpeg" group-title="Internacionales", SKY NEWS ᴴᴰ	(cable-peru)
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e95rkEq.jpeg" group-title="Internacionales", SKY NEWS ᴴᴰ	(Noticias)
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 group-title="Internacionales" ,CNN Brasil  (Noticias)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Internacionales", US: CNN op1 (Noticias)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Internacionales", US: AL JAZEERA EN (Noticias)
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:0 group-title="Internacionales" ,PT: CNN (🇵🇹🇧🇷)(Noticias)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1 group-title="Internacionales", US: CNN (Noticias)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Internacionales", US: AL JAZEERA EN (Noticias)
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="Internacionales", US: AL JAZEERA ARAB (Noticias)
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+#EXTINF:-1 group-title="Internacionales", ES: CNN (Noticias)
+http://fl2.moveonjoy.com/CNN/index.m3u8
+
+
+
+
 
 
 
@@ -314,8 +323,8 @@ http://190.60.32.178:8178/play/a0az
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1 (Bolivia) 
-#http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
-https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
+#http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 --------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
+#https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
 
 
 #EXTINF:-1 group-title="BOLIVIA", Bolivision op2 (Bolivia)  
@@ -324,6 +333,7 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION SCZ HD [NOT 24/7]  (Bolivia)
 #https://d2e599a9ekjlc5.cloudfront.net/original.m3u8
+
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA LP OFICIAL" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD  [NOT 24/7] (Bolivia)
 https://dcta0kithhulo.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA OFICIAL"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION SCZ HD [NOT 24/7] (Bolivia)
@@ -341,16 +351,12 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="BOLIVIA",PAT Oficial La Paz  (Bolivia)
-https://www.redpat.tv:8000/play/12/94126404.m3u8
-
-#EXTINF:-1 group-title="BOLIVIA", Pat Oficial Santa Cruz (Bolivia)
-https://www.redpat.tv:8000/play/110/94751494.m3u8
+#https://www.redpat.tv:8000/play/12/94126404.m3u8
+#EXTINF:-1 group-title="BOLIVIA", Pat Oficial Santa Cruz (Bolivia) --------------------------------------------------CAMBIA CADA RATO DE ARCHIVO.M3U
+#https://www.redpat.tv:8000/play/110/90966807.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA", Unitel (Bolivia)  [NOT 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-
-#EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (Bolivia) Prueba
-https://dailymotion.com/video/x9mmebq
 
 #EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (Bolivia)  Temp
 https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=mCWXWY8Q7iUnb5MiJJFxHALV7tU4jDsk4FoLLc9LnWum4GCDL8D3TouODDuFWkvx7bYBXOb5k065TH6bc9VdQw&dmTs=999999&dmV1st=41c8c539-7dec-4fb7-abfa-444bdac7849f
@@ -362,9 +368,6 @@ http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="BOLIVIA",TDT MULTIMEDIA HD (Bolivia)
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="BOLIVIA",TELE ESTRELLA TV HD (Bolivia)
-https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
 #EXTINF:-1 tvg-id="GIGAVISIONLP-OFICIAL" tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="BOLIVIA",RED GIGAVISION LPZ HD(Bolivia)
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
@@ -457,8 +460,6 @@ https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/.m3u8
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:0 group-title="BRASIL" ,ConecTV (Brasil)  
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:0 group-title="BRASIL" ,CNN (Brasil)  
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:0 group-title="BRASIL" ,Cinemonde (Brasil)  
 https://video01.soultv.com.br/cinemonde/cinemonde/.m3u8
 #EXTINF:0 group-title="BRASIL" ,Central (Brasil)  
@@ -634,10 +635,6 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.postimg.cc/PJBhNswr/TLMD.jpg" ,TELEMUNDO HD  (USA) 
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 group-title="USA", US: CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="USA", US: AL JAZEERA EN
-https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="USA", US: TELEMUNDO op1
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 group-title="USA", US: TELEMUNDO op2
@@ -773,34 +770,19 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
  
-#EXTINF:0 group-title="PORTUGAL", Grjngo (Portugal/Brasil) (🇵🇹🇧🇷)
+#EXTINF:0 group-title="MUNDO", Portugal - Grjngo (🇵🇹🇧🇷)(MUNDO)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="PORTUGAL", Cindie Lite (Portugal/Brasil) (🇵🇹🇧🇷)
+#EXTINF:0 group-title="MUNDO", Portugal - Cindie Lite (🇵🇹🇧🇷) (MUNDO)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:0 group-title="PORTUGAL" ,CNN (Portugal)  (🇵🇹🇧🇷)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-
-
-
-
-
-#EXTINF:0 group-title="KOREA DEL SUR",BTN (Corea Del Sur) (🇰🇷)
-https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
-#EXTINF:0 group-title="KOREA DEL SUR", EBS Kids (Corea Del Sur) (🇰🇷)
+#EXTINF:0 group-title="MUNDO",Corea Del Sur - BTN (🇰🇷) (MUNDO)
+https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8 
+#EXTINF:0 group-title="MUNDO",Corea Del Sur - EBS Kids (🇰🇷)(MUNDO)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/.m3u8
-
-
-
-
-#EXTINF:0 group-title="SUIZA",Sport Digital (Suiza) (🇨🇭)
+#EXTINF:0 group-title="MUNDO",Suiza - Sport Digital (🇨🇭)(MUNDO)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-
-
-
-#EXTINF:0group-title="OMAN", Oman Sports (Oman) (🇴🇲)
+#EXTINF:0group-title="MUNDO", Oman - Sports (🇴🇲)(MUNDO)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
-
-#EXTINF:0 group-title="CURAZAO", Direct 13 (Curazao) (🇨🇼)
+#EXTINF:0 group-title="MUNDO", Curazao - Direct 13 (🇨🇼) (MUNDO)
 https://edge1.tvdirect13.com/live/playlist.m3u8
 
 
@@ -997,13 +979,6 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 
 #EXTINF:-1 group-title="Cable op7", US: CANAL 57 (Cable op7)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Cable op7", US: CNN (Cable op7)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Cable op7", US: AL JAZEERA EN (Cable op7)
-https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Cable op7", US: AL JAZEERA ARAB (Cable op7)
-https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
-
 #EXTINF:-1 group-title="Cable op7", PR: TELEMUNDO (Cable op7)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Cable op7", EC: ECUADOR TV (Cable op7)
@@ -1024,8 +999,6 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="Cable op7", CNBC (Cable op7)
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Cable op7", CNN (Cable op7)
-http://fl2.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 group-title="Cable op7", CRAVE 2 (Cable op7)
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 group-title="Cable op7", ESPN 2 (Cable op7)
@@ -1121,6 +1094,15 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
 #EXTINF:0 group-title="cable-peru" ,Telecolor (Peru) 
 https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="cable-peru",ATV+ Noticias HD	(cable-peru)
+https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="cable-peru",Cadena TV (720p) [Not 24/7]	(cable-peru)
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="cable-peru",Studio Universal Latin America	(cable-peru)
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8	
+
+
+
 
 
 
