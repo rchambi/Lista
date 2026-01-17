@@ -770,10 +770,8 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131?extension=m3u8
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="CABLE_OP1", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="CABLE_OP1", HBO Plus Validar
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="CABLE_OP1", HBO Plus
 http://190.123.90.146:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="CABLE_OP1", Hola TV Validar
-http://177.234.230.206:8011/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="CABLE_OP1", Sony Channel
 http://190.60.37.154:45000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="CABLE_OP1", TNT Novelas
@@ -3303,64 +3301,64 @@ http://45.188.78.113:1110/play/a035/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="CABLE_PERU RCN Mas (cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="CABLE_PERU", RCN Mas (cable-peru)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="CABLE_PERU ,Mega TV Arequipa (720p) [Not 24/7] (cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="CABLE_PERU" ,Mega TV Arequipa (720p) [Not 24/7] (cable-peru)
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="CABLE_PERU ,TV Cosmos (720p) [Not 24/7]	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="CABLE_PERU" ,TV Cosmos (720p) [Not 24/7]	(cable-peru)
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="CABLE_PERU ,TV Peru (1080p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="CABLE_PERU" ,TV Peru (1080p)	(cable-peru)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="CABLE_PERU ,TV Peru Internacional (720p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="CABLE_PERU" ,TV Peru Internacional (720p)	(cable-peru)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="CABLE_PERU ,Unitel	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="CABLE_PERU" ,Unitel	(cable-peru)
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="CABLE_PERU ,Vía Altomayo (720p) [Not 24/7]	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="CABLE_PERU" ,Vía Altomayo (720p) [Not 24/7]	(cable-peru)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png" group-title="CABLE_PERU ,Latina	(cable-peru)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png" group-title="CABLE_PERU" ,Latina	(cable-peru)
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="CABLE_PERU ,America TV	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="CABLE_PERU" ,America TV	(cable-peru)
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="CABLE_PERU ,ATV HD	(cable-peru)
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="CABLE_PERU ,WILLAX HD	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="CABLE_PERU" ,ATV HD	(cable-peru)
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="CABLE_PERU" ,WILLAX HD	(cable-peru)
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="CABLE_PERU ,GLOBAL TV (SD)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="CABLE_PERU" ,GLOBAL TV (SD)	(cable-peru)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CABLE_PERU ,Nativa HD	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CABLE_PERU" ,Nativa HD	(cable-peru)
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="CABLE_PERU ,Tropical TV (Puerto Maldonado) (720p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="CABLE_PERU" ,Tropical TV (Puerto Maldonado) (720p)	(cable-peru)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="CABLE_PERU ,Frecuencia Musical TV (720p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="CABLE_PERU" ,Frecuencia Musical TV (720p)	(cable-peru)
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="CABLE_PERU ,Millenium 109 FM (Lamas) (720p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="CABLE_PERU" ,Millenium 109 FM (Lamas) (720p)	(cable-peru)
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="CABLE_PERU ,Disney Channel Latin America (1080p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="CABLE_PERU" ,Disney Channel Latin America (1080p)	(cable-peru)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="CABLE_PERU ,Disney Channel Latin America Panregional HD (1080p)	(cable-peru)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="CABLE_PERU" ,Disney Channel Latin America Panregional HD (1080p)	(cable-peru)
 http://201.217.246.177:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="CABLE_PERU ,Panamericana	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="CABLE_PERU" ,Panamericana	(cable-peru)
 https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8dElUGL.jpeg" group-title="CABLE_PERU ,05 | PANAMERICANA TV ᴴᴰ |	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dElUGL.jpeg" group-title="CABLE_PERU" ,05 | PANAMERICANA TV ᴴᴰ |	(cable-peru)
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="CABLE_PERU ,31 | VZ TV |	(cable-peru)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg" group-title="CABLE_PERU" ,31 | VZ TV |	(cable-peru)
 https://www.vztv.online/canalvztelevisionweb/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/unitel.jpg" group-title="CABLE_PERU ,54 | UNITEL |	(cable-peru)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/unitel.jpg" group-title="CABLE_PERU" ,54 | UNITEL |	(cable-peru)
 https://play.agenciastreaming.com:8081/uniteltv/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="CABLE_PERU ,| NICKELODEON ᴴᴰ |	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVb6sTv.jpeg" group-title="CABLE_PERU" ,| NICKELODEON ᴴᴰ |	(cable-peru)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="CABLE_PERU ,| TELESUR |	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="CABLE_PERU" ,| TELESUR |	(cable-peru)
 https://dailymotion.com/video/x82ug5r	
-#EXTINF:0 group-title="CABLE_PERU  ,CNC (Peru) 
+#EXTINF:0 group-title="CABLE_PERU"  ,CNC (Peru) 
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:0 group-title="CABLE_PERU  ,ANT Antares (Peru) 
+#EXTINF:0 group-title="CABLE_PERU"  ,ANT Antares (Peru) 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
-#EXTINF:0 group-title="CABLE_PERU  ,Telecolor (Peru) 
+#EXTINF:0 group-title="CABLE_PERU"  ,Telecolor (Peru) 
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="CABLE_PERU ,ATV+ Noticias HD	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="CABLE_PERU" ,ATV+ Noticias HD	(cable-peru)
 https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="CABLE_PERU ,Cadena TV (720p) [Not 24/7]	(cable-peru)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="CABLE_PERU" ,Cadena TV (720p) [Not 24/7]	(cable-peru)
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="CABLE_PERU ,Studio Universal Latin America	(cable-peru)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="CABLE_PERU" ,Studio Universal Latin America	(cable-peru)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
 
