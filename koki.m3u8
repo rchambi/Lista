@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u" 
 
+#EXTINF:-1 ,America
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="ARGENTINA", Net TV (ARG1)
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26 (ARG1)
@@ -65,21 +69,21 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Cosmos (Argentina) 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="ARGENTINA",EL TRECE HD (ARG1)
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+#https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="ARGENTINA",NET TV HD (ARG1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELEFE  (ARG1)
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe (720p) [Geo-blocked]  (ARG1)
 #https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece OP5  (ARG1)
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA", Canal 7 Jujuy (ARG1)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG1)
-http://201.217.246.177:8000/play/a01q/index.m3u8
+#http://201.217.246.177:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="ARGENTINA", TV Publica Pampeana (ARG1)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="ARGENTINA", QUANTICA TV  16.3 (ARG1)
@@ -114,13 +118,16 @@ http://45.5.151.62:8000/play/a03w/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1 (Bolivia) 
 #http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 --------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
 #https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
 
 
-#EXTINF:-1 group-title="BOLIVIA", Bolivision op2 (Bolivia)  
+#EXTINF:-1 group-title="BOLIVIA", Bolivision LP op2 (Bolivia)  
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="BOLIVIA", Bolivision SCZ op2 (Bolivia)  
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD [NOT 24/7] (Bolivia)
 #https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION SCZ HD [NOT 24/7]  (Bolivia)
