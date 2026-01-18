@@ -176,7 +176,8 @@ https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 #EXTINF:-1 tvg-id="GIGAVISION-OFICIAL" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION SCZ HD (Bolivia)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
-
+#EXTINF:-1  group-title="BOLIVIA",Gol Bolivia [NOT 24/7]  (Bolivia)
+https://customer-lvybmv8y5e6vfjk9.cloudflarestream.com/ab98008f4a21946924a3e5d7536d62ca/manifest/video.m3u8 
 
 
 
