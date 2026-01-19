@@ -1,116 +1,108 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u" 
 
-#EXTINF:-1 ,America
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/America_TV_%282018%29.png/640px-America_TV_%282018%29.png" group-title="ARGENTINA", America TV (ARG)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="ARGENTINA", Net TV (ARG1)
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26 (ARG1)
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN (ARG1)
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="ARGENTINA",Net TV 6 (ARG1)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png", América TV 6 (ARG1)
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA" tvg-logo="https://es.wikipedia.org/wiki/Am%C3%A9rica_TV_(Argentina)#/media/Archivo:Am%C3%A9rica_TV_(Nuevo_logo_Junio_2020).png", América TV 6 (ARG)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ARGENTINA", CADENA 3 (ARG)
+https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="ARGENTINA", CANAL E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_26_logo_%282022%29.svg" group-title="ARGENTINA",  CANAL 26 HD (ARG)
+http://45.5.151.62:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA",  CANAL 7 JUJUY (ARG)
+http://45.5.151.62:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-titl(ARG)e="ARGENTINA", Canal 7 Jujuy (ARG)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="ARGENTINA",  Canal 13 La Rioja  (ARG)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",  C5N HD (ARG)
+http://45.5.151.62:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="ARGENTINA", Cinco TV (ARG)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8 
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="ARGENTINA", Magic Kids (ARG)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA", Ciudad Magazine  (ARG)
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA",Ciudad Magazine 2
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA", CIUDAD MAGAZINE 4(ARG)
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA",  MAGAZINE (ARG)
+http://45.5.151.62:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA", Cosmos (Argentina) 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG)
+#http://201.217.246.177:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA", CRONICA HD 2  (ARG)
+http://201.217.246.177:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="ARGENTINA" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad  (ARG1)
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="ARGENTINA" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve 5 (ARG1)
-http://107.152.39.199:8030/hls/canal7.m3u8
-#EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 5 (ARG1)
+
+
+#EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 5 (ARG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV 4 (ARG1)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+ 3 (ARG1)
-https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="ARGENTINA", NET TV 2 (ARG1)
-https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA", CIUDAD MAGAZINE 4(ARG1)
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="ARGENTINA" , AMC (ARG1)
-https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="ARGENTINA", CANAL E
-https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA", CRONICA HD 2  (ARG1)
-http://201.217.246.177:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ARGENTINA", CADENA 3 (ARG1)
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA",Ciudad Magazine 2
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ARGENTINA",13Max Television (ARG1)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="ARGENTINA",  Canal 13 La Rioja  (ARG1)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="ARGENTINA", Cinco TV (ARG1)
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA", Ciudad Magazine  (ARG1)
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="ARGENTINA", Magic Kids (ARG1)
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA", Neo TV2 (ARG1)
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG1)
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="ARGENTINA", Net TV (ARG1)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="ARGENTINA",  El Trece (ARG1)
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="ARGENTINA",  El Trece (ARG)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA", TVP Publica (Argentina) 
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Uni Teve (Argentina) 
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Cosmos (Argentina) 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="ARGENTINA",EL TRECE HD (ARG1)
-#https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="ARGENTINA",NET TV HD (ARG1)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELEFE  (ARG1)
-#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe (720p) [Geo-blocked]  (ARG1)
-#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece OP5  (ARG1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="ARGENTINA",  El Trece HD (ARG)
+http://45.5.151.62:8000/play/a026/index.m38u
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece OP5  (ARG)
 #https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA", Canal 7 Jujuy (ARG1)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG1)
-#http://201.217.246.177:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="ARGENTINA", TV Publica Pampeana (ARG1)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="ARGENTINA", QUANTICA TV  16.3 (ARG1)
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="ARGENTINA", TELEFE CORDOBA (ARG1)
-https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="ARGENTINA" , EL DOCE CORDOBA   (ARG1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="ARGENTINA",EL TRECE HD (ARG)
+#https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="ARGENTINA",Net TV (ARG)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", Net TV (ARG)
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV (ARG)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="ARGENTINA",NET TV HD (ARG)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="ARGENTINA", Net TV (ARG)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="ARGENTINA" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve 5 (ARG)
+http://107.152.39.199:8030/hls/canal7.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA", Neo TV2 (ARG)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG)
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="ARGENTINA" , EL DOCE CORDOBA   (ARG)
 https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="ARGENTINA" , EL DOCE CORDOBA   (ARG1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="ARGENTINA" , EL DOCE CORDOBA   (ARG)
 https://smt-usr-edge02.sensa.com.ar/output/Canal12D/output.mpd
-
-#EXTINF:-1 group-title="ARGENTINA",  TN (v3)
-http://45.5.151.62:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  C5N HD (v3)
-http://45.5.151.62:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  CANAL 13 HD (v3)
-http://45.5.151.62:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  CANAL 26 HD (v3)
-http://45.5.151.62:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  CANAL 7 JUJUY (v3)
-http://45.5.151.62:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  LN+ HD (v3)
+#EXTINF:-1 group-title="ARGENTINA",  LN+ HD (ARG)
 http://45.5.151.62:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  MAGAZINE (v3)
-http://45.5.151.62:8000/play/a03w/index.m3u8
-
-
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA", TELEFE CORDOBA (ARG)
+https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE  (ARG)
+#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",Telefe (720p) [Geo-blocked]  (ARG)
+#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg" group-title="ARGENTINA",  TN (ARG)
+http://45.5.151.62:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg", TN (ARG)
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+#EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="ARGENTINA", TV Publica Pampeana (ARG)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA", TVP Publica (ARG) 
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
+#EXTINF:-1 group-title="ARGENTINA", Uni Teve (ARG) 
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="ARGENTINA", QUANTICA TV  16.3 (ARG)
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ARGENTINA", 13Max Television (ARG)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
@@ -176,8 +168,7 @@ https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 #EXTINF:-1 tvg-id="GIGAVISION-OFICIAL" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION SCZ HD (Bolivia)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
-#EXTINF:-1  group-title="BOLIVIA",Gol Bolivia [NOT 24/7]  (Bolivia)
-https://customer-lvybmv8y5e6vfjk9.cloudflarestream.com/ab98008f4a21946924a3e5d7536d62ca/manifest/video.m3u8 
+
 
 
 
@@ -2281,6 +2272,9 @@ http://190.108.89.228:8000/play/a0df/index.m3u8
 http://190.171.83.2:4000/play/a0le/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CABLE_OP5",AMC HD9
 http://186.148.182.109:8100/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="ARGENTINA" , AMC (ARG1)
+https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="CABLE_OP5",WARNER CHANNEL HD1
 http://209.45.81.84:8000/play/a04t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CABLE_OP5",WARNER CHANNEL HD2
@@ -3520,6 +3514,12 @@ http://45.172.111.227:8000/play/a03a
 http://45.172.111.227:8000/play/a03f
 #EXTINF:-1 group-title="NoFunciona",  TN HD (v3)
 http://45.172.111.227:8000/play/a03i
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="NoFunciona",Canal 26 (ARG1)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NoFunciona", NET TV 2 (ARG1)
+https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="NoFunciona" ,LN+ 3 (ARG1)
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
 
 
