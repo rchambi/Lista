@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u" 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA", America TV 1(ARG)
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg" group-title="ARGENTINA", America TV 1(ARG)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", América TV 2 (ARG)
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg", América TV 2 (ARG)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
@@ -12,21 +12,19 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="ARGENTINA", CANAL E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  CANAL 26 HD (ARG)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title="ARGENTINA",  CANAL 26 HD (ARG)
 http://45.5.151.62:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  CANAL AMERICA TUCUMAN (ARG)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg/live
-#EXTINF:-1 group-title="ARGENTINA",  CANAL 26 HD Test (ARG)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jEhaYtAd7RI
-
-
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 (ARG)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 (ARG)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA",  CANAL 7 JUJUY (ARG)
 http://45.5.151.62:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA", Canal 7 Jujuy (ARG)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="ARGENTINA",  Canal 13 La Rioja  (ARG)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA",  C5N HD (ARG)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",  C5N HD (ARG)
 http://45.5.151.62:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="ARGENTINA", Cinco TV (ARG)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8 
@@ -52,20 +50,21 @@ http://201.217.246.177:8000/play/a01q/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 5 (ARG)
+#EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 1 (ARG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="ARGENTINA",  El Trece (ARG)
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar"group-title="ARGENTINA",  El Trece 2 (ARG)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="ARGENTINA",  El Trece HD (ARG)
 http://45.5.151.62:8000/play/a026/index.m38u
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece OP5  (ARG)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece 3  (ARG)
 #https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="ARGENTINA",EL TRECE HD (ARG)
 #https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="ARGENTINA" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve (ARG)
+http://107.152.39.199:8030/hls/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png"  group-title="ARGENTINA",Net TV (ARG)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
@@ -77,9 +76,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="ARGENTINA", Net TV (ARG)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="ARGENTINA" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve 5 (ARG)
-http://107.152.39.199:8030/hls/canal7.m3u8
-
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA", Neo TV2 (ARG)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG)
