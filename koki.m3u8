@@ -1450,6 +1450,206 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131?extension=m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="CABLE_ARG",Telefe (arg3)
+http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326893.ts	
+	
+#EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="CABLE_ARG",America (arg3)
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8	
+	
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="CABLE_ARG",El Nueve (arg3)
+http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/97677.ts	
+	
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="CABLE_ARG",El Trece (arg3)
+http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326902.ts	
+	
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="CABLE_ARG",Television Publica (arg3)
+https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8	
+	
+#EXTINF:-1 tvg-id="Cronica" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="CABLE_ARG",Cronica (arg3)
+https://g4.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8	
+	
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="CABLE_ARG",C5N (arg3)
+http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/105110.ts	
+	
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="CABLE_ARG",TN (arg3)
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8	
+	
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="CABLE_ARG",A24 (arg3)
+https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8	
+	
+#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="CABLE_ARG",Encuentro (arg3)
+http://tvmate.icu:8080/KFD8Wv/274022/164878	
+	
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/k4BQYcdT/animal-planet.png" group-title="CABLE_ARG",Animal Planet (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/2800.ts	
+	
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="CABLE_ARG",Discovery Channel (arg3)
+http://fortv.cc:8080/0cMATP/071483/57645	
+	
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="CABLE_ARG",Investigation Discovery (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/135673.ts	
+	
+#EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="CABLE_ARG",AMC Crime (arg3)
+http://vipbftn.xyz:8080/live/VIP016741758811641355/1b1818f43656/707.ts	
+	
+#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="CABLE_ARG",Universal Crime (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2697	
+	
+#EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="CABLE_ARG",History (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/2825.ts	
+	
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://iili.io/JKgjZ57.png" group-title="CABLE_ARG",History 2 (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132580.ts	
+	
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://iili.io/JKgwQEv.png" group-title="CABLE_ARG",National Geographic (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132575.ts	
+	
+#EXTINF:-1 tvg-id="Odisea" tvg-logo="https://iili.io/JKgNuGj.png" group-title="CABLE_ARG",Odisea (arg3)
+http://vipbftn.xyz:8080/live/VIP016741758811641355/1b1818f43656/710.ts	
+	
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="CABLE_ARG",Discovery Home & Health (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/135793.ts	
+	
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="CABLE_ARG",E! Entertainment Television (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/4936.ts	
+	
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://iili.io/JKgSGnt.png" group-title="CABLE_ARG",Lifetime (arg3)
+http://1.84423.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/138262.ts	
+	
+#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://iili.io/JKgSQDB.png" group-title="CABLE_ARG",El Gourmet (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/138191.ts	
+	
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="CABLE_ARG",Canal Cocina (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/126422	
+	
+#EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="CABLE_ARG",Hola TV (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132595.ts	
+	
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/RZ622hNN/canal-extremadura.png" group-title="CABLE_ARG",Canal Extremadura (arg3)
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8	
+	
+#EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="CABLE_ARG",Home Garden TV (arg3)
+http://tv-cool.com:8000/live/zoila/11fc8a52aa/63162.ts	
+	
+#EXTINF:-1 tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/1tSGgLsP/love-the-planet.png" group-title="CABLE_ARG",Love The Planet (arg3)
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8	
+	
+#EXTINF:-1 tvg-id="FreeTV Saber Mas" tvg-logo="https://i.postimg.cc/wvMMLZWy/freetv-sabermas.png" group-title="CABLE_ARG",FreeTV Saber Mas (arg3)
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8	
+	
+#EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="CABLE_ARG",Star Channel (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2693	
+	
+#EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/SKQ7C41F/cine-ar.png" group-title="CABLE_ARG",CINE AR (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3551	
+	
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="CABLE_ARG",TNT (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2797	
+	
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="CABLE_ARG",Space (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3008.ts	
+	
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="CABLE_ARG",Universal TV (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/150073	
+	
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="CABLE_ARG",AMC (arg3)
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3019	
+	
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="CABLE_ARG",HBO (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/7983.ts	
+	
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/Tw5yqYgC/hbo2.png" group-title="CABLE_ARG",HBO 2 (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/50.ts	
+	
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" group-title="CABLE_ARG",HBO Plus (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/7986.ts	
+	
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="CABLE_ARG",Cinecanal (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3724.ts	
+	
+#EXTINF:-1 tvg-id="Runtime" tvg-logo="https://i.postimg.cc/HL8tnj3v/runtime.png" group-title="CABLE_ARG",Runtime (arg3)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eblivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus	
+	
+#EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://i.postimg.cc/sfGJsTwP/freetv-estelar.png" group-title="CABLE_ARG",FreeTV Estelar (arg3)
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8	
+	
+#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="CABLE_ARG",TyC Sports A (arg3)
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts	
+	
+#EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="CABLE_ARG",TyC Sports B (arg3)
+http://tv.zapping.life:8080/live/huvargas01/latinplus6485/9609.ts	
+	
+#EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="CABLE_ARG",TNT Sports Premium A (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145442.ts	
+	
+#EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="CABLE_ARG",TNT Sports Premium B (arg3)
+http://xott.live:8080/0308520/0308521/348158	
+	
+#EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="CABLE_ARG",ESPN Premium A (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145417.ts	
+	
+#EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="CABLE_ARG",ESPN Premium B (arg3)
+http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/404426.ts	
+	
+#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="CABLE_ARG",ESPN A (arg3)
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47111.ts	
+	
+#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="CABLE_ARG",ESPN B (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3036.ts	
+	
+#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="CABLE_ARG",ESPN 2 A (arg3)
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47099.ts	
+	
+#EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="CABLE_ARG",ESPN 2 B (arg3)
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47100.ts	
+	
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="CABLE_ARG",ESPN 3 (arg3)
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47104.ts	
+	
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="CABLE_ARG",FOX Sports (arg3)
+http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/9575	
+	
+#EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="CABLE_ARG",DIRECTV Sports A (arg3)
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145400.ts	
+	
+#EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="CABLE_ARG",DIRECTV Sports B (arg3)
+http://mgoplus.org:2086/live/Intertv39/123456/3483.ts	
+	
+#EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="CABLE_ARG",Deportes Eventos A (arg3)
+https://mze7u.envivoslatam.org/disney5/index.m3u8?token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596&ip=200.55.245.133	
+	
+#EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="CABLE_ARG",Deportes Eventos B (arg3)
+https://mze7u.envivoslatam.org/disney5/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CABLE_OP1" , AMC (ARG1)
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="CABLE_OP1", HBO Plus
@@ -3374,180 +3574,6 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="ARGENTINA3",Telefe (arg3)
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326893.ts	
-	
-#EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA3",America (arg3)
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8	
-	
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="ARGENTINA3",El Nueve (arg3)
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/97677.ts	
-	
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="ARGENTINA3",El Trece (arg3)
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326902.ts	
-	
-#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA3",Television Publica (arg3)
-https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8	
-	
-#EXTINF:-1 tvg-id="Cronica" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="ARGENTINA3",Cronica (arg3)
-https://g4.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8	
-	
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="ARGENTINA3",C5N (arg3)
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/105110.ts	
-	
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA3",TN (arg3)
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8	
-	
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA3",A24 (arg3)
-https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8	
-	
-#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="ARGENTINA3",Encuentro (arg3)
-http://tvmate.icu:8080/KFD8Wv/274022/164878	
-	
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/k4BQYcdT/animal-planet.png" group-title="ARGENTINA3",Animal Planet (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/2800.ts	
-	
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="ARGENTINA3",Discovery Channel (arg3)
-http://fortv.cc:8080/0cMATP/071483/57645	
-	
-#EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="ARGENTINA3",Investigation Discovery (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/135673.ts	
-	
-#EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="ARGENTINA3",AMC Crime (arg3)
-http://vipbftn.xyz:8080/live/VIP016741758811641355/1b1818f43656/707.ts	
-	
-#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="ARGENTINA3",Universal Crime (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2697	
-	
-#EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="ARGENTINA3",History (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/2825.ts	
-	
-#EXTINF:-1 tvg-id="History 2" tvg-logo="https://iili.io/JKgjZ57.png" group-title="ARGENTINA3",History 2 (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132580.ts	
-	
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://iili.io/JKgwQEv.png" group-title="ARGENTINA3",National Geographic (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132575.ts	
-	
-#EXTINF:-1 tvg-id="Odisea" tvg-logo="https://iili.io/JKgNuGj.png" group-title="ARGENTINA3",Odisea (arg3)
-http://vipbftn.xyz:8080/live/VIP016741758811641355/1b1818f43656/710.ts	
-	
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="ARGENTINA3",Discovery Home & Health (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/135793.ts	
-	
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="ARGENTINA3",E! Entertainment Television (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/4936.ts	
-	
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://iili.io/JKgSGnt.png" group-title="ARGENTINA3",Lifetime (arg3)
-http://1.84423.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/138262.ts	
-	
-#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://iili.io/JKgSQDB.png" group-title="ARGENTINA3",El Gourmet (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/138191.ts	
-	
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="ARGENTINA3",Canal Cocina (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/126422	
-	
-#EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="ARGENTINA3",Hola TV (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132595.ts	
-	
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/RZ622hNN/canal-extremadura.png" group-title="ARGENTINA3",Canal Extremadura (arg3)
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8	
-	
-#EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="ARGENTINA3",Home Garden TV (arg3)
-http://tv-cool.com:8000/live/zoila/11fc8a52aa/63162.ts	
-	
-#EXTINF:-1 tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/1tSGgLsP/love-the-planet.png" group-title="ARGENTINA3",Love The Planet (arg3)
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8	
-	
-#EXTINF:-1 tvg-id="FreeTV Saber Mas" tvg-logo="https://i.postimg.cc/wvMMLZWy/freetv-sabermas.png" group-title="ARGENTINA3",FreeTV Saber Mas (arg3)
-https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8	
-	
-#EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="ARGENTINA3",Star Channel (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2693	
-	
-#EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/SKQ7C41F/cine-ar.png" group-title="ARGENTINA3",CINE AR (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3551	
-	
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="ARGENTINA3",TNT (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2797	
-	
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="ARGENTINA3",Space (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3008.ts	
-	
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="ARGENTINA3",Universal TV (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/150073	
-	
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="ARGENTINA3",AMC (arg3)
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3019	
-	
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="ARGENTINA3",HBO (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/7983.ts	
-	
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/Tw5yqYgC/hbo2.png" group-title="ARGENTINA3",HBO 2 (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/50.ts	
-	
-#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" group-title="ARGENTINA3",HBO Plus (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/7986.ts	
-	
-#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="ARGENTINA3",Cinecanal (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3724.ts	
-	
-#EXTINF:-1 tvg-id="Runtime" tvg-logo="https://i.postimg.cc/HL8tnj3v/runtime.png" group-title="ARGENTINA3",Runtime (arg3)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eblivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus	
-	
-#EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://i.postimg.cc/sfGJsTwP/freetv-estelar.png" group-title="ARGENTINA3",FreeTV Estelar (arg3)
-https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8	
-	
-#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="ARGENTINA3",TyC Sports A (arg3)
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts	
-	
-#EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="ARGENTINA3",TyC Sports B (arg3)
-http://tv.zapping.life:8080/live/huvargas01/latinplus6485/9609.ts	
-	
-#EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="ARGENTINA3",TNT Sports Premium A (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145442.ts	
-	
-#EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="ARGENTINA3",TNT Sports Premium B (arg3)
-http://xott.live:8080/0308520/0308521/348158	
-	
-#EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="ARGENTINA3",ESPN Premium A (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145417.ts	
-	
-#EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="ARGENTINA3",ESPN Premium B (arg3)
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/404426.ts	
-	
-#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="ARGENTINA3",ESPN A (arg3)
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47111.ts	
-	
-#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="ARGENTINA3",ESPN B (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3036.ts	
-	
-#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="ARGENTINA3",ESPN 2 A (arg3)
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47099.ts	
-	
-#EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="ARGENTINA3",ESPN 2 B (arg3)
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47100.ts	
-	
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="ARGENTINA3",ESPN 3 (arg3)
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47104.ts	
-	
-#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="ARGENTINA3",FOX Sports (arg3)
-http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/9575	
-	
-#EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="ARGENTINA3",DIRECTV Sports A (arg3)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145400.ts	
-	
-#EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="ARGENTINA3",DIRECTV Sports B (arg3)
-http://mgoplus.org:2086/live/Intertv39/123456/3483.ts	
-	
-#EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="ARGENTINA3",Deportes Eventos A (arg3)
-https://mze7u.envivoslatam.org/disney5/index.m3u8?token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596&ip=200.55.245.133	
-	
-#EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="ARGENTINA3",Deportes Eventos B (arg3)
-https://mze7u.envivoslatam.org/disney5/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596	
-	
 
 
 
