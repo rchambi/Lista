@@ -416,7 +416,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-id="USAJ17000049P" tvg-name="" tvg-logo="https://mediamythalert.files.wordpress.com/2012/01/abc-news-logo.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: ABC NEWS ᴴᴰ
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBSN" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="News",🇺🇸: CBSN ᴴᴰ
+#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBSN" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: CBSN ᴴᴰ
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="I202.10142.schedulesdirect.org" tvg-name="CNN US" tvg-logo="https://ia800801.us.archive.org/25/items/stevechatfield27_gmail_Cnn/cnn.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: CNN ᴴᴰ
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
