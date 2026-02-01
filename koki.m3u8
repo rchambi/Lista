@@ -491,7 +491,7 @@ http://181.78.82.6:46090/play/a00q/index.m3u8
 http://181.78.82.6:46090/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN PREMIUM HD (2)
 http://181.78.82.6:46090/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS 
+					#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS
 http://201.217.246.177:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DEPORTES", DSPORTS
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
@@ -977,29 +977,29 @@ http://190.104.67.91:234/play/a085/index.m3u8
 http://190.83.9.222:8000/play/ca005
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport2 MX4 ⚽
 http://190.83.9.222:8000/play/ca006
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD1 ⚽
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD1 ⚽
 http://38.199.6.1:17001/play/a036/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD2
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD2
 http://186.96.71.204:8000/play/a0c2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD3
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD3
 #http://45.173.72.26:2072/play/a0bu
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD4
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD4
 http://45.181.120.65:9087/play/057/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD5
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD5
 http://179.1.202.41:45000/play/a0ix/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD6
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD6
 http://38.250.125.162:9800/play/110/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD7
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD7
 http://45.173.72.26:2072/play/a0bu
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Chile.HD8
 http://45.232.176.29:8000/play/a02r
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium.HD9
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TNTSportPremium Arg.HD9
 http://45.5.151.62:8000/play/a09f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TyC.SportHD1 ⚽
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TyC.SportHD1 INT⚽
 http://190.102.139.189:8000/play/a00t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TyC.SportHD2
 http://179.51.136.23:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES2", TyC SPORTS Internacional HD3
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES2", TyC SPORTS HD3
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TyC.SportHD4
 http://181.78.27.128:12543/play/a04n/index.m3u8
