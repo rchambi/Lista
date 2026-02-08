@@ -1,3 +1,4 @@
+
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u" 
 
 
@@ -338,10 +339,50 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="EUROPA", LA SEXTA ᴴᴰ 
 http://176.65.146.237:8401/play/a0af/index.m3u8
+
 #EXTINF:0 group-title="EUROPA", Portugal - Grjngo (🇵🇹🇧🇷)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="EUROPA", Portugal - Cindie Lite (🇵🇹🇧🇷)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 group-title="EUROPA" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtp1.png",RTP 1  (🇵🇹🇧🇷)
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtp2.png",RTP 2 (🇵🇹🇧🇷)
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/sic.png",SIC (🇵🇹🇧🇷)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/tvi.png",TVI (🇵🇹🇧🇷)
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/sicnoticias.png",SIC Notícias (🇵🇹🇧🇷)
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/a8UwWa-BpMhENFfc5NCMHnNiUDcL_OTtFnpTDPR01_omkj4DNDH8Ncw9m3STV1YvrRw2kyNX_-WWK0a3ivvMajYKwb3KnDpwZSP2RwSlCVY6MuTigridNyzRghEh57WbEomiT3OykFCKLy3c2vMMe077IyrAWkdWFrKxMOZSfPc/hls/index.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpn.png",RTP Notícias (🇵🇹🇧🇷)
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/cnnpt.png",CNN Portugal (🇵🇹🇧🇷)
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/vmaistvi.png",V+TVI
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/portocanal.png",Porto Canal (🇵🇹🇧🇷)
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="ContaLa.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/contala.png",Conta Lá (🇵🇹🇧🇷)
+https://raw.githubusercontent.com/thomraider12/YouTube_to_m3u/refs/heads/main/canais/contala.m3u8
+
+#EXTINF:-1 group-title="EUROPA" tvg-id="FamaTV.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/famatv.png",Fama TV (🇵🇹🇧🇷)
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 group-title="EUROPA" tvg-id="USBC3900018K6" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/mtmn.png",MyTime Movie Network (🇵🇹🇧🇷)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="EUROPA", Aris 24 (Rusia) (🇷🇺) 
 #http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
@@ -538,9 +579,16 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Disney11 EVENTOS
 https://ub2dr.envivoslatam.org/disney11/tracks-v1a1/mono.m3u8?ip=148.227.75.206&token=6c7cf4651e259f2b12
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1 FHD
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 2 FHD
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="",Futbol FHD
+https://live.teleradiocom.tj/8/3m.m3u8
 
-
+#EXTINF:-1 tvg-id="fifa-plus-pt-new" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fifaplus.png",FIFA+ (🇵🇹🇧🇷)
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
 
 ⚽
@@ -3550,48 +3598,51 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.
 
 
 
-
-#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="ENTRETERIMIENTO", 🇺🇸: E! Entertainment Televisionᴴᴰ
+#EXTINF:-1 group-title="ENTRETERIMIENTO" tvg-logo="",Fx FHD
+http://38.199.6.1:17001/play/a04u/index.m3u8
+#EXTINF:-1 group-title="ENTRETERIMIENTO"  tvg-logo="",🇺🇸 AMC East FHD
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="ENTRETERIMIENTO", 🇺🇸 E! Entertainment Televisionᴴᴰ
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="ENTRETERIMIENTO", 🇺🇸: FX Eastᴴᴰ
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="ENTRETERIMIENTO", 🇺🇸 FX Eastᴴᴰ
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸: FXMᴴᴰ
+#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 FXMᴴᴰ
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸: HBO Eastᴴᴰ
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 HBO Eastᴴᴰ
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="ENTRETERIMIENTO", 🇺🇸: HGTV Eastᴴᴰ
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="ENTRETERIMIENTO", 🇺🇸 HGTV Eastᴴᴰ
 http://fl2.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="ENTRETERIMIENTO", 🇺🇸: Showtime 2 Eastᴴᴰ
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="ENTRETERIMIENTO", 🇺🇸 Showtime 2 Eastᴴᴰ
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="ENTRETERIMIENTO", 🇺🇸: Showtime Extreme Eastᴴᴰ
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="ENTRETERIMIENTO", 🇺🇸 Showtime Extreme Eastᴴᴰ
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="ENTRETERIMIENTO", 🇺🇸: Showtime Next Eastᴴᴰ
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="ENTRETERIMIENTO", 🇺🇸 Showtime Next Eastᴴᴰ
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="ENTRETERIMIENTO", 🇺🇸: Starz Eastᴴᴰ
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Eastᴴᴰ
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="ENTRETERIMIENTO", 🇺🇸: Starz Comedy Eastᴴᴰ
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Comedy Eastᴴᴰ
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="ENTRETERIMIENTO", 🇺🇸: Starz Edge Eastᴴᴰ
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Edge Eastᴴᴰ
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸: Starz Encore Eastᴴᴰ
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Encore Eastᴴᴰ
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸: Starz Encore Actionᴴᴰ
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Encore Actionᴴᴰ
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸: Starz Encore Westernsᴴᴰ
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Encore Westernsᴴᴰ
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="ENTRETERIMIENTO", 🇺🇸: TBS Eastᴴᴰ
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="ENTRETERIMIENTO", 🇺🇸 TBS Eastᴴᴰ
 http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸: ESTRENO 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸: ESTRENO 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 2
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸: ESTRENO 3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 3
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸: ESTRENO 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸: ESTRENO 5
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 5
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸: ESTRENO 6
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 6
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
@@ -3600,13 +3651,13 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL",🇺🇸: DisneyJrᴴᴰ
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL",🇺🇸 DisneyJrᴴᴰ
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="INFANTIL",🇺🇸: Nickelodeon Eastᴴᴰ
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="INFANTIL",🇺🇸 Nickelodeon Eastᴴᴰ
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="INFANTIL",🇺🇸: NickJr Eastᴴᴰ
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="INFANTIL",🇺🇸 NickJr Eastᴴᴰ
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="INFANTIL",🇺🇸: NickToons Eastᴴᴰ
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="INFANTIL",🇺🇸 NickToons Eastᴴᴰ
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 
@@ -3730,7 +3781,6 @@ http://45.172.111.227:8000/play/a03i
 https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="NoFunciona" ,LN+ 3 (ARG1)
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
-
 
 
 
