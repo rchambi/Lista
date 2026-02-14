@@ -170,7 +170,8 @@ http://181.119.85.222:8000/play/a050/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1 (Bolivia) 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1 (Bolivia)
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(F4m6YKICpaZh5h7kUC3gcFTpR79lkDrqqJ5RKXC3QUx01syWVjUVl8GlNV56O7jGL1BMh0_i9LbmZ_aNFMzFv2cyfzG1tfLczjt34SCgQIGsPApxxEKUcoJ4sZZL8G7B)/cloud/3/x9nzqpo/d/live-720.m3u8
 #http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 --------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
 #https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
 
