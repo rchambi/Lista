@@ -200,6 +200,11 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(HsYmOAiX12yktsmZY7oFOQyCsXAZWFoRcO5v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1  TEMPORAL (Bolivia)
 https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=sht1HpOixDcysRFDiszFe3ctlzltKkROmuPrkCjXtDrbu-RmSb96OkKcKQChfWeHq4ueoxLzSEK0SXE20_vVXSwsJywaEb_qmlAXAYj40UA&dmTs=321952&dmV1st=8D915936D11B3E5E149F99E1D8FC98FA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.2  TEMPORAL (Bolivia)
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(e2-ZsnBfVh7qOPHDSDR9Yhi749nCorHlVT9KIFOq1U1yH5xNXAyljzjB8WRU7Yifz2XljxAtAy74g-hMdSzy4AXKHkc84omSuv1NvzBIaOe6kY7OgM2u1GcqHmHo9IN2)/cloud/3/x9ny70y/d/live-1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.2  test (Bolivia)
+https://www.dailymotion.com/video/x9ny70y#tab_embed.m3u8
 
 #http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 --------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
 #https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
