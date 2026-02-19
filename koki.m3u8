@@ -14,6 +14,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV (ARG) 🟢
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+#EXTINF:-1 tvg-id="BravoTV.ar@SD" group-title="ARGENTINA", Bravo TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ARGENTINA", CADENA 3 (ARG) 🟢
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="ARGENTINA", CANAL E (ARG) 🟢
@@ -183,10 +186,14 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA",A24 (ARG) 🟢
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8	
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA" ,A24 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="ATVArgentina.ar@SD" group-title="ARGENTINA",ATV Argentina
+https://tv.streaming.com.bo/atvargentina/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="MetroTV.ar@SD" group-title="ARGENTINA",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
@@ -246,11 +253,15 @@ https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (Bolivia)  Temp
 #https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=mCWXWY8Q7iUnb5MiJJFxHALV7tU4jDsk4FoLLc9LnWum4GCDL8D3TouODDuFWkvx7bYBXOb5k065TH6bc9VdQw&dmTs=999999&dmV1st=41c8c539-7dec-4fb7-abfa-444bdac7849f
-#EXTINF:-1 group-title="BOLIVIA", Red Uno - Santa Cruz (Bolivia)  Temp
+#EXTINF:-1 tvg-id="SantaCruz.bo@SD" group-title="BOLIVIA", Red Uno - Santa Cruz (Bolivia)  
+https://master.tucableip.com/tvhome/index.m3u8
 #https://cdndirector.dailymotion.com/cdn/live/video/x9n2qyk.m3u8?sec=Po8G4W-guhTun2ovfIHDUt7oxIHPI1kGAhxl8S0W8AM11hCRrXT8eLCMjJsH_qT-_NVwO9jyARhJfT9hgIA_Bw&dmTs=999999&dmV1st=9b69e3ea-b6f8-448f-800d-938bff6603dd
+
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="BOLIVIA",ATB MOVIL (Bolivia)
 http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="ATBLaPaz.bo@SD" group-title="BOLIVIA",ATB La Paz
+https://stream.atb.com.bo/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="BOLIVIA",TDT MULTIMEDIA HD (Bolivia)
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
@@ -261,8 +272,10 @@ https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 #EXTINF:-1 tvg-id="GIGAVISION-OFICIAL" tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION SCZ HD (Bolivia)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
-#EXTINF:-1  group-title="BOLIVIA",Futbol Bolivia [Temporal]  (Bolivia)
-#https://customer-lvybmv8y5e6vfjk9.cloudflarestream.com/ab98008f4a21946924a3e5d7536d62ca/manifest/video.m3u8 
+#EXTINF:-1 tvg-id="F10HD.bo@SD" group-title="BOLIVIA",F10 HD [Geo-blocked]
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="FTV.bo@SD" group-title="BOLIVIA",FTV
+https://master.tucableip.com/ftvhd/index.m3u8
 
 
 
@@ -659,8 +672,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="",Futbol FHD
 https://live.teleradiocom.tj/8/3m.m3u8
 
-#EXTINF:-1 tvg-id="fifa-plus-pt-new" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fifaplus.png",FIFA+ (🇵🇹🇧🇷)
-https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 (Cable op2)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
@@ -671,6 +682,24 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 (Cable op2)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English"  group-title="DEPORTES",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French"  group-title="DEPORTES",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German"  group-title="DEPORTES",FIFA+ German (720p)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica"  group-title="DEPORTES",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy"  group-title="DEPORTES",FIFA+ Italy (720p)
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-plus-pt-new" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fifaplus.png",FIFA+ (🇵🇹🇧🇷)
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese"  group-title="DEPORTES",FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain"  group-title="DEPORTES",FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates"  group-title="DEPORTES",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 
 
@@ -3451,6 +3480,27 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_7L1-p-oZbKLAZ6nt83KLt2Z-FBplKuzJFH9phbFYvy7HKm93pXaN42wgrn7hpyXeEcgwI3i1hr88nMz0mZrhT6w4Ye-0qD5lEe-_sfo1-T8Cw-pR5Ts0KLPowqwCnN3CXsqDZnFqtfo/s1600/logo+estrenos_2.jpg" group-title="ENTRETERIMIENTO",🇪🇸 ESTRENO 6
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK"  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten Top Movies (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK"  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Action Movies (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/ma🇬🇧 ster/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK"  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Comedy Movies (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK"  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Drama Movies (1080p)
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK"  group-title="ENTRETERIMIENTO" 🇬🇧 ,Rakuten TV Family Movies (1080p)
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id=""  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Reality (1080p)
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 tvg-id=""  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Romance Movies (1080p)
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-id=""  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Sci-Fi (1080p)
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:-1 tvg-id=""  group-title="ENTRETERIMIENTO" ,🇬🇧 Rakuten TV Thrillers (1080p)
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX Cartooon" tvg-logo="" group-title="INFANTIL", 🇺🇸 FX Cartoon
@@ -3814,10 +3864,3 @@ http://45.172.111.227:8000/play/a03i
 https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="NoFunciona" ,LN+ 3 🔴
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
-
-
-
-
-
-
-
