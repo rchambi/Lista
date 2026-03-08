@@ -7,11 +7,21 @@
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 40px; background-color: #f4f4f9; }
         .container { margin: auto; background: white; padding: 2px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
         .controls { margin-bottom: 25px; }
+        
+        /* Estilo base de los botones */
         button { 
             padding: 12px 24px; margin: 8px; cursor: pointer; border-radius: 6px; 
-            border: none; background-color: #ff0000; color: white; font-weight: bold; transition: 0.3s;
+            border: none; background-color: #555; color: white; font-weight: bold; transition: 0.3s;
         }
-        button:hover { background-color: #cc0000; transform: scale(1.05); }
+        
+        button:hover { background-color: #777; transform: scale(1.05); }
+
+        /* Clase para el botón seleccionado */
+        button.active {
+            background-color: #ff0000; /* Rojo cuando está activo */
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+        }
+
         .video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; }
         .video-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
     </style>
@@ -19,34 +29,40 @@
 <body>
 
     <div class="container">
-        <div class="controls">
-            <!-- Pasamos solo el ID del video como parámetro -->
-            <button onclick="reproducir('SF06Qy1Ct6Y')">▶ C5N</button>
-            <button onclick="reproducir('cb12KmMMDJA')">▶ TN</button>
-            <button onclick="reproducir('rwnz1KIHTh8')">▶ Canal 26</button> 
-            <button onclick="reproducir('JC7f3EUDaqw')">▶ Cronica</button>
-            <button onclick="reproducir('M_gUd2Bp9g0')">▶ LN+</button>
-            <button onclick="reproducir('ArKbAx1K-2U')">▶ A24</button>            
-            <button onclick="reproducir('JrmCaXL5GZs')">▶ Ar|12</button>
-            <button onclick="reproducir('ElgCFOkyrjU')">▶ FBOP1</button>
-            <button onclick="reproducir('Jq6xSusx6aA')">▶ FBOP2</button>
+        <div class="controls" id="btn-container">
+            <!-- Agregamos 'this' para identificar cuál botón se clickeó -->
+            <button class="active" onclick="reproducir('SF06Qy1Ct6Y', this)">▶ C5N</button>
+            <button onclick="reproducir('cb12KmMMDJA', this)">▶ TN</button>
+            <button onclick="reproducir('rwnz1KIHTh8', this)">▶ Canal 26</button> 
+            <button onclick="reproducir('JC7f3EUDaqw', this)">▶ Cronica</button>
+            <button onclick="reproducir('M_gUd2Bp9g0', this)">▶ LN+</button>
+            <button onclick="reproducir('ArKbAx1K-2U', this)">▶ A24</button>            
+            <button onclick="reproducir('JrmCaXL5GZs', this)">▶ Ar|12</button>
+            <button onclick="reproducir('ElgCFOkyrjU', this)">▶ FBOP1</button>
+            <button onclick="reproducir('Jq6xSusx6aA', this)">▶ FBOP2</button>
         </div>
 
         <div class="video-wrapper">
-            <iframe id="visor"  src="https://www.youtube.com/embed/SF06Qy1Ct6Y" 
+            <iframe id="visor" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin" 
             allowfullscreen>
             </iframe>
         </div>
     </div>
 
     <script>
-        function reproducir(idVideo) {
-            // El parámetro 'autoplay=1' activa el inicio automático
-            // El parámetro 'mute=1' es obligatorio en navegadores modernos para que autoplay funcione
-            const urlFinal = "https://www.youtube.com/embed/" + idVideo;
+        function reproducir(idVideo, elemento) {
+            // 1. Cambiar el video
+            const urlFinal = "https://www.youtube.com/embed/" + idVideo + "?autoplay=1";
             document.getElementById('visor').src = urlFinal;
+
+            // 2. Manejar las clases de los botones
+            // Quitamos la clase 'active' de todos los botones dentro de .controls
+            const botones = document.querySelectorAll('.controls button');
+            botones.forEach(btn => btn.classList.remove('active'));
+
+            // Se la ponemos solo al botón que se presionó
+            elemento.classList.add('active');
         }
     </script>
 
