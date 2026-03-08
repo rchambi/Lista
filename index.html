@@ -27,10 +27,11 @@
         </div>
 
         <div class="video-wrapper">
-            <iframe id="visor" 
-                    src="https://www.youtube.com" 
-                    allow="autoplay; encrypted-media" 
-                    allowfullscreen>
+            <iframe id="visor"  width="1979" height="1030" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" 
+            title="C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
             </iframe>
         </div>
     </div>
@@ -39,17 +40,10 @@
         function reproducir(idVideo) {
             // El parámetro 'autoplay=1' activa el inicio automático
             // El parámetro 'mute=1' es obligatorio en navegadores modernos para que autoplay funcione
-            const urlFinal = "https://www.youtube.com/" + idVideo + "?autoplay=1&mute=1";
+            const urlFinal = "https://www.youtube.com/embed" + idVideo;
             document.getElementById('visor').src = urlFinal;
         }
     </script>
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/watch?v=SF06Qy1Ct6Y" 
-  allowfullscreen>
-</iframe>
 
-<iframe width="1979" height="1030" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" title="C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
 </html>
