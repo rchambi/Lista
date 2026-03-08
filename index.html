@@ -8,7 +8,6 @@
         .container { margin: auto; background: white; padding: 2px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
         .controls { margin-bottom: 25px; }
         
-        /* Estilo base de los botones */
         button { 
             padding: 12px 24px; margin: 8px; cursor: pointer; border-radius: 6px; 
             border: none; background-color: #555; color: white; font-weight: bold; transition: 0.3s;
@@ -16,10 +15,9 @@
         
         button:hover { background-color: #777; transform: scale(1.05); }
 
-        /* Clase para el botón seleccionado */
         button.active {
             background-color: #64bb50; /* verde cuando está activo */
-            box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+            box-shadow: 0 0 10px rgba(100, 187, 80, 0.5);
         }
 
         .video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; }
@@ -30,16 +28,24 @@
 
     <div class="container">
         <div class="controls" id="btn-container">
-            <!-- Agregamos 'this' para identificar cuál botón se clickeó -->
-            <button class="active" onclick="reproducir('SF06Qy1Ct6Y', this)">▶ C5N</button>
-            <button onclick="reproducir('cb12KmMMDJA', this)">▶ TN</button>
-            <button onclick="reproducir('rwnz1KIHTh8', this)">▶ Canal 26</button> 
+            <!-- YouTube (plataforma: 'yt') -->
+            <button class="active" onclick="reproducir('SF06Qy1Ct6Y', this, 'yt')">▶ C5N</button>
+            <button onclick="reproducir('cb12KmMMDJA', this, 'yt')">▶ TN</button>
+            <button onclick="reproducir('rwnz1KIHTh8', this, 'yt')">▶ Canal 26</button> 
             <button onclick="reproducir('JC7f3EUDaqw', this)">▶ Cronica</button>
             <button onclick="reproducir('M_gUd2Bp9g0', this)">▶ LN+</button>
             <button onclick="reproducir('ArKbAx1K-2U', this)">▶ A24</button>            
             <button onclick="reproducir('JrmCaXL5GZs', this)">▶ Ar|12</button>
             <button onclick="reproducir('ElgCFOkyrjU', this)">▶ FBOP1</button>
             <button onclick="reproducir('Jq6xSusx6aA', this)">▶ FBOP2</button>
+
+
+
+            <!-- Dailymotion (plataforma: 'dm') -->
+            <!-- Ejemplo con el ID de un video de Dailymotion -->
+            <button onclick="reproducir('x9n2qyk', this, 'dm')">▶ Dailymotion TV</button>
+
+        
         </div>
 
         <div class="video-wrapper">
@@ -51,17 +57,21 @@
     </div>
 
     <script>
-        function reproducir(idVideo, elemento) {
-            // 1. Cambiar el video
-            const urlFinal = "https://www.youtube.com/embed/" + idVideo + "?autoplay=1";
+        function reproducir(idVideo, elemento, plataforma) {
+            let urlFinal = "";
+
+            // Lógica para elegir la URL según la plataforma
+            if (plataforma === 'dm') {
+                urlFinal = "https://www.dailymotion.com/" + idVideo + "?autoplay=1";
+            } else {
+                urlFinal = "https://www.youtube.com/embed/" + idVideo + "?autoplay=1";
+            }
+
             document.getElementById('visor').src = urlFinal;
 
-            // 2. Manejar las clases de los botones
-            // Quitamos la clase 'active' de todos los botones dentro de .controls
+            // Manejo de la clase active
             const botones = document.querySelectorAll('.controls button');
             botones.forEach(btn => btn.classList.remove('active'));
-
-            // Se la ponemos solo al botón que se presionó
             elemento.classList.add('active');
         }
     </script>
