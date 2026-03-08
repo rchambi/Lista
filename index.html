@@ -5,7 +5,7 @@
     <title>Reproductor Automático Canales</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 40px; background-color: #f4f4f9; }
-        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .container { margin: auto; background: white; padding: 2px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
         .controls { margin-bottom: 25px; }
         button { 
             padding: 12px 24px; margin: 8px; cursor: pointer; border-radius: 6px; 
@@ -19,16 +19,20 @@
 <body>
 
     <div class="container">
-        <h1>Mi Canales</h1>
         <div class="controls">
             <!-- Pasamos solo el ID del video como parámetro -->
             <button onclick="reproducir('SF06Qy1Ct6Y')">▶ C5N</button>
             <button onclick="reproducir('cb12KmMMDJA')">▶ TN</button>
+            <button onclick="reproducir('rwnz1KIHTh8')">▶ Canal 26</button> 
+            <button onclick="reproducir('JC7f3EUDaqw')">▶ Cronica</button>
+            <button onclick="reproducir('M_gUd2Bp9g0')">▶ LN+</button>
+            <button onclick="reproducir('ArKbAx1K-2U')">▶ A24</button>            
+            <button onclick="reproducir('JrmCaXL5GZs')">▶ Ar|12</button>
+            <button onclick="reproducir('M_gUd2Bp9g0')">▶ LN+</button>
         </div>
 
         <div class="video-wrapper">
             <iframe id="visor"  width="1979" height="1030" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" 
-            title="C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             referrerpolicy="strict-origin-when-cross-origin" 
             allowfullscreen>
