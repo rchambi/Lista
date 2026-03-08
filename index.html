@@ -2,32 +2,43 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Reproductor con Autoplay</title>
+    <title>Reproductor Automático GitHub</title>
     <style>
-        body { font-family: sans-serif; text-align: center; padding: 20px; }
-        button { padding: 10px 20px; margin: 5px; cursor: pointer; border-radius: 5px; }
-        iframe { border: none; margin-top: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 40px; background-color: #f4f4f9; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .controls { margin-bottom: 25px; }
+        button { 
+            padding: 12px 24px; margin: 8px; cursor: pointer; border-radius: 6px; 
+            border: none; background-color: #ff0000; color: white; font-weight: bold; transition: 0.3s;
+        }
+        button:hover { background-color: #cc0000; transform: scale(1.05); }
+        .video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; }
+        .video-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
     </style>
 </head>
 <body>
 
-    <h1>Reproductor Automático</h1>
+    <div class="container">
+        <h1>Mi Canal de GitHub</h1>
+        <div class="controls">
+            <!-- Pasamos solo el ID del video como parámetro -->
+            <button onclick="reproducir('SF06Qy1Ct6Y')">▶ Reproducir Video 1</button>
+            <button onclick="reproducir('cb12KmMMDJA')">▶ Reproducir Video 2</button>
+        </div>
 
-    <div>
-        <button onclick="reproducir('SF06Qy1Ct6Y')">Reproducir Video 1</button>
-        <button onclick="reproducir('cb12KmMMDJA')">Reproducir Video 2</button>
+        <div class="video-wrapper">
+            <iframe id="visor" 
+                    src="https://www.youtube.com" 
+                    allow="autoplay; encrypted-media" 
+                    allowfullscreen>
+            </iframe>
+        </div>
     </div>
-
-    <!-- El reproductor vacío al inicio o con el primer video -->
-    <iframe id="visor" width="640" height="360" 
-            src="" 
-            allow="autoplay; encrypted-media" 
-            allowfullscreen>
-    </iframe>
 
     <script>
         function reproducir(idVideo) {
-            // Se añaden los parámetros autoplay=1 y mute=1 para asegurar que funcione
+            // El parámetro 'autoplay=1' activa el inicio automático
+            // El parámetro 'mute=1' es obligatorio en navegadores modernos para que autoplay funcione
             const urlFinal = "https://www.youtube.com" + idVideo + "?autoplay=1&mute=1";
             document.getElementById('visor').src = urlFinal;
         }
