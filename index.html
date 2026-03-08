@@ -40,7 +40,7 @@
         function reproducir(idVideo) {
             // El parámetro 'autoplay=1' activa el inicio automático
             // El parámetro 'mute=1' es obligatorio en navegadores modernos para que autoplay funcione
-            const urlFinal = "https://www.youtube.com/embed" + idVideo;
+            const urlFinal = "https://www.youtube.com/embed/" + idVideo;
             document.getElementById('visor').src = urlFinal;
         }
     </script>
