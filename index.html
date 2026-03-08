@@ -1,0 +1,43 @@
+html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Reproductor Dinámico de YouTube</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 20px; }
+        .controls { margin-bottom: 20px; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; border-radius: 5px; border: 1px solid #ccc; }
+        button:hover { background-color: #f0f0f0; }
+        iframe { border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
+    </style>
+</head>
+<body>
+
+    <h1>Reproductor de YouTube</h1>
+
+    <div class="controls">
+        <!-- Botones que pasan la URL como parámetro a la función -->
+        <button onclick="cambiarVideo('https://www.youtube.com/watch?v=SF06Qy1Ct6Y')">C5N</button>
+        <button onclick="cambiarVideo('https://www.youtube.com/watch?v=cb12KmMMDJA')">TN</button>
+    </div>
+
+    <!-- El reproductor (iframe) -->
+    <iframe id="reproductor" width="640" height="360" 
+            src="https://www.youtube.com" 
+            allowfullscreen>
+    </iframe>
+
+    <script>
+        function cambiarVideo(url) {
+            // Extraer el ID del video (lo que sigue a 'v=')
+            const videoId = url.split('v=')[1];
+            // Construir la nueva URL de inserción
+            const nuevaUrl = "https://www.youtube.com/embed/" + videoId;
+            // Cambiar el atributo 'src' del iframe
+            document.getElementById('reproductor').src = nuevaUrl;
+        }
+    </script>
+
+</body>
+</html>
