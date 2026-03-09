@@ -11,7 +11,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8 	
 #EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA", AMERICA HD  36.1 (ARG)	
 https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
-	
+#EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA",America (ARG)	
+http://186.125.218.189:13000/play/a044/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV (ARG) 🟢	
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0	
 #EXTINF:-1 tvg-id="BravoTV.ar@SD" group-title="ARGENTINA", Bravo TV  (ARG)	
@@ -55,8 +57,8 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG)🟢	
 #http://201.217.246.177:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA", CRONICA HD 2  (ARG)	NF
-http://201.217.246.177:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA", CRONICA HD 2  (ARG)
+http://186.125.218.189:13000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="Cronica" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA",Cronica (ARG)	
 https://g4.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 	
@@ -151,7 +153,9 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
 https://cablered.iptvperu.tv:1936/cablered/todonoticias/playlist.m3u8
-#https://cablered.iptvperu.tv:1936/transcoder/todonoticias_t3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
+http://186.125.218.189:13000/play/a047/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN (ARG) 🟢	
@@ -463,7 +467,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="NOTICIAS_INTERNACIONALES", CNN en Español
-#http://200.113.4.75:7210/play/a005/index.m3u8
+http://186.125.218.189:13000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="NOTICIAS_INTERNACIONALES", Telemundo Internacional
 #http://200.113.4.75:7210/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="NOTICIAS_INTERNACIONALES", 24 HORAS Chile
@@ -518,10 +522,6 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT Sports Premium A (arg3)
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145442.ts		
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="DEPORTES",TNT Sports Premium B (arg3)
@@ -535,12 +535,17 @@ http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47111.ts
 	
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN B (arg3)
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3036.ts	
-	
+
+#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",AR ESPN C (arg3)
+http://186.125.218.189:13000/play/a049/index.m3u8	
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",ESPN 2 A (arg3)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47099.ts	
 	
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",ESPN 2 B (arg3)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47100.ts	
+
+#EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",AR ESPN 2 C (arg3)
+http://186.125.218.189:13000/play/a048/index.m3u8
 	
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="DEPORTES",ESPN 3 (arg3)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47104.ts	
@@ -631,10 +636,10 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports (Dep)
-http://186.125.218.189:13000/play/a057/index.m3u8	
+#http://186.125.218.189:13000/play/a057/index.m3u8	
 	
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 2 (Dep)
-http://186.125.218.189:13000/play/a05v/index.m3u8
+#http://186.125.218.189:13000/play/a05v/index.m3u8
 	
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 3 (Dep)
 http://190.7.19.197:232/play/a038/index.m3u8
@@ -651,7 +656,7 @@ http://186.125.218.198:13000/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 7 (Dep)
 http://186.125.218.189:13000/play/a05v/index.m3u8
 	
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 8 (Dep)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", AR TNT Sports HD (Dep)
 http://186.125.218.189:13000/play/a057/index.m3u8
 	
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 9 (Dep)
@@ -1170,6 +1175,9 @@ http://148.222.230.220:8000/play/a01f
 #http://190.104.67.55:234/play/a085/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 AR4
 #http://190.104.67.91:234/play/a085/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",Fox Sport 3 AR4
+http://186.125.218.189:13000/play/a056/index.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 MX3 ⚽
 http://190.83.9.222:8000/play/ca005
@@ -1177,6 +1185,8 @@ http://190.83.9.222:8000/play/ca005
 
 
 http://190.83.9.222:8000/play/ca006
+
+
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD1 ⚽
 http://38.199.6.1:17001/play/a036/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD2
@@ -1201,7 +1211,7 @@ http://45.5.151.62:8000/play/a09f/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png"  group-title="DEPORTES2",🇦🇷 TyC.Sport HD1 INT⚽
 http://190.102.139.189:8000/play/a00t/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png"  group-title="DEPORTES2",🇦🇷 TyC.Sport HD2
-#http://179.51.136.23:8000/play/a06z/index.m3u8
+http://186.125.218.189:13000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES2", TyC SPORTS HD3
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png"  group-title="DEPORTES2",🇦🇷 TyC.Sport HD4
@@ -1846,6 +1856,8 @@ http://157.100.9.51:8000/play/a0hi
 http://157.100.9.51:8000/play/a1gd	
 #EXTINF:-1 group-title="CABLE_OP4",E Entertainment (Cable4)
 http://157.100.9.51:8000/play/a0i3	
+#EXTINF:-1 group-title="CABLE_OP4",E Entertainment op2(Cable4)
+http://186.125.218.189:13000/play/a042/index.m3u8
 #EXTINF:-1 group-title="CABLE_OP4",ESPN Op1 (Cable4)
 http://157.100.9.51:8000/play/a0ea	
 #EXTINF:-1 group-title="CABLE_OP4",ESPN Op2(Cable4)
@@ -1940,6 +1952,8 @@ http://157.100.9.51:8000/play/a1de
 http://157.100.9.51:8000/play/a0d2	
 #EXTINF:-1 group-title="CABLE_OP4",MTV (Cable4)
 http://157.100.9.51:8000/play/a0hf	
+#EXTINF:-1 group-title="CABLE_OP4",MTV (Cable4)
+http://186.125.218.189:13000/play/a051/index.m3u8
 #EXTINF:-1 group-title="CABLE_OP4",National Geographic (Cable4)
 http://157.100.9.51:8000/play/a031	
 #EXTINF:-1 group-title="CABLE_OP4",Nick HD (Cable4)
@@ -2427,6 +2441,8 @@ http://191.97.59.33:8000/play/a08j/index.m3u8
 http://181.78.12.119:16123/play/a08i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT HD9
 http://190.83.9.222:8000/play/ca085/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT HD0
+http://186.125.218.189:13000/play/a060/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT SERIES HD1
 http://181.176.155.7:8090/play/a1kl/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT SERIES HD2
@@ -2642,6 +2658,8 @@ http://181.78.12.119:16123/play/ch08/index.m3u8
 http://148.222.228.3:9000/play/a06x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",FX HD7
 http://181.224.255.210:8001/play/a0ge/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",FX HD7
+http://186.125.218.189:13000/play/a058/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",DW ESPAÑOL(PRUEBAS)HD1
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -2675,6 +2693,8 @@ http://38.199.5.160:8000/play/a03p/index.m3u8
 http://38.44.109.41:8003/play/a01y/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD3
 http://38.56.113.170:8000/play/a01y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD4
+http://186.125.218.189:13000/play/a059/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD5
 http://181.224.255.214:8000/play/a0ma/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD6
@@ -3206,6 +3226,9 @@ http://190.119.112.28:8000/play/a062/index.m3u8
 http://38.43.132.201:8000/play/a0j2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",Nickelodeon HD10
 http://38.250.146.14:8000/play/a03j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",AR Nickelodeon HD1|
+http://186.125.218.189:13000/play/a041/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",Nick Jr HD1
 http://200.113.4.75:7210/play/a025/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",Nick Jr HD2
@@ -3248,6 +3271,9 @@ http://45.5.151.251:8000/play/a00q/index.m3u8
 http://181.118.156.185:8090/play/a01a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",Disney Junior HD6
 http://190.102.123.28:8097/play/a0km/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",AR Disney Junior HD7
+http://186.125.218.189:13000/play/a040/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",ANIME.HD1
 http://45.167.255.254:8010/play/a019/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",ZANIME.HD1
@@ -5010,6 +5036,8 @@ http://190.7.19.197:232/play/a041/index.m3u8
 http://190.7.19.197:232/play/a05d/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Discovery Channel HD (C_AR3)
 http://190.7.19.197:232/play/a065/index.m3u8
+#EXTINF:-1 group-title="Cable_Ar3",Discovery Channel HD (C_AR3)
+http://186.125.218.189:13000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Discovery H&H HD (C_AR3)
 http://190.7.19.197:232/play/a064/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Discovery Kids (C_AR3)
