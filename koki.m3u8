@@ -296,11 +296,12 @@ http://xott.live:8080/0308520/0308521/348158
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145417.ts 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="DEPORTES",AR ESPN Premium B (DEP)
 http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/404426.ts 
-#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN A (DEP)
+#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",🇦🇷 ESPN A (DEP)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47111.ts 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",ESPN B (DEP)
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3036.ts 
-#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",AR ESPN C (DEP)
+
+#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="DEPORTES",🇦🇷 ESPN C (DEP)
 http://186.125.218.189:13000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",ESPN 2 A (DEP)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47099.ts
@@ -399,63 +400,63 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports (DEP)
 #http://186.125.218.189:13000/play/a057/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 2  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 2 (DEP)
 #http://186.125.218.189:13000/play/a05v/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 3  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 3 (DEP)
 http://190.7.19.197:232/play/a038/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 4  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 4 (DEP)
 http://190.7.19.197:232/play/a037/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 5  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 5 (DEP)
 http://186.125.218.198:13000/play/a05v/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 6  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 6 (DEP)
 http://186.125.218.198:13000/play/a057/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 7  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 7 (DEP)
 http://186.125.218.189:13000/play/a05v/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", AR TNT Sports HD  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", AR TNT Sports HD (DEP)
 http://186.125.218.189:13000/play/a057/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 9  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 9 (DEP)
 http://181.13.252.102:8000/play/a078/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 10  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 10 (DEP)
 http://181.13.252.102:8000/play/a0bc/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 11  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 11 (DEP)
 http://181.209.37.74:8001/play/a086/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 12  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 12 (DEP)
 http://181.209.37.74:8001/play/a06z/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 13  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 13 (DEP)
 http://190.7.19.197:232/play/a038/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 14  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 14 (DEP)
 http://190.7.19.197:232/play/a037/index.m3u8 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 15  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 15 (DEP)
 http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 16  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 16 (DEP)
 http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 17  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 17 (DEP)
 http://live.btv.mx:2424/stream/283887/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 18  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 18 (DEP)
 http://live.btv.mx:2424/stream/278981/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 19  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 19 (DEP)
 http://live.btv.mx:2424/stream/278559/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 20  (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 20 (DEP)
 http://live.btv.mx:2424/stream/158845/smAVz_uhytj5REM-4pYNZbkrcB2 
  
  
@@ -507,13 +508,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 https://live.teleradiocom.tj/8/3m.m3u8 
  
  
-#EXTINF:-1 group-title="DEPORTES", ESPN 2  (DEP)
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 (DEP)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8 
-#EXTINF:-1 group-title="DEPORTES", ESPN U  (DEP)
+#EXTINF:-1 group-title="DEPORTES", ESPN U (DEP)
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8 
-#EXTINF:-1 group-title="DEPORTES", ESPN NETWORK  (DEP)
+#EXTINF:-1 group-title="DEPORTES", ESPN NETWORK (DEP)
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1  (DEP)
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 (DEP)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8 
  
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="DEPORTES",FIFA+ (DEP)
