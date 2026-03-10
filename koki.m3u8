@@ -203,6 +203,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"  group-title="BOLIVIA",Bolivia TV 7.1 Temporal (BOL)
 #https://live2.eu-north-1a.cf.dmcdn.net/sec2(HsYmOAiX12yktsmZY7oFOQyCsXAZWFoRcO5vQTaJglNCl2b4o8Blu0tdgdG8Sf37SImRphLzlZePFV6uKM70qDAPqRcqTbQMYH1QBEynKT9DtjyCu7n5Iqq8W1WQE_st)/cloud/3/x9nzqpo/d/live-1080.m3u8
 #https://live2.eu-north-1a.cf.dmcdn.net/sec2(F4m6YKICpaZh5h7kUC3gcFTpR79lkDrqqJ5RKXC3QUx01syWVjUVl8GlNV56O7jGL1BMh0_i9LbmZ_aNFMzFv2cyfzG1tfLczjt34SCgQIGsPApxxEKUcoJ4sZZL8G7B)/cloud/3/x9nzqpo/d/live-720.m3u8
@@ -3612,6 +3613,8 @@ https://toonixhls.wns.live/hls/stream.m3u8
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="INFANTIL",🇺🇸 Nickelodeon Eastᴴᴰ  (INF)
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTIL", NICKELODEON (INF)
+http://live.btv.mx:2424/stream/158666/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="INFANTIL",🇺🇸 NickJr Eastᴴᴰ  (INF)
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="INFANTIL",🇺🇸 NickToons Eastᴴᴰ (INF)
@@ -3624,6 +3627,9 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", NICKTOONS (INF)
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTIL",🇺🇸 TEENNICK  (INF)
+http://live.btv.mx:2424/stream/158669/smAVz_uhytj5REM-4pYNZbkrcB2
+
 
 
 
@@ -5361,7 +5367,15 @@ https://cablered.iptvperu.tv:1936/transcoder/espn7_t2.stream/playlist.m3u8
  
  
 #Cine y Series 
- 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Cable_Peru", GOLDEN PREMIER (C_PER1)
+http://live.btv.mx:2424/stream/298426/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Cable_Peru", GOLDEN MULTIPLEX (C_PER1) 
+http://live.btv.mx:2424/stream/298424/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Cable_Peru", WARNER (C_PER1)
+http://live.btv.mx:2424/stream/278454/smAVz_uhytj5REM-4pYNZbkrcB2
+
 #EXTINF:-1 tvg-logo="https://127.0.0.0" group-title="Cable_Peru", GOLDEN (C_PER1)
 https://cablered.iptvperu.tv:1936/cablered/golden-latino_new/playlist.m3u8
  
@@ -5371,6 +5385,7 @@ https://cablered.iptvperu.tv:1936/transcoder/studiouniversal_t2.stream/playlist.
 #EXTINF:-1 tvg-logo="https://127.0.0.0" group-title="Cable_Peru", GOLDEN EDGE (C_PER1)
 https://cablered.iptvperu.tv:1936/cablered/goldenedge-srt_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://127.0.0.0" group-title="Cable_Peru", TNT (C_PER1)
 https://cablered.iptvperu.tv:1936/transcoder/tnt_t2.stream/playlist.m3u8
