@@ -400,47 +400,48 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports (DEP)
 #http://186.125.218.189:13000/play/a057/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 2 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 2 (DEP)
 #http://186.125.218.189:13000/play/a05v/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 3 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 3 (DEP)
 http://190.7.19.197:232/play/a038/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 4 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 4 (DEP)
 http://190.7.19.197:232/play/a037/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 5 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 5 (DEP)
 http://186.125.218.198:13000/play/a05v/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 6 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 6 (DEP)
 http://186.125.218.198:13000/play/a057/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 7 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 7 (DEP)
 http://186.125.218.189:13000/play/a05v/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", AR TNT Sports HD (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", AR TNT Sports HD (DEP)
 http://186.125.218.189:13000/play/a057/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 9 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 9 (DEP)
 http://181.13.252.102:8000/play/a078/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 10 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 10 (DEP)
 http://181.13.252.102:8000/play/a0bc/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 11 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 11 (DEP)
 http://181.209.37.74:8001/play/a086/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 12 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 12 (DEP)
 http://181.209.37.74:8001/play/a06z/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 13 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 13 (DEP)
 http://190.7.19.197:232/play/a038/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Directv", Tango Sports 14 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 14 (DEP)
 http://190.7.19.197:232/play/a037/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 15 (DEP)
 http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2 
  
@@ -1237,15 +1238,15 @@ http://45.173.72.26:2072/play/a0d5
 
 
 
-#EXTINF:0 group-title="EUROPA" ,TR Sport (🇮🇹)(EUR)(EUR)
+#EXTINF:0 group-title="EUROPA" ,TR Sport (🇮🇹)(EUR)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:0 group-title="EUROPA" ,RTL 102.5 Caliente (🇮🇹)(EUR)(EUR)
+#EXTINF:0 group-title="EUROPA" ,RTL 102.5 Caliente (🇮🇹)(EUR)
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:0 group-title="EUROPA" ,Horizon Sports (🇮🇹)(EUR)(EUR)
+#EXTINF:0 group-title="EUROPA" ,Horizon Sports (🇮🇹)(EUR)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3559cc0f-80c2-11eb-908d-533d39655269/0/master.m3u8?country=IT&vendor=samsung
-#EXTINF:0 group-title="EUROPA" ,Euro (🇮🇹)(EUR)(EUR)
+#EXTINF:0 group-title="EUROPA" ,Euro (🇮🇹)(EUR)
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/.m3u8
-#EXTINF:0 group-title="EUROPA" ,Esperia (🇮🇹)(EUR)(EUR)
+#EXTINF:0 group-title="EUROPA" ,Esperia (🇮🇹)(EUR)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/.m3u8
 #EXTINF:0 group-title="EUROPA" ,Espansione (🇮🇹)(EUR)
 https://srvx1.selftv.video/espansione/smil:live.smil/.m3u8
@@ -1354,14 +1355,64 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 group-title="EUROPA" tvg-id="USBC3900018K6" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/mtmn.png",MyTime Movie Network (🇵🇹🇧🇷)(EUR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:0 group-title="EUROPA", Aris 24 (Rusia) (🇷🇺) (EUR)
+#EXTINF:0 group-title="EUROPA", Aris 24  (🇷🇺) (EUR)
 #http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="NOTICIAS_INTERNACIONALES", CNN en Español (INTER)
+http://186.125.218.189:13000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="NOTICIAS_INTERNACIONALES", Telemundo Internacional (INTER)
+#http://200.113.4.75:7210/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="NOTICIAS_INTERNACIONALES", 24 HORAS Chile (INTER)
+#http://200.113.4.75:7210/play/a00m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png" group-title="NOTICIAS_INTERNACIONALES", US: CNN INTERNACIONAL (INTER)
+http://45.5.116.178:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/668px-Rai_News_24_-_Logo_2013.svg.png" group-title="NOTICIAS_INTERNACIONALES", RAI NEWS (INTER)
+https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSmhFja.jpeg" group-title="NOTICIAS_INTERNACIONALES", TV FANB (INTER)
+https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1175399475.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noR4NUo.jpeg" group-title="NOTICIAS_INTERNACIONALES", TELESUR ᴴᴰ  (INTER)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDgftXo.jpeg" group-title="NOTICIAS_INTERNACIONALES", VENEZUELA NEWS TV(INTER)
+https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWobnW1.jpeg" group-title="NOTICIAS_INTERNACIONALES", TELEMUNDO FLORIDA(INTER)
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/0fd5c964-718e-4b06-8ec8-5a88fce40fc0/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB9n4Ds.jpeg" group-title="NOTICIAS_INTERNACIONALES", TVN DE CHILE ᴴᴰ(INTER)
+https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="NOTICIAS_INTERNACIONALES", TELE TRECE ᴴᴰ (INTER)
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e95rkEq.jpeg" group-title="NOTICIAS_INTERNACIONALES", SKY NEWS ᴴᴰ (INTER)
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 group-title="NOTICIAS_INTERNACIONALES" ,CNN Brasil (INTER)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="NOTICIAS_INTERNACIONALES", US: AL JAZEERA EN (INTER)
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:0 group-title="NOTICIAS_INTERNACIONALES" ,PT: CNN (🇵🇹🇧🇷)(Noticias)(INTER)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1 group-title="NOTICIAS_INTERNACIONALES", US: AL JAZEERA ARAB(INTER)
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+#EXTINF:-1 group-title="NOTICIAS_INTERNACIONALES", CNN (INTER)
+http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="NOTICIAS_INTERNACIONALES" ,CNN Internacional (INTER)
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://i.postimg.cc/CM9NtW5k/rt.png" group-title="NOTICIAS_INTERNACIONALES",RT (INTER)
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/Z5SLYprq/telesur.png" group-title="NOTICIAS_INTERNACIONALES",Telesur (INTER)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/9QYYD0pY/hispantv.png" group-title="NOTICIAS_INTERNACIONALES",HispanTV (INTER)
+https://live.presstv.ir/hls/hispantv.m3u8
+#EXTINF:-1 tvg-id="USAJ17000049P" tvg-name="" tvg-logo="https://mediamythalert.files.wordpress.com/2012/01/abc-news-logo.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: ABC NEWS ᴴᴰ (INTER)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBSN" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: CBSN ᴴᴰ (INTER)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="I202.10142.schedulesdirect.org" tvg-name="CNN US" tvg-logo="https://ia800801.us.archive.org/25/items/stevechatfield27_gmail_Cnn/cnn.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: CNN ᴴᴰ (INTER)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I349.87925.schedulesdirect.org" tvg-name="NewsmaxTV" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NOTICIAS_INTERNACIONALES",🇺🇸: Newsmax ᴴᴰ (INTER)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
 
 
