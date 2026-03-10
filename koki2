@@ -1,1 +1,4 @@
-
+buscar y reemplazar 
+^(.*#EXTINF.*)$
+añadir al final
+$1(EUR)
