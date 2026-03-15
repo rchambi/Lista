@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg", América TV  (ARG) 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA",America (ARG) 
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8  
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8 
 #EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA", AMERICA HD  36.1 (ARG) 
 https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 #EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA",America (ARG) 
@@ -33,7 +33,9 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="ARGENTINA",  Canal 13 La Rioja  (ARG) 🟢 
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",  C5N HD (ARG) NF 🟢 
-http://45.5.151.62:8000/play/a023/index.m3u8
+http://190.7.19.197:232/play/a040/index.m3u8
+#http://45.5.151.62:8000/play/a023/index.m3u8
+
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="ARGENTINA",C5N (ARG) NF 
 http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/105110.ts  
  
@@ -141,10 +143,14 @@ https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
 http://45.5.151.62:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA", 7 Jujuy - Telefe (ARG) 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
- 
- 
- 
- 
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" group-title="ARGENTINA",Canal 4 Jujuy (ARG)
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" group-title="ARGENTINA",Canal 4 Posadas (576p) (ARG)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" group-title="ARGENTINA",Canal 4 San Juan (576p) (ARG)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" group-title="ARGENTINA",Canal 5 Del Pueblo [Not 24/7] (ARG)
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA",  TN (ARG)🟢 
 http://45.5.151.62:8000/play/a020/index.m3u8
@@ -156,7 +162,8 @@ https://cablered.iptvperu.tv:1936/cablered/todonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
 http://186.125.218.189:13000/play/a047/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN (ARG) 🟢 
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs 
@@ -180,7 +187,7 @@ http://179.51.136.23:8000/play/a04b/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD9 (ARG)
 http://181.119.85.222:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD10 (ARG) 
-https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8   
+https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA", TVP Publica (ARG)  
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="ARGENTINA", TV Publica PampA (ARG)🟢 
@@ -215,7 +222,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #https://live2.eu-north-1b.cf.dmcdn.net/sec2(e2-ZsnBfVh7qOPHDSDR9Yhi749nCorHlVT9KIFOq1U1yH5xNXAyljzjB8WRU7Yifz2XljxAtAy74g-hMdSzy4AXKHkc84omSuv1NvzBIaOe6kY7OgM2u1GcqHmHo9IN2)/cloud/3/x9ny70y/d/live-720.m3u8
 
 
-#http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 --------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
+#http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8--------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
 #https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
 
 
@@ -255,6 +262,9 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA", Unitel (BOL)  [NOT 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel SCZ(720p) [Not 24/7]
+https://xtream.videx.lol/Yoshiro/admin/338.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (BOL)  Temp
 #https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=mCWXWY8Q7iUnb5MiJJFxHALV7tU4jDsk4FoLLc9LnWum4GCDL8D3TouODDuFWkvx7bYBXOb5k065TH6bc9VdQw&dmTs=999999&dmV1st=41c8c539-7dec-4fb7-abfa-444bdac7849f
@@ -311,7 +321,7 @@ http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47099.ts
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47100.ts
  
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="DEPORTES",AR ESPN 2 C (DEP)
-http://186.125.218.189:13000/play/a048/index.m3u8 
+http://186.125.218.189:13000/play/a048/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="DEPORTES",ESPN 3 (DEP)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47104.ts
@@ -320,20 +330,15 @@ http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47104.ts
 http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/9575 
  
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DIRECTV Sports A (DEP)
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145400.ts
+#http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145400.ts
  
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="DEPORTES",DIRECTV Sports B (DEP)
-http://mgoplus.org:2086/live/Intertv39/123456/3483.ts 
+#http://mgoplus.org:2086/live/Intertv39/123456/3483.ts 
  
-#EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="DEPORTES",Deportes Eventos A (DEP)
-https://mze7u.envivoslatam.org/disney5/index.m3u8?token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596&ip=200.55.245.133
- 
-#EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="DEPORTES",Deportes Eventos B (DEP)
-https://mze7u.envivoslatam.org/disney5/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596
  
  
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES", ESPN Chile (DEP)
-http://45.173.229.190:8083/play/a0k7/index.m3u8 
+http://45.173.229.190:8083/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES", ESPN (Argentina) (DEP)
 http://181.78.106.127:9000/play/ca033 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 2 (Argentina) (DEP)
@@ -341,7 +346,7 @@ http://38.180.133.31:8000/play/a0w4
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 3 (Argentina) (DEP)
 http://181.78.105.146:8800/play/a053 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES", ESPN 6 PARECE MX (DEP)
-http://190.60.32.178:8178/play/a0aa/index.m3u8 
+http://190.60.32.178:8178/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" , ESPN (Colombia) (DEP)
 http://38.180.133.31:8000/play/a0wa 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" , ESPN 2 (Colombia) (DEP)
@@ -363,41 +368,42 @@ http://190.60.32.178:8178/play/a0at
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 6 (Chile) (DEP)
 http://181.78.82.6:46090/play/a00w 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",🇵🇪 ESPN (DEP)
-http://38.199.6.1:17001/play/a05y/index.m3u8 
+http://38.199.6.1:17001/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 2 (Peru) (DEP)
 http://181.78.82.6:46090/play/a00i 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 3 (Peru) (DEP)
 http://190.60.32.178:8178/play/a015 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" , ESPN (Jamaica) (🇯🇲) (DEP)
-http://tvmate.icu:8080/nCqH8t/631017/66372?extension=m3u8 
+http://tvmate.icu:8080/nCqH8t/631017/66372?extension=m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" , ESPN 2 (Jamaica) (🇯🇲) (DEP)
-http://tvmate.icu:8080/nCqH8t/631017/99623?extension=m3u8 
+http://tvmate.icu:8080/nCqH8t/631017/99623?extension=m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 2 HD2 (DEP)
 http://190.83.9.222:8000/play/ca129 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 2 HD (DEP)
-http://181.78.82.6:46090/play/a00i/index.m3u8 
+http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 3 HD (DEP)
-http://181.78.82.6:46090/play/a00v/index.m3u8 
+http://181.78.82.6:46090/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES",ESPN 4 HD (DEP)
-http://181.78.82.6:46090/play/a01l/index.m3u8 
+http://181.78.82.6:46090/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 5 HD (DEP)
-http://181.78.82.6:46090/play/a01c/index.m3u8 
+http://181.78.82.6:46090/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 6 HD (DEP)
-http://181.78.82.6:46090/play/a00w/index.m3u8 
+http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN 7 HD (DEP)
 http://181.78.82.6:46090/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN COL HD (DEP)
-http://181.78.82.6:46090/play/a04f/index.m3u8 
+http://181.78.82.6:46090/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN ARG HD (DEP)
-http://181.78.82.6:46090/play/a00q/index.m3u8 
+http://181.78.82.6:46090/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN CHI HD (DEP)
-http://181.78.82.6:46090/play/a03d/index.m3u8 
+http://181.78.82.6:46090/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN PREMIUM HD (DEP)
-http://181.78.82.6:46090/play/a02g/index.m3u8 
-  #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS 
-http://201.217.246.177:8000/play/a02s/index.m3u8 
+http://181.78.82.6:46090/play/a02g/index.m3u8
+
+  #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS (DEP)
+#http://201.217.246.177:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DEPORTES", DSPORTS (DEP)
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8 
+#http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
  
  
  
@@ -405,60 +411,60 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 #http://186.125.218.189:13000/play/a057/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 2 (DEP)
-#http://186.125.218.189:13000/play/a05v/index.m3u8 
+#http://186.125.218.189:13000/play/a05v/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 3 (DEP)
-http://190.7.19.197:232/play/a038/index.m3u8 
+http://190.7.19.197:232/play/a038/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 4 (DEP)
-http://190.7.19.197:232/play/a037/index.m3u8 
+http://190.7.19.197:232/play/a037/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 5 (DEP)
-http://186.125.218.198:13000/play/a05v/index.m3u8 
+http://186.125.218.198:13000/play/a05v/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 6 (DEP)
-http://186.125.218.198:13000/play/a057/index.m3u8 
+http://186.125.218.198:13000/play/a057/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 7 (DEP)
-http://186.125.218.189:13000/play/a05v/index.m3u8 
+http://186.125.218.189:13000/play/a05v/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", AR TNT Sports HD (DEP)
-http://186.125.218.189:13000/play/a057/index.m3u8 
+http://186.125.218.189:13000/play/a057/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 9 (DEP)
-http://181.13.252.102:8000/play/a078/index.m3u8 
+http://181.13.252.102:8000/play/a078/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 10 (DEP)
-http://181.13.252.102:8000/play/a0bc/index.m3u8 
+http://181.13.252.102:8000/play/a0bc/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 11 (DEP)
-http://181.209.37.74:8001/play/a086/index.m3u8 
+http://181.209.37.74:8001/play/a086/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 12 (DEP)
-http://181.209.37.74:8001/play/a06z/index.m3u8 
+http://181.209.37.74:8001/play/a06z/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 13 (DEP)
-http://190.7.19.197:232/play/a038/index.m3u8 
+http://190.7.19.197:232/play/a038/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 14 (DEP)
-http://190.7.19.197:232/play/a037/index.m3u8 
+http://190.7.19.197:232/play/a037/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 15 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 15 (DEP) NF
 http://live.btv.mx:2424/stream/278976/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 16 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 16 (DEP) NF
 http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 17 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 17 (DEP) NF
 http://live.btv.mx:2424/stream/283887/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 18 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 18 (DEP) NF
 http://live.btv.mx:2424/stream/278981/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 19 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 19 (DEP) NF
 http://live.btv.mx:2424/stream/278559/smAVz_uhytj5REM-4pYNZbkrcB2 
  
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 20 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 20 (DEP) NF
 http://live.btv.mx:2424/stream/158845/smAVz_uhytj5REM-4pYNZbkrcB2 
  
  
@@ -466,331 +472,317 @@ http://live.btv.mx:2424/stream/158845/smAVz_uhytj5REM-4pYNZbkrcB2
  
  
  
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES", Dubai Sports 2 (DEP)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES", Dubai Sports 3 (DEP)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES", Dubai Sports 2 (DEP) NF
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTES", Dubai Sports 3 (DEP) NF
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", MX: AYM SPORTS (DEP)
-https://aym-as.otteravision.com/aym/as/as_1080p.m3u8 
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES", MX: AYM SPORTS (DEP)
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8 
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
  
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ZZY0P.jpeg" group-title="DEPORTES",4 | ONE SOCCER ⚽ (DEP)
-http://tvmate.icu:8080/85646307/54885994/135810
-#EXTINF:-1 tvg-logo="https://i.imgur.com/96ebfyp.jpeg" group-title="DEPORTES",5 | SKY SPORTS ᴴᴰ ⚽ (DEP)
-http://tvmate.icu:8080/85646307/54885994/137720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2usac7N.jpeg" group-title="DEPORTES",6 | SPORTSMAX NEWS ⚽ (DEP)
-https://cdahum.streaming.ws/sportsmaxnews/live/chunklist_w1062378774.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",7 | US TUDN ᴴᴰ ⚽ (DEP)
+https://cdahum.streaming.ws/sportsmaxnews/live/chunklist_w1062378774.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8jwRcH.jpeg" group-title="DEPORTES",7 | US TUDN ᴴᴰ ⚽ (DEP) NF
 http://tvmate.icu:8080/85646307/54885994/11885
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rdc5Vlk.jpeg" group-title="DEPORTES",8 | SPORTS TV ᴴᴰ (DEP)
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/heLBw7m.jpeg" group-title="DEPORTES",9 | SPORT EN FRANCE (DEP)
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8 
 #EXTINF:-1 group-title="DEPORTES", Xsport-HD (COSMONOVA BROADCAST LLC) (DEP)
-http://iptv.prosto.tv:7000/ch109/video.m3u8 
+http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="DEPORTES", SoloCalcioᴴᴰ 🇮🇹 (DEP)
-https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8 
+https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1 group-title="DEPORTES" SPORT ITALIA 🇮🇹 (DEP)
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", SPORT ITALIA 🇮🇹 (DEP)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8 
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 group-title="DEPORTES", SHARJJAH SPORT 🇸🇦 (DEP)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8 
-#EXTINF:-1 group-title="DEPORTES", Disney11 EVENTOS (DEP)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Disney11 EVENTOS (DEP) NF
 https://ub2dr.envivoslatam.org/disney11/tracks-v1a1/mono.m3u8?ip=148.227.75.206&token=6c7cf4651e259f2b12 
- 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1 FHD (DEP)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8 
- 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 2 FHD (DEP)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8 
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="",Futbol FHD (DEP)
-https://live.teleradiocom.tj/8/3m.m3u8 
+https://live.teleradiocom.tj/8/3m.m3u8
  
  
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 (DEP)
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8 
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN U (DEP)
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8 
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN NETWORK (DEP)
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8 
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 1 (DEP)
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8 
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
  
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="DEPORTES",FIFA+ (DEP)
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8 
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@French" group-title="DEPORTES",FIFA+ French (720p) (DEP)
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8 
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@German" group-title="DEPORTES",FIFA+ German (720p) (DEP)
-https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8 
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" group-title="DEPORTES",FIFA+ Hispanic America (720p) (DEP)
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8 
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" group-title="DEPORTES",FIFA+ Italy (720p) (DEP)
-https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8 
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa-plus-pt-new" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fifaplus.png",FIFA+ (🇵🇹🇧🇷) (DEP)
-https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8 
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" group-title="DEPORTES",FIFA+ Portuguese (720p) (DEP)
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8 
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" group-title="DEPORTES",FIFA+ Spain (720p) (DEP)
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8 
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" group-title="DEPORTES",FIFA+ United States (720p) (DEP)
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8 
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",🇵🇪 ESPORTS (DEP)
-http://38.210.105.10:8000/play/a0ah/index.m3u8 
+http://38.210.105.10:8000/play/a0ah/index.m3u8
  
  
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD2 ⚽ (DEP2)
-http://38.187.3.110:8000/play/a04m/index.m3u8 
+http://38.187.3.110:8000/play/a04m/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD3 (DEP2)
-http://38.199.6.1:17001/play/a0d0/index.m3u8 
+http://38.199.6.1:17001/play/a0d0/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD4 (DEP2)
-http://201.230.121.85:8000/play/a0yv/index.m3u8 
+http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD5 (DEP2)
-http://148.222.230.201:8000/play/a0pk/index.m3u8 
+http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD6 (DEP2)
-http://148.222.230.197:8000/play/a0mm/index.m3u8 
+http://148.222.230.197:8000/play/a0mm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD7 (DEP2)
-http://38.210.105.10:8000/play/a0ai/index.m3u8 
+http://38.210.105.10:8000/play/a0ai/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(PE) HD8 (DEP2)
-#http://209.45.81.84:8000/play/a03d/index.m3u8 
+#http://209.45.81.84:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(ACC) HD9 ⚽ (DEP2)
 #http://209.45.81.84:8000/play/a03d 
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(ACC) HD10 (DEP2)
-http://190.117.20.39:8000/play/a08d/index.m3u8 
+http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(ACC) HD11 (DEP2)
-http://190.117.20.38:8000/play/a08d/index.m3u8 
+http://190.117.20.38:8000/play/a08d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(ACC) HD12 (DEP2)
-http://190.108.89.228:8000/play/a05w/index.m3u8 
+http://190.108.89.228:8000/play/a05w/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT2.HD ⚽ (DEP2)
-#http://179.51.136.19:8000/play/a112/index.m3u8 
+#http://179.51.136.19:8000/play/a112/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT+.HD1 ⚽ (DEP2)
-http://38.199.6.1:17001/play/a0vx/index.m3u8 
+http://38.199.6.1:17001/play/a0vx/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT+.HD2 (DEP2)
-#http://201.230.105.202:8126/play/dgt8/index.m3u8 
+#http://201.230.105.202:8126/play/dgt8/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT+.HD3 (DEP2)
-http://217.26.190.76:8888/play/a0jb/index.m3u8 
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT+.HD4 (DEP2)
-http://38.199.5.160:8000/play/a09q/index.m3u8 
+http://38.199.5.160:8000/play/a09q/index.m3u8
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD1 ⚽ (DEP2)
-http://138.204.12.14:40000/play/a0al/index.m3u8 
+http://138.204.12.14:40000/play/a0al/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD2 (DEP2)
-http://190.234.82.52:8000/play/ac1q/index.m3u8 
+http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD3 (DEP2)
-http://190.108.89.228:8000/play/a0cl/index.m3u8 
+http://190.108.89.228:8000/play/a0cl/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD4 (DEP2)
-#http://179.63.5.46:8000/play/a095/index.m3u8 
+#http://179.63.5.46:8000/play/a095/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD5 (DEP2)
-#http://190.83.61.245:2233/play/a0xz/index.m3u8 
+#http://190.83.61.245:2233/play/a0xz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD6 (DEP2)
-#http://181.176.69.236:8028/play/a0rf/index.m3u8 
+#http://181.176.69.236:8028/play/a0rf/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD7 (DEP2)
-http://38.188.100.18:8000/play/a0fb/index.m3u8 
+http://38.188.100.18:8000/play/a0fb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD8 (DEP2)
-http://38.199.6.1:17001/play/a05j/index.m3u8 
+http://38.199.6.1:17001/play/a05j/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD9 (DEP2)
-#http://38.224.175.2:8000/play/a01c/index.m3u8 
+#http://38.224.175.2:8000/play/a01c/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",MOVISTAR DEPORTES HD10 (DEP2)
-#http://8.243.126.131:8000/play/a059/index.m3u8 
+#http://8.243.126.131:8000/play/a059/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",GOLTV HD1 ⚽ (DEP2)
-#http://38.188.100.18:8000/play/a0f9/index.m3u8 
+#http://38.188.100.18:8000/play/a0f9/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",GOLTV HD2 (DEP2)
-#http://38.199.6.1:17001/play/a05s/index.m3u8 
+#http://38.199.6.1:17001/play/a05s/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.HD1 ⚽ (DEP2)
-http://170.82.113.50:8899/play/a0j1/index.m3u8 
+http://170.82.113.50:8899/play/a0j1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2"🇪🇨 ElCanaldelFutbol.SD2⚽ (DEP2)
-http://179.1.192.227:8000/play/a08v/index.m3u8 
+http://179.1.192.227:8000/play/a08v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.SD3 (DEP2)
-http://181.78.192.238:8000/play/a1uy/index.m3u8 
+http://181.78.192.238:8000/play/a1uy/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.SD4 (DEP2)
-http://179.1.192.227:8000/play/a018/index.m3u8 
+http://179.1.192.227:8000/play/a018/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.SD5 (DEP2)
-#http://186.209.212.139:8000/play/a19a/index.m3u8 
+#http://186.209.212.139:8000/play/a19a/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.SD6 (DEP2)
-http://181.63.102.150:8000/play/a1ki/index.m3u8 
+http://181.63.102.150:8000/play/a1ki/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.SD7 (DEP2)
 #http://170.82.113.50:8899/play/a0j1/index.m3u8--repetido 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇪🇨 ElCanaldelFutbol.SD8 (DEP2)
-http://181.198.105.69:8111/play/a1vk/index.m3u8 
+http://181.198.105.69:8111/play/a1vk/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD1 ⚽ (DEP2)
-#http://190.104.67.132:234/play/a099/index.m3u8 
+#http://190.104.67.132:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD2 (DEP2)
 #http://148.222.228.3:9000/play/a0a7/index.m3u8----REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD3 (DEP2)
-#http://38.199.5.160:8000/play/a03x/index.m3u8 
+#http://38.199.5.160:8000/play/a03x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD4 (DEP2)
-#http://38.56.113.170:8000/play/a06v/index.m3u8 
+#http://38.56.113.170:8000/play/a06v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD5⚽ (DEP2)
-http://38.199.6.1:17001/play/a03f/index.m3u8 
+http://38.199.6.1:17001/play/a03f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD6 (DEP2)
 http://187.102.211.200:48001/play/a03q 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(PE) HD7 (DEP2)
 http://201.218.140.30:9000/play/a06x 
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD1 ⚽ (DEP2)
-#http://190.104.67.204:234/play/a099/index.m3u8 
+#http://190.104.67.204:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD2 (DEP2)
 #http://190.104.67.132:234/play/a099/index.m3u8-------------------------- 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD3 (DEP2)
-#http://190.104.67.45:234/play/a099/index.m3u8 
+#http://190.104.67.45:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD4 (DEP2)
-#http://190.104.67.101:234/play/a099/index.m3u8 
+#http://190.104.67.101:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD5 (DEP2)
-#http://190.104.67.185:234/play/a099/index.m3u8 
+#http://190.104.67.185:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD6 (DEP2)
-#http://190.104.67.47:234/play/a099/index.m3u8 
+#http://190.104.67.47:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD7 (DEP2)
-#http://190.104.67.191:234/play/a099/index.m3u8 
+#http://190.104.67.191:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD8 (DEP2)
-#http://190.104.67.42:234/play/a099/index.m3u8 
+#http://190.104.67.42:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD9 (DEP2)
-#http://190.104.67.149:234/play/a099/index.m3u8 
+#http://190.104.67.149:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD10 (DEP2)
-#http://190.104.67.229:234/play/a099/index.m3u8 
+#http://190.104.67.229:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD11 (DEP2)
-#http://190.104.67.128:234/play/a099/index.m3u8 
+#http://190.104.67.128:234/play/a099/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD12 (DEP2)
-#http://38.56.113.170:8000/play/a06v/index.m3u8 
+#http://38.56.113.170:8000/play/a06v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(AR) HD15 (DEP2)
-#http://148.222.228.3:9000/play/a0a7/index.m3u8 
+#http://148.222.228.3:9000/play/a0a7/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(CH) HD1 ⚽ (DEP2)
-#http://186.96.71.204:8000/play/a0c5/index.m3u8 
+#http://186.96.71.204:8000/play/a0c5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(CH) HD2 (DEP2)
-#http://38.56.113.170:8000/play/a06w/index.m3u8 
+#http://38.56.113.170:8000/play/a06w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(CH) HD3 (DEP2)
 #http://186.96.71.204:8000/play/a0c5/index.m3u8---REPETIDO 
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(CH) HD4⚽ (DEP2)
 http://187.102.210.142:5556/play/a035 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(CH) HD5 (DEP2)
-http://190.108.89.228:8000/play/a0es/index.m3u8 
+http://190.108.89.228:8000/play/a0es/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN1(CH) HD6 (DEP2)
 http://209.45.101.155:8000/play/a01d 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 ESPN1(CO) HD1 (DEP2)
-#http://190.102.123.28:8097/play/a0lb/index.m3u8 
+#http://190.102.123.28:8097/play/a0lb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 ESPN1(CO) HD2⚽ (DEP2)
-http://181.78.12.119:16123/play/ch16/index.m3u8 
+http://181.78.12.119:16123/play/ch16/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 ESPN1(CO) HD3 (DEP2)
-#http://181.119.86.68:8000/play/b031/index.m3u8 
+#http://181.119.86.68:8000/play/b031/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 ESPN1(CO) HD4 (DEP2)
-#http://209.45.81.84:8000/play/a05k/index.m3u8 
+#http://209.45.81.84:8000/play/a05k/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ESPN1 HD1 ⚽ (DEP2)
 http://190.83.9.222:8000/play/ca021 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ESPN1 HD2 (DEP2)
-http://45.5.119.43:4000/play/a052/index.m3u8 
+http://45.5.119.43:4000/play/a052/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ESPN1 HD3 (DEP2)
-#http://201.174.175.3:8000/play/a0vh/index.m3u8 
+#http://201.174.175.3:8000/play/a0vh/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD1 ⚽ (DEP2)
-#http://186.96.71.204:8000/play/a0c3/index.m3u8 
+#http://186.96.71.204:8000/play/a0c3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD2⚽ (DEP2)
-http://181.224.226.128:5000/play/a07d/index.m3u8 
+http://181.224.226.128:5000/play/a07d/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD3 (DEP2)
-#http://38.44.109.41:8003/play/a00v/index.m3u8 
+#http://38.44.109.41:8003/play/a00v/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD4 (DEP2)
-http://191.97.59.33:8000/play/a07p/index.m3u8 
+http://191.97.59.33:8000/play/a07p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD5 (DEP2)
 http://181.78.65.226:5433/play/a048 
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD6 (DEP2)
-#http://209.45.81.84:8000/play/a05j/index.m3u8 
+#http://209.45.81.84:8000/play/a05j/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD7 (DEP2)
-#http://190.171.83.2:4000/play/a0qj/index.m3u8 
+#http://190.171.83.2:4000/play/a0qj/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD8 (DEP2)
-#http://148.222.228.3:9000/play/a04u/index.m3u8 
+#http://148.222.228.3:9000/play/a04u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD9 (DEP2)
-#http://190.60.37.115:8001/play/a002/index.m3u8 
+#http://190.60.37.115:8001/play/a002/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD10 (DEP2)
 #http://148.222.228.3:9000/play/a04u/index.m3u8-------------REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD11 (DEP2)
-http://190.83.9.222:8000/play/ca019/index.m3u8 
+http://190.83.9.222:8000/play/ca019/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD12 (DEP2)
 #http://190.60.37.115:8001/play/a002/index.m3u8--------------------------- 
 #EXTINF:-1 group-title="DEPORTES2",MX ESPN 3 HD ⚽ (DEP2)
-#http://190.60.32.178:8178/play/a015/index.m3u8 
+#http://190.60.32.178:8178/play/a015/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD1 ⚽ (DEP2)
-http://181.78.12.119:16123/play/ch18/index.m3u8 
+http://181.78.12.119:16123/play/ch18/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD2 (DEP2)
-#http://148.222.228.3:9000/play/a00w/index.m3u8 
+#http://148.222.228.3:9000/play/a00w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD3 (DEP2)
-#http://209.45.81.84:8000/play/a01b/index.m3u8 
+#http://209.45.81.84:8000/play/a01b/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD4 (DEP2)
-#http://148.222.228.3:9000/play/a00w/index.m3u8 
+#http://148.222.228.3:9000/play/a00w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD5 (DEP2)
-#http://181.119.86.68:8000/play/b033/index.m3u8 
+#http://181.119.86.68:8000/play/b033/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD6 (DEP2)
-#http://190.83.9.222:8000/play/ca025/index.m3u8 
+#http://190.83.9.222:8000/play/ca025/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD7 (DEP2)
-http://45.5.119.43:4000/play/a054/index.m3u8 
+http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD8 (DEP2)
 #http://209.45.81.84:8000/play/a01b/index.m3u8--------------------- 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD9 (DEP2)
-http://38.199.5.160:8000/play/a0a4/index.m3u8 
+http://38.199.5.160:8000/play/a0a4/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD10 (DEP2)
-http://190.108.89.228:8000/play/a0bw/index.m3u8 
+http://190.108.89.228:8000/play/a0bw/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD11 (DEP2)
-http://190.60.48.85:9080/play/a1bs/index.m3u8 
+http://190.60.48.85:9080/play/a1bs/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD12 (DEP2)
-#http://190.60.37.115:8001/play/a00e/index.m3u8 
+#http://190.60.37.115:8001/play/a00e/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN3-HD13 (DEP2)
 http://181.78.65.226:5433/play/a02y 
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD1 ⚽ (DEP2)
-http://38.199.6.1:17001/play/a055/index.m3u8 
+http://38.199.6.1:17001/play/a055/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD2 (DEP2)
-#http://38.56.113.170:8000/play/a05t/index.m3u8 
+#http://38.56.113.170:8000/play/a05t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD3 (DEP2)
-#http://148.222.228.3:9000/play/a06z/index.m3u8 
+#http://148.222.228.3:9000/play/a06z/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD4 (DEP2)
 http://45.173.72.26:2072/play/a0bx 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD5 (DEP2)
-http://209.45.81.84:8000/play/a03h/index.m3u8 
+http://209.45.81.84:8000/play/a03h/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD6 (DEP2)
-#http://38.56.113.170:8000/play/a05t/index.m3u8 
+#http://38.56.113.170:8000/play/a05t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD7 (DEP2)
 #http://209.45.81.84:8000/play/a03h/index.m3u8-------- 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD8 (DEP2)
-http://38.199.5.160:8000/play/a0a7/index.m3u8 
+http://38.199.5.160:8000/play/a0a7/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD9 (DEP2)
-http://181.224.255.210:8001/play/a0og/index.m3u8 
+http://181.224.255.210:8001/play/a0og/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD10 (DEP2)
-http://190.108.89.228:8000/play/a0e5/index.m3u8 
+http://190.108.89.228:8000/play/a0e5/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD11 (DEP2)
-#http://190.60.37.115:8001/play/a0ji/index.m3u8 
+#http://190.60.37.115:8001/play/a0ji/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.4 HD12 (DEP2)
 http://181.78.65.226:5433/play/a02x 
@@ -802,29 +794,29 @@ http://181.78.65.226:5433/play/a02x
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD1 ⚽ (DEP2)
-http://181.176.155.7:8090/play/a1e8/index.m3u8 
+http://181.176.155.7:8090/play/a1e8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD2 (DEP2)
-#http://148.222.228.3:9000/play/a06w/index.m3u8 
+#http://148.222.228.3:9000/play/a06w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD3 (DEP2)
-#http://209.45.81.84:8000/play/a05l/index.m3u8 
+#http://209.45.81.84:8000/play/a05l/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD4 (DEP2)
-http://38.199.5.160:8000/play/a0a5/index.m3u8 
+http://38.199.5.160:8000/play/a0a5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD5 (DEP2)
-http://190.108.89.228:8000/play/a0dz/index.m3u8 
+http://190.108.89.228:8000/play/a0dz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD6 (DEP2)
-http://191.97.59.33:8000/play/a07r/index.m3u8 
+http://191.97.59.33:8000/play/a07r/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD7 (DEP2)
-#http://205.235.6.29:8000/play/a0vw/index.m3u8 
+#http://205.235.6.29:8000/play/a0vw/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD8 (DEP2)
 http://209.45.101.155:8000/play/a01y 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD9 (DEP2)
-http://190.171.83.2:4000/play/a0qb/index.m3u8 
+http://190.171.83.2:4000/play/a0qb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD10 (DEP2)
-#http://190.60.37.115:8001/play/a003/index.m3u8 
+#http://190.60.37.115:8001/play/a003/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD11 (DEP2)
 http://181.78.65.226:5433/play/a02m 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD12 (DEP2)
-#http://186.148.182.109:8100/play/a055/index.m3u8 
+#http://186.148.182.109:8100/play/a055/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN5-HD13 (DEP2)
 #http://148.222.230.220:8000/play/a01y 
  
@@ -832,118 +824,118 @@ http://181.78.65.226:5433/play/a02m
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD1 ⚽ (DEP2)
-#http://148.222.228.3:9000/play/a00x/index.m3u8 
+#http://148.222.228.3:9000/play/a00x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD2 (DEP2)
-#http://181.119.86.68:8000/play/b030/index.m3u8 
+#http://181.119.86.68:8000/play/b030/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD3 ⚽ (DEP2)
-http://45.5.119.43:4000/play/a0kj/index.m3u8 
+http://45.5.119.43:4000/play/a0kj/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD4 (DEP2)
-#http://209.45.81.84:8000/play/a03i/index.m3u8 
+#http://209.45.81.84:8000/play/a03i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD5 (DEP2)
 #http://187.102.210.142:5556/play/a01y 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD6 (DEP2)
-http://38.199.5.160:8000/play/a059/index.m3u8 
+http://38.199.5.160:8000/play/a059/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD7 (DEP2)
 #http://181.119.86.68:8000/play/b030/index.m3u8---REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD8 (DEP2)
-http://181.224.255.210:8001/play/a0eq/index.m3u8 
+http://181.224.255.210:8001/play/a0eq/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD9 (DEP2)
-http://181.224.255.214:8000/play/a0eq/index.m3u8 
+http://181.224.255.214:8000/play/a0eq/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD10 (DEP2)
-http://190.108.89.228:8000/play/a0bx/index.m3u8 
+http://190.108.89.228:8000/play/a0bx/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD11 (DEP2)
-#http://205.235.6.29:8000/play/a0vy/index.m3u8 
+#http://205.235.6.29:8000/play/a0vy/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD12 (DEP2)
 http://209.45.101.155:8000/play/a00e 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD13 (DEP2)
-http://190.171.83.2:4000/play/a0q7/index.m3u8 
+http://190.171.83.2:4000/play/a0q7/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN6-HD14 (DEP2)
-#http://190.60.37.115:8001/play/a0jk/index.m3u8 
+#http://190.60.37.115:8001/play/a0jk/index.m3u8
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD1 ⚽ (DEP2)
-#http://38.56.113.170:8000/play/a01t/index.m3u8 
+#http://38.56.113.170:8000/play/a01t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD2 (DEP2)
-#http://209.45.81.84:8000/play/a04w/index.m3u8 
+#http://209.45.81.84:8000/play/a04w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD3 (DEP2)
-#http://181.176.155.7:8090/play/a144/index.m3u8 
+#http://181.176.155.7:8090/play/a144/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD4 ⚽ (DEP2)
-http://181.78.12.119:16123/play/ch20/index.m3u8 
+http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD5 (DEP2)
-#http://148.222.228.3:9000/play/a08w/index.m3u8 
+#http://148.222.228.3:9000/play/a08w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD6 (DEP2)
 http://187.102.210.142:5556/play/a02f 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD7 (DEP2)
-#http://181.119.86.68:8000/play/b029/index.m3u8 
+#http://181.119.86.68:8000/play/b029/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD8 (DEP2)
-#http://38.56.113.170:8000/play/a01t/index.m3u8 
+#http://38.56.113.170:8000/play/a01t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD9 (DEP2)
-http://38.199.5.160:8000/play/a07w/index.m3u8 
+http://38.199.5.160:8000/play/a07w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD10 (DEP2)
-http://191.97.59.33:8000/play/a094/index.m3u8 
+http://191.97.59.33:8000/play/a094/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD12 (DEP2)
-http://190.108.89.228:8000/play/a09g/index.m3u8 
+http://190.108.89.228:8000/play/a09g/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD13 (DEP2)
-http://205.235.6.29:8000/play/a0vu/index.m3u8 
+http://205.235.6.29:8000/play/a0vu/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN7-HD14 (DEP2)
 http://209.45.101.155:8000/play/a01z 
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD1 ⚽ (DEP2)
-#http://38.56.113.170:8000/play/a01u/index.m3u8 
+#http://38.56.113.170:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD2⚽ (DEP2)
-http://38.199.5.160:8000/play/a05g/index.m3u8 
+http://38.199.5.160:8000/play/a05g/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD3⚽ (DEP2)
-http://190.108.89.228:8000/play/a0cy/index.m3u8 
+http://190.108.89.228:8000/play/a0cy/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD4 (DEP2)
-http://201.230.101.89:12000/play/a09l/index.m3u8 
+http://201.230.101.89:12000/play/a09l/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD5 (DEP2)
-http://205.235.6.29:8000/play/a0pz/index.m3u8 
+http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD6 (DEP2)
 http://209.45.101.155:8000/play/a01f 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD7 (DEP2)
-http://190.171.83.2:4000/play/a0g4/index.m3u8 
+http://190.171.83.2:4000/play/a0g4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD8 (DEP2)
-#http://190.60.37.115:8001/play/a00i/index.m3u8 
+#http://190.60.37.115:8001/play/a00i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD9 (DEP2)
 http://181.78.65.226:5433/play/a037 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD10 (DEP2)
-http://186.148.182.109:8100/play/a01z/index.m3u8 
+http://186.148.182.109:8100/play/a01z/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 ESPN.Premium-HD11 (DEP2)
 http://148.222.230.220:8000/play/a01f 
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 ⚽ (DEP2)
-#http://181.78.106.127:9000/play/ca031/index.m3u8 
+#http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport2 mx ⚽ (DEP2)
-#http://181.78.106.127:9000/play/ca032/index.m3u8 
+#http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT1.USA2 ⚽ (DEP2)
-#http://104.238.205.28:8989/278766_.m3u8 
+#http://104.238.205.28:8989/278766_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT2.USA1 ⚽ (DEP2)
-#http://190.104.67.90:234/play/a09b/index.m3u8 
+#http://190.104.67.90:234/play/a09b/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT2.USA2 (DEP2)
-#http://190.104.67.55:234/play/a09b/index.m3u8 
+#http://190.104.67.55:234/play/a09b/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT2.USA3 (DEP2)
-#http://190.104.67.45:234/play/a09b/index.m3u8 
+#http://190.104.67.45:234/play/a09b/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT2.USA4 (DEP2)
-#http://190.104.67.91:234/play/a09b/index.m3u8 
+#http://190.104.67.91:234/play/a09b/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT2.USA8 (DEP2)
-#http://104.238.205.28:8989/278767_.m3u8 
+#http://104.238.205.28:8989/278767_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FOXSPORT3.USA2 ⚽ (DEP2)
-#http://104.238.205.28:8989/278768_.m3u8 
+#http://104.238.205.28:8989/278768_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 AR1 ⚽ (DEP2)
-#http://190.104.67.90:234/play/a085/index.m3u8 
+#http://190.104.67.90:234/play/a085/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 AR2 (DEP2)
-#http://190.104.67.64:234/play/a085/index.m3u8 
+#http://190.104.67.64:234/play/a085/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 AR3 (DEP2)
-#http://190.104.67.55:234/play/a085/index.m3u8 
+#http://190.104.67.55:234/play/a085/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 AR4 (DEP2)
-#http://190.104.67.91:234/play/a085/index.m3u8 
+#http://190.104.67.91:234/play/a085/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",Fox Sport 3 AR4 (DEP2)
-http://186.125.218.189:13000/play/a056/index.m3u8 
+http://186.125.218.189:13000/play/a056/index.m3u8
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",FoxSport1 MX3 ⚽ (DEP2)
@@ -955,172 +947,172 @@ http://190.83.9.222:8000/play/ca006
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD1 ⚽ (DEP2)
-http://38.199.6.1:17001/play/a036/index.m3u8 
+http://38.199.6.1:17001/play/a036/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD2 (DEP2)
-#http://186.96.71.204:8000/play/a0c2/index.m3u8 
+#http://186.96.71.204:8000/play/a0c2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD3 (DEP2)
 #http://45.173.72.26:2072/play/a0bu 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD4 (DEP2)
-http://45.181.120.65:9087/play/057/index.m3u8 
+http://45.181.120.65:9087/play/057/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD5 (DEP2)
-http://179.1.202.41:45000/play/a0ix/index.m3u8 
+http://179.1.202.41:45000/play/a0ix/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD6 (DEP2)
-http://38.250.125.162:9800/play/110/index.m3u8 
+http://38.250.125.162:9800/play/110/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD7 (DEP2)
 http://45.173.72.26:2072/play/a0bu 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇱 TNTSportPremium HD8 (DEP2)
 #http://45.232.176.29:8000/play/a02r 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇦🇷 TNTSportPremium HD9 (DEP2)
-http://45.5.151.62:8000/play/a09f/index.m3u8 
+http://45.5.151.62:8000/play/a09f/index.m3u8
  
  
  
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD1 INT⚽ (DEP2)
-http://190.102.139.189:8000/play/a00t/index.m3u8 
+http://190.102.139.189:8000/play/a00t/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD2 (DEP2)
-http://186.125.218.189:13000/play/a055/index.m3u8 
+http://186.125.218.189:13000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES2", TyC SPORTS HD3 (DEP2)
-http://38.44.109.41:8003/play/a02l/index.m3u8 
+http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD4 (DEP2)
-http://181.78.27.128:12543/play/a04n/index.m3u8 
+http://181.78.27.128:12543/play/a04n/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD5 (DEP2)
-http://181.198.105.69:8111/play/a1gh/index.m3u8 
+http://181.198.105.69:8111/play/a1gh/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD6 [Geo-blocked](DEP2)
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8 
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD7 (DEP2)
 #http://187.102.211.200:48001/play/a06x 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD8 (DEP2)
 #http://tv.zapping.life:8080/live/huvargas01/latinplus6485/9609.ts 
 #EXTINF:0 tvg-id="ext tvg-logo="https://iili.io/JKrHXh7.png" " group-title="DEPORTES2",🇦🇷 TyC.Sport HD9 (DEP2)
-#http://190.104.67.28:234/play/a06x/index.m3u8 
+#http://190.104.67.28:234/play/a06x/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD10 (DEP2)
-#http://190.104.67.180:234/play/a06x/index.m3u8 
+#http://190.104.67.180:234/play/a06x/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD11 (DEP2)
-#http://201.219.11.182:7777/play/a30s/index.m3u8 
+#http://201.219.11.182:7777/play/a30s/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iili.io/JKrHXh7.png" group-title="DEPORTES2",🇦🇷 TyC.Sport HD12 (DEP2)
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts 
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKY SPORT HD1 ⚽ (DEP2)
-#http://181.78.106.127:9000/play/ca030/index.m3u8 
+#http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKY SPORT HD2 ⚽ (DEP2)
-http://190.92.10.66:4000/play/a001/index.m3u8 
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKY SPORT HD3 (DEP2)
-http://190.14.10.19:16000/play/a09u/index.m3u8 
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKY SPORT HD4 (DEP2)
-http://181.78.109.48:9998/play/a06r/index.m3u8 
+http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKY SPORT HD6 (DEP2)
-http://181.78.50.91:4000/play/a05m/index.m3u8 
+http://181.78.50.91:4000/play/a05m/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKY SPORT HD7 (DEP2)
-http://45.5.119.43:4000/play/a05r/index.m3u8 
+http://45.5.119.43:4000/play/a05r/index.m3u8
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",SKYSPORT.BUNDESLIGA HD1 ⚽ (DEP2)
-#http://181.78.106.127:9000/play/ca028/index.m3u8 
+#http://181.78.106.127:9000/play/ca028/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN.DEPORTES.USA.HD2 ⚽ (DEP2)
-#http://45.5.119.43:4000/play/a05s/index.m3u8 
+#http://45.5.119.43:4000/play/a05s/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD1 ⚽ (DEP2)
-#http://181.78.106.127:9000/play/ca039/index.m3u8 
+#http://181.78.106.127:9000/play/ca039/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD3 (DEP2)
 http://200.59.188.3:8000/play/a0cm 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD4 (DEP2)
 #http://181.78.106.127:9000/play/ca039/index.m3u8---REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD5 (DEP2)
-http://45.189.62.33:8002/play/a0np/index.m3u8 
+http://45.189.62.33:8002/play/a0np/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD6 (DEP2)
-http://45.239.31.254:8000/play/a01o/index.m3u8 
+http://45.239.31.254:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD7 (DEP2)
-http://200.69.80.179:5050/play/a0m3/index.m3u8 
+http://200.69.80.179:5050/play/a0m3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD8 (DEP2)
-http://148.113.207.98:8000/play/a009/index.m3u8 
+http://148.113.207.98:8000/play/a009/index.m3u8
  
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 TUDNMX HD1 ⚽ (DEP2)
-#http://181.78.106.127:9000/play/ca025/index.m3u8 
+#http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 TUDNMX HD2 (DEP2)
-#http://45.190.185.204:8990/play/a0fz/index.m3u8 
+#http://45.190.185.204:8990/play/a0fz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 TUDNMX HD3 (DEP2)
-#http://190.83.2.179:9014/play/a0p0/index.m3u8 
+#http://190.83.2.179:9014/play/a0p0/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 TUDNMX HD4 (DEP2)
 #http://181.78.106.127:9000/play/ca025/index.m3u8---REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 TUDNMX HD5 (DEP2)
-http://168.228.44.241:9998/play/a048/index.m3u8 
+http://168.228.44.241:9998/play/a048/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 TUDNMX HD6⚽ (DEP2)
-http://190.83.9.222:8000/play/ca040/index.m3u8 
+http://190.83.9.222:8000/play/ca040/index.m3u8
  
  
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD1 ⚽ (DEP2)
-http://181.78.71.71:18000/play/a03p/index.m3u8 
+http://181.78.71.71:18000/play/a03p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD2 (DEP2)
 #http://181.78.71.71:18000/play/a03p/index.m3u8---REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD3 (DEP2)
-http://38.191.202.2:1982/play/a0j3/index.m3u8 
+http://38.191.202.2:1982/play/a0j3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD6 (DEP2)
-http://181.78.21.174:8015/play/a05q/index.m3u8 
+http://181.78.21.174:8015/play/a05q/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD7 (DEP2)
-http://191.97.6.30:8000/play/a0f3/index.m3u8 
+http://191.97.6.30:8000/play/a0f3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD8 (DEP2)
-http://190.119.43.180:8000/play/a0xu/index.m3u8 
+http://190.119.43.180:8000/play/a0xu/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD9 (DEP2)
-#http://181.78.67.171:8010/play/a0iq/index.m3u8 
+#http://181.78.67.171:8010/play/a0iq/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD10 (DEP2)
-http://181.118.158.103:8000/play/a026/index.m3u8 
+http://181.118.158.103:8000/play/a026/index.m3u8
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD1 ⚽ (DEP2)
 #http://45.184.87.142:8000/play/a04d 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD2⚽ (DEP2)
-http://181.78.8.199:8000/play/a0cc/index.m3u8 
+http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD3 (DEP2)
-#http://179.1.202.41:45000/play/a0jm/index.m3u8 
+#http://179.1.202.41:45000/play/a0jm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD4 (DEP2)
-#http://181.78.78.105:18065/play/a0dc/index.m3u8 
+#http://181.78.78.105:18065/play/a0dc/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD5 (DEP2)
 #http://181.78.8.199:8000/play/a0cc/index.m3u8---REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD6 (DEP2)
 #http://181.78.78.105:18065/play/a0dc/index.m3u8---REPETIDO 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD7 (DEP2)
-#http://179.1.202.41:45000/play/a0jm/index.m3u8 
+#http://179.1.202.41:45000/play/a0jm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD8 (DEP2)
-http://190.60.57.18:3134/play/a00n/index.m3u8 
+http://190.60.57.18:3134/play/a00n/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD9 (DEP2)
-#http://179.1.202.41:45000/play/a0jm/index.m3u8 
+#http://179.1.202.41:45000/play/a0jm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD10 (DEP2)
 http://179.1.240.1:18002/play/a003 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD11 (DEP2)
-#http://186.148.181.155:8000/play/a04c/index.m3u8 
+#http://186.148.181.155:8000/play/a04c/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD12 (DEP2)
-#http://177.93.41.82:7000/play/a047/index.m3u8 
+#http://177.93.41.82:7000/play/a047/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD13 (DEP2)
-#http://177.93.41.134:4000/play/a16c/index.m3u8 
+#http://177.93.41.134:4000/play/a16c/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD14 (DEP2)
-#http://181.78.71.49:12000/play/a0wg/index.m3u8 
+#http://181.78.71.49:12000/play/a0wg/index.m3u8
  
  
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD2 ⚽ (DEP2)
-http://8.243.126.131:8000/play/a0ih/index.m3u8 
+http://8.243.126.131:8000/play/a0ih/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD4 (DEP2)
-http://181.78.50.91:4000/play/a03t/index.m3u8 
+http://181.78.50.91:4000/play/a03t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD5 (DEP2)
-http://45.164.151.197:8000/play/a05z/index.m3u8 
+http://45.164.151.197:8000/play/a05z/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD6 (DEP2)
-#http://45.224.96.65:8011/play/a05v/index.m3u8 
+#http://45.224.96.65:8011/play/a05v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD7 (DEP2)
-http://200.125.170.123:8000/play/a04f/index.m3u8 
+http://200.125.170.123:8000/play/a04f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD8 (DEP2)
-http://168.228.44.241:9997/play/a067/index.m3u8 
+http://168.228.44.241:9997/play/a067/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD9 (DEP2)
 http://128.201.227.251:4000/play/a04z 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",TIGO SPORT HD10 (DEP2)
@@ -1133,30 +1125,30 @@ http://190.60.40.34:8001/play/a08z
 http://38.252.213.12:8000/play/a02n  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport1.HD2 (DEP2)
-#http://181.78.106.127:9000/play/a0ok/index.m3u8 
+#http://181.78.106.127:9000/play/a0ok/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport1.HD3 (DEP2)
-http://45.5.119.43:4000/play/a024/index.m3u8 
+http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport1.HD4 (DEP2)
-http://181.198.105.69:8111/play/a1lp/index.m3u8 
+http://181.198.105.69:8111/play/a1lp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport1.HD5 (DEP2)
-http://138.204.12.14:40000/play/a0l1/index.m3u8 
+http://138.204.12.14:40000/play/a0l1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport1.HD6 (DEP2)
-http://45.5.119.96:12500/play/a024/index.m3u8 
+http://45.5.119.96:12500/play/a024/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport2 HD1 ⚽ (DEP2)
 http://128.201.227.251:4000/play/a06z 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport2 HD2 (DEP2)
-http://45.5.119.96:12500/play/a08x/index.m3u8 
+http://45.5.119.96:12500/play/a08x/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport2 HD3 (DEP2)
-#http://200.57.28.141:8000/play/a00z/index.m3u8 
+#http://200.57.28.141:8000/play/a00z/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport2 HD4 (DEP2)
-#http://200.57.28.139:8000/play/a00z/index.m3u8 
+#http://200.57.28.139:8000/play/a00z/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport3 HD1 ⚽ (DEP2)
-#http://190.115.15.49:8000/play/a0nu/index.m3u8 
+#http://190.115.15.49:8000/play/a0nu/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport3 HD2⚽ (DEP2)
-http://181.78.109.48:9998/play/a06u/index.m3u8 
+http://181.78.109.48:9998/play/a06u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇲🇽 ClaroSport3 HD3 (DEP2)
 #http://190.6.206.126:8000/play/a02z 
  
@@ -1170,29 +1162,29 @@ http://181.78.109.48:9998/play/a06u/index.m3u8
  
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 LIGA1.HD1 ⚽ (DEP2)
-http://38.199.6.1:17001/play/a0cz/index.m3u8 
+http://38.199.6.1:17001/play/a0cz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 LIGA1.HD2 (DEP2)
-http://45.173.201.51:4000/play/a09d/index.m3u8 
+http://45.173.201.51:4000/play/a09d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD1 ⚽ (DEP2)
-http://181.224.226.128:5000/play/a001/index.m3u8 
+http://181.224.226.128:5000/play/a001/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD2 (DEP2)
-http://38.199.6.1:17001/play/a0ce/index.m3u8 
+http://38.199.6.1:17001/play/a0ce/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD3 (DEP2)
-http://38.43.132.201:8000/play/a0cz/index.m3u8 
+http://38.43.132.201:8000/play/a0cz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD4 (DEP2)
-http://190.117.20.39:8000/play/a08c/index.m3u8 
+http://190.117.20.39:8000/play/a08c/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD6 (DEP2)
-http://190.102.139.189:8000/play/a00w/index.m3u8 
+http://190.102.139.189:8000/play/a00w/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD7 (DEP2)
-http://201.230.121.85:8000/play/a002/index.m3u8 
+http://201.230.121.85:8000/play/a002/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.HD8 (DEP2)
-http://148.222.230.197:8000/play/a0bv/index.m3u8 
+http://148.222.230.197:8000/play/a0bv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.(ACC) HD12 ⚽ (DEP2)
-http://45.173.201.51:4000/play/a07f/index.m3u8 
+http://45.173.201.51:4000/play/a07f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.(ACC) HD16 (DEP2)
-http://217.26.190.76:8888/play/a0j4/index.m3u8 
+http://217.26.190.76:8888/play/a0j4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.(ACC) HD17 (DEP2)
-http://38.224.231.98:8000/play/a0tk/index.m3u8 
+http://38.224.231.98:8000/play/a0tk/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.(ACC) HD19 (DEP2)
 http://138.99.179.64:8800/play/a03r 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES_SEC",🇵🇪 Liga1MAX.(ACC) HD20 (DEP2)
@@ -1666,7 +1658,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 
 #EXTINF:0 group-title="RESTO_MUNDO",Corea Del Sur - BTN (🇰🇷) (MUNDO)(RM)
-https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8 
+https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
 #EXTINF:0 group-title="RESTO_MUNDO",Corea Del Sur - EBS Kids (🇰🇷)(MUNDO)(RM)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/.m3u8
 #EXTINF:0 group-title="RESTO_MUNDO",Suiza - Sport Digital (🇨🇭)(MUNDO)(RM)
@@ -2037,7 +2029,7 @@ http://45.5.151.62:8000/play/a011/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",MX CANAL5.HD1(MOP)
-http://181.78.106.127:9000/play/ca012/index.m3u8 
+http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",MX AZTECA7 FHD2(MOP)
 http://181.78.106.127:9000/play/ca023/index.m3u8
 
@@ -3551,8 +3543,6 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="ENTRETERIMIENTO", 🇺🇸 Showtime Next Eastᴴᴰ(ENT)
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Eastᴴᴰ(ENT)
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Comedy Eastᴴᴰ(ENT)
@@ -3565,6 +3555,9 @@ http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 Starz Encore Westernsᴴᴰ(ENT)
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="ENTRETERIMIENTO", 🇺🇸 TBS Eastᴴᴰ(ENT)
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="ENTRETERIMIENTO" tvg-id="USBC3900018K6" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/mtmn.png",🇺🇸 MyTime Movie Network(ENT)
