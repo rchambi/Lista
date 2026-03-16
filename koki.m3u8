@@ -103,6 +103,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG) NF 🟢 
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG) 
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ARGENTINA",  LN+ HD (ARG) NF🟢 
 http://45.5.151.62:8000/play/a025/index.m3u8
  
@@ -200,7 +202,10 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA" ,A24 (720p)  (ARG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true 
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="ARGENTINA",A24 ᴴᴰ (ARG)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-id="ATVArgentina.ar@SD" group-title="ARGENTINA",ATV Argentina  (ARG)
 https://tv.streaming.com.bo/atvargentina/index.m3u8
  
@@ -275,11 +280,24 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA", Unitel Oficial(BOL)  [NOT 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA", Unitel Oficial (BOL)  [NOT 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel SCZ(720p) [Not 24/7]
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel SCZ [Not 24/7] (BOL)
 https://xtream.videx.lol/Yoshiro/admin/338.m3u8
+
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="BOLIVIA", Unitel LPZ (BOL)
+http://38.41.8.1:8000/play/a0d7
+
+#EXTINF:236 group-title="BOLIVIA",Unitel Santa Cruz  (BOL) [Not 24/7]
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Unitel - Red Uno test
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno test
+https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno FHD test
+https://master.tucableip.com//monreduno/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (BOL)  Temp
 #https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=mCWXWY8Q7iUnb5MiJJFxHALV7tU4jDsk4FoLLc9LnWum4GCDL8D3TouODDuFWkvx7bYBXOb5k065TH6bc9VdQw&dmTs=999999&dmV1st=41c8c539-7dec-4fb7-abfa-444bdac7849f
@@ -290,7 +308,7 @@ https://master.tucableip.com/tvhome/index.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="BOLIVIA",ATB MOVIL (BOL)
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="ATBLaPaz.bo@SD" group-title="BOLIVIA",ATB La Paz
+#EXTINF:-1 tvg-id="ATBLaPaz.bo@SD" group-title="BOLIVIA",ATB LPZ (BOL)
 https://stream.atb.com.bo/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="BOLIVIA",TDT MULTIMEDIA HD (BOL)
@@ -716,7 +734,7 @@ http://45.5.119.43:4000/play/a052/index.m3u8
 #http://201.174.175.3:8000/play/a0vh/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD1 ⚽ (DEP2)
-#http://186.96.71.204:8000/play/a0c3/index.m3u8
+http://38.44.109.41:8003/play/a03u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",ESPN2.HD2⚽ (DEP2)
 http://181.224.226.128:5000/play/a07d/index.m3u8
  
@@ -1108,7 +1126,7 @@ http://190.60.57.18:3134/play/a00n/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD10 (DEP2)
 http://179.1.240.1:18002/play/a003 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD11 (DEP2)
-#http://186.148.181.155:8000/play/a04c/index.m3u8
+http://38.44.109.41:8003/play/a03n/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD12 (DEP2)
 #http://177.93.41.82:7000/play/a047/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT+ HD13 (DEP2)
@@ -1394,7 +1412,7 @@ https://vcp15.myplaytv.com/venenews/venenews/chunklist_w1384263562.m3u8
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/0fd5c964-718e-4b06-8ec8-5a88fce40fc0/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dB9n4Ds.jpeg" group-title="NOTICIAS_INTERNACIONALES", TVN DE CHILE ᴴᴰ(INTER)
 https://andromeda2.trapemn.tv:1936/live/tvnHD.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="NOTICIAS_INTERNACIONALES", TELE TRECE ᴴᴰ (INTER)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OrRQ37.jpeg" group-title="NOTICIAS_INTERNACIONALES", TELE TRECE CHILE ᴴᴰ (INTER)
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e95rkEq.jpeg" group-title="NOTICIAS_INTERNACIONALES", SKY NEWS ᴴᴰ (INTER)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -1458,10 +1476,18 @@ http://200.52.150.5:8000/play/a0si
 http://38.183.213.254:8000/play/a0a4/index.m3u8
 #EXTINF:0 group-title="SUD-AMERICA", Warner (Colombia) (AME)
 http://190.60.32.178:8178/play/a0az
+#EXTINF:-1 group-title="SUD-AMERICA" tvg-logo="https://i.imgur.com/I0eGYI0.png",BUM Televisión (720p) (AME)
+https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:0 group-title="SUD-AMERICA" ,TVR (Chile)(AME)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="SUD-AMERICA", TV Chile(AME)
 http://200.115.96.61:9090/play/a006/index.m3u8
+#EXTINF:0 type="favorites" channelId="3037" group="SUD-AMERICA" logo="https://i.imgur.com/PRijvR0.png", ChileVision (AME)
+http://38.250.127.17:9800/play/a05h/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="SUD-AMERICA" logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/", Canal 13 Chile (AME)
+http://38.250.127.17:9800/play/a067/index.m3u8
+
+
 #EXTINF:0 group-title="SUD-AMERICA",UCL (Uruguay) (🇺🇾)(AME)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:0 group-title="SUD-AMERICA", C9N (Paraguay) (🇵🇾)(AME)
@@ -1496,7 +1522,18 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 https://video01.soultv.com.br/cinemonde/cinemonde/.m3u8
 #EXTINF:0 group-title="SUD-AMERICA" ,Central (Brasil)  (AME)
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/.m3u8
-
+#EXTINF:0 type="favorites" channelId="2501" group="SUD-AMERICA", AMC (AME)
+http://38.44.109.41:8003/play/a02a/index.m3u8
+#EXTINF:0 type="favorites" channelId="1303" group="SUD-AMERICA", FX (AME)
+http://38.44.109.41:8003/play/a01g/index.m3u8
+#EXTINF:0 type="favorites" channelId="1052" group="SUD-AMERICA", TNT (AME)
+http://38.44.109.41:8003/play/a01v/index.m3u8
+#EXTINF:0 type="favorites" channelId="2625" group="SUD-AMERICA", Studio Universal (AME)
+http://38.44.109.41:8003/play/a03e/index.m3u8
+#EXTINF:0 type="favorites" channelId="383" group="SUD-AMERICA", Space (AME)
+http://38.44.109.41:8003/play/a01y/index.m3u8
+#EXTINF:0 type="favorites" channelId="177" group="SUD-AMERICA", Star Channel (AME)
+http://38.44.109.41:8003/play/a012/index.m3u8
 
 
 
@@ -3760,6 +3797,9 @@ http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3019
  
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="TV_CABLE_AMERICA",HBO (arg3)
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/7983.ts 
+
+#EXTINF:0 type="favorites" channelId="1330" name="LA: HBO" group="TV_CABLE_AMERICA" logo="https://asiagrandiptv.us/logo/hbo.png" country="la", HBO (arg3)
+http://lunar.pm:8080/bonmax/blackjack816/115107
  
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/Tw5yqYgC/hbo2.png" group-title="TV_CABLE_AMERICA",HBO 2 (arg3)
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/50.ts 
@@ -3777,6 +3817,8 @@ https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olym
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="TV_CABLE_AMERICA", HBO Plus (arg3)
 http://190.123.90.146:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="TV_CABLE_AMERICA", HBO Plus (arg3)
+http://lunar.pm:8080/bonmax/blackjack816/115111
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
 http://190.60.37.154:45000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
@@ -3820,6 +3862,8 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", CINEMAX EAST (arg3)
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="TV_CABLE_AMERICA", CINEMAX (arg3)
+http://38.44.109.41:8003/play/a023/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", CNBC (arg3)
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", CRAVE 2 (arg3)
