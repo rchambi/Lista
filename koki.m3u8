@@ -55,7 +55,11 @@ http://45.5.151.62:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="ARGENTINA", CM (ARG) 🟢 
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net 
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Cosmos (ARG) 🟢 
+#EXTINF:-1 logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", Cosmos (ARG) 🟢 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Cosmos TV" logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", Cosmos TV (ARG)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="SAN JUAN" logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", COSMOS TV SAN JUAN (ARG)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG)🟢 
 #http://201.217.246.177:8000/play/a01q/index.m3u8
@@ -203,11 +207,15 @@ https://tv.streaming.com.bo/atvargentina/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD" group-title="ARGENTINA",Metro TV (720p)  (ARG)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png", CANAL 34 SAN JUAN (ARG)
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png", CANAL 4 SAN JUAN (ARG)
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png", CANAL 21 POSADAS (ARG)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
-
-
-
-
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png", CANAL 12 TUCUMAN (ARG)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 
@@ -225,8 +233,15 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8--------------------------------------------------no funciona y se coloco https://www.dailymotion.com/video/x9n2qyk donde x9n2qyk es id del canal
 #https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=ZIwq0PBSHlBzFyHVTrxtIJr8EM0ZfW-eU_tfmhedlejcK2nlg98lQqa-tGS89jslq8Mi9FnG966AqiNr1QrVlTMxiyq8etFwQvf5Gdfjei8&dmTs=439968&dmV1st=3418ce94-4d66-4958-bbda-2999758fb57a
 
+#EXTINF:-1 tvg-id="LatinaTv" tvg-logo="https://i.ibb.co/GWYWym6/tvlatina.png" status="timeout" group-title="BOLIVIA", Latina Montero (BOL)
+https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
+#EXTINF:-1 tvg-id="Tv Show Oruro" tvg-logo="https://i.ibb.co/5jQZkkm/tvshow.jpg" status="timeout" group-title="BOLIVIA", Tv Show Oruro (BOL)
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="Univalle Tv" tvg-logo="https://i.ibb.co/Lgvb6GK/unv.jpg" status="timeout" group-title="BOLIVIA", Univalle Tv (BOL)
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Univalle Tv" tvg-logo="https://i.ibb.co/Lgvb6GK/unv.jpg" status="timeout" group-title="BOLIVIA", Univalle Tv (BOL)
+https://master.tucableip.com/univalletv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA", Bolivision LP op2 (BOL)  
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -260,7 +275,7 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA", Unitel (BOL)  [NOT 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA", Unitel Oficial(BOL)  [NOT 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel SCZ(720p) [Not 24/7]
@@ -289,8 +304,11 @@ https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
 #EXTINF:-1 tvg-id="F10HD.bo@SD" group-title="BOLIVIA",F10 HD [Geo-blocked] (BOL)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-#EXTINF:-1 tvg-id="FTV.bo@SD" group-title="BOLIVIA",FTV (BOL)
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="BOLIVIA", F10 (BOL)
 https://master.tucableip.com/ftvhd/index.m3u8
+
+https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
+#EXTINF:-1 tvg-id="FTV.bo@SD" group-title="BOLIVIA",FTV (BOL)
 
 
 
@@ -1436,6 +1454,8 @@ http://181.78.82.6:46090/play/a05y
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="SUD-AMERICA", Star Channel (Colombia) (AME)
 http://200.52.150.5:8000/play/a0si
+#EXTINF:-1 tvg-id="Star" tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" status="timeout" group-title="SUD-AMERICA", Star Channel FHD (AME)
+http://38.183.213.254:8000/play/a0a4/index.m3u8
 #EXTINF:0 group-title="SUD-AMERICA", Warner (Colombia) (AME)
 http://190.60.32.178:8178/play/a0az
 #EXTINF:0 group-title="SUD-AMERICA" ,TVR (Chile)(AME)
@@ -1563,7 +1583,10 @@ https://stream.eleden.com/livelax/ngrp:livelax_all/.m3u8
 https://video1.getstreamhosting.com:1936/8226/8226/.m3u8
 #EXTINF:0 group-title="NORTE-AMERICA-CARIBE", Telemundo Int (Puerto Rico) (🇵🇷)(AME)
 http://200.60.124.19:29000/play/a01g
-
+#EXTINF:-1 tvg-id="Galavisión" tvg-logo="https://i.ibb.co/svdzQL2/Galavision-Logo-2024-svg.png" status="timeout" group-title="NORTE-AMERICA-CARIBE", Galavisión (AME)
+http://200.115.120.1:8000/play/ca066/index.m3u8
+#EXTINF:-1 tvg-id="FUTV" tvg-logo="https://i.ibb.co/sR2V5Yj/FUTV.jpg" status="timeout" group-title="NORTE-AMERICA-CARIBE", FUTV FHD (AME)
+http://190.92.10.66:4000/play/a00c/index.m3u8
 
 #EXTINF:0 group-title="NORTE-AMERICA-CARIBE", AMC (Mexico) (AME)
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
@@ -1607,10 +1630,9 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="NORTE-AMERICA-CARIBE", MX: MILENIO (Mexico)(AME)
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="Estrella Tv" tvg-logo="https://i.ibb.co/wNn1d0S/estrella.png" status="timeout"  group-title="NORTE-AMERICA-CARIBE", Estrella Tv (AME)
+#EXTINF:-1 tvg-id="AuroraMediaFilms" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" status="timeout" group-title="NORTE-AMERICA-CARIBE", Aurora Media Films (AME)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/54
 
 
 
@@ -1742,6 +1764,8 @@ http://157.100.9.51:8000/play/a034
 http://157.100.9.51:8000/play/a0cn 
 #EXTINF:-1 group-title="CABLE_OP4",AXN (Cable4)
 http://157.100.9.51:8000/play/a0yj 
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="CABLE_OP4", AXN FHD (Cable4)
+http://200.115.120.1:8000/play/ca038/index.m3u8
 #EXTINF:-1 group-title="CABLE_OP4",America TV HD (Cable4)
 http://157.100.9.51:8000/play/a0ca 
 #EXTINF:-1 group-title="CABLE_OP4",America TV PY (Cable4)
@@ -1980,6 +2004,8 @@ http://157.100.9.51:8000/play/a01e
 http://157.100.9.51:8000/play/a0d6 
 #EXTINF:-1 group-title="CABLE_OP4", Warner Channel HD (Cable4)
 http://157.100.9.51:8000/play/a01o 
+#EXTINF:-1 group-title="CABLE_OP4", Warner Channel HD (Cable4)
+http://38.41.8.1:8000/play/a07n
 
 
 
@@ -3751,8 +3777,10 @@ https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olym
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="TV_CABLE_AMERICA", HBO Plus (arg3)
 http://190.123.90.146:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
+#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
 http://190.60.37.154:45000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
+http://181.78.23.26:45000/play/a02z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="TV_CABLE_AMERICA", TNT Novelas (arg3)
 http://190.60.37.154:45000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="TV_CABLE_AMERICA", FX (arg3)
@@ -3837,16 +3865,37 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bf
 https://cnn.hostlagarto.com/megacinetv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Peliculas (arg3)
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Peliculas (arg3)
+http://200.59.188.3:8000/play/a0fr
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Accion (arg3)
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Accion (arg3)
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Comedia (arg3)
 https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Comedia (arg3)
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Crimen (arg3)
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Crimen (arg3)
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Romance (arg3)
 https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Romance (arg3)
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TV_CABLE_AMERICA", Runtime Familia (arg3)
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:-1 tvg-id="Runtime Thriller"tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" status="timeout" group-title="Cine y Series", Runtime Thriller
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg2v-lCMxVGelEmRdGIke4hgWhbSMjOTx6w&s" group-title="TV_CABLE_AMERICA", MULTIVISION TELEVISION DIGITAL (arg3)
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV_CABLE_AMERICA", MY TIME MOVIES 1 (arg3)
@@ -4831,6 +4880,8 @@ https://faster-viale.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/hbosig/output.mpd 
 #EXTINF:-1 group-title="Cable_Ar2", HBO XTREME (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/hboxtr/output.mpd 
+#EXTINF:-1 group-title="Cable_Ar2", HBO XTREME (C_AR2)
+http://181.205.130.194:4000/play/a0dq
 #EXTINF:-1 group-title="Cable_Ar2", HGTV (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd 
 #EXTINF:-1 group-title="Cable_Ar2", HISTORY (C_AR2)
