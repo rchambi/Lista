@@ -5564,51 +5564,51 @@ https://cablered.iptvperu.tv:1936/cablered/ewtn/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO (c_br)
 http://79.127.238.228:14217/
-#EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SPO (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SPO (c_br)
 http://79.127.238.228:14211/
-#EXTINF:-1 tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TVBahia25.svg/250px-TVBahia25.svg.png",TV BAHIA (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TVBahia25.svg/250px-TVBahia25.svg.png",TV BAHIA (c_br)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-name="+SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",+SBT (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="+SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",+SBT (c_br)
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
-#EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA (c_br)
 http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
-#EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/276.m3u8
-#EXTINF:-1 tvg-name="Globo Minas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png",Globo Minas HD (c_br)
+#EXTINF:-1  group-title="Tv_brasil"  tvg-name="Globo Minas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png",Globo Minas HD (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/282.m3u8
-#EXTINF:-1 tvg-name="RecordTV Minas HD" tvg-logo="https://acstatic.co/logos/canais/record.png",RecordTV Minas HD (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="RecordTV Minas HD" tvg-logo="https://acstatic.co/logos/canais/record.png",RecordTV Minas HD (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/285.m3u8
-#EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png",SBT Minas (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="SBT Minas FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png",SBT Minas (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/291.m3u8
-#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://acstatic.co/logos/canais/redetv.png", REDE TV! (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="Rede TV" tvg-logo="https://acstatic.co/logos/canais/redetv.png", REDE TV! (c_br)
 http://tv.mapfibra.com.br:8555/live/2003/123456/289.m3u8
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://acstatic.co/logos/canais/tvcultura.png", TV CULTURA SINAL 01 (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TV CULTURA" tvg-logo="https://acstatic.co/logos/canais/tvcultura.png", TV CULTURA SINAL 01 (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/318.m3u8
 
-#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png", GLOBONEWS HD (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png", GLOBONEWS HD (c_br)
 http://79.127.238.228:14093/
-#EXTINF:-1 tvg-name="SBT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/250px-SBT_News_2025.svg.png",SBT NEWS (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="SBT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/250px-SBT_News_2025.svg.png",SBT NEWS (c_br)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/286.m3u8
-#EXTINF:-1 tvg-name="JP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/598px-Jovem_Pan_News_logo_2022.png",JOVEM PAN NEWS (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="JP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/598px-Jovem_Pan_News_logo_2022.png",JOVEM PAN NEWS (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/308.m3u8
 
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA REDE (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA REDE (c_br)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL (c_br)
 https://virtual.tv.br/blower/alot.php?s=aHR0cHM6Ly9pc2FvY29ycC5jbG91ZGVjYXN0LmNvbS9yZWRlbWVpby90cmFja3MtdjFhMS9tb25vLm0zdTg=
-#EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS (c_br)
 https://www.tvmarrecas.com.br/servidor/tv/tvmarrecashd/chunklist.m3u8
-#EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL (c_br)
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
-#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV (c_br)
+#EXTINF:-1 group-title="Tv_brasil"  tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/351.m3u8
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png?20190703044917",ISTV (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png?20190703044917",ISTV (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/348.m3u8
-#EXTINF:-1 tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png", TV GAZETA (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png", TV GAZETA (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/281.m3u8
 #EXTINF:0 group-title="Tv_brasil",FUTURA (c_br)
 http://tv.mapfibra.com.br:8555/live/1280/123456/280.m3u8
@@ -5618,9 +5618,9 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/303.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/294.m3u8
 #EXTINF:0 group-title="Tv_brasil",TV BRASIL INTERNACIONAL (c_br)
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA (c_br)
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD (c_br)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:0 group-title="Tv_brasil" logo="https://i.imgur.com/XqAcHMg.png", TV Marajoara (c_br)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
@@ -5633,13 +5633,13 @@ http://79.127.238.228:14093/
 
 
 
-#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS (c_br)
+#EXTINF:-1 group-title="Tv_brasil" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS (c_br)
 http://tkosportz.live:25461/folalawal@/4044225438/10374
-#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC (c_br)
+#EXTINF:-1 group-title="Tv_brasil" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC (c_br)
 http://4.59.210.197:8815/udp/127.0.0.1:6009
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC (c_br)
+#EXTINF:-1 group-title="Tv_brasil" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC (c_br)
 http://173.225.32.123/KSFY-2363/index.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW (c_br)
+#EXTINF:-1 group-title="Tv_brasil" tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW (c_br)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Tv_brasil",RAI NEWS (c_br)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1749052994~exp=1749053144~acl=/*~hmac=c32747e9edafa8473c7b71873c4df01bad58b606d66f0308f8a19ca2c443b926
@@ -5715,11 +5715,11 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 
 
-#EXTINF:-1 tvg-name="TVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/250px-Logo_La_2.svg.png",TVE2 (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/250px-Logo_La_2.svg.png",TVE2 (c_br)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
-#EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/250px-Logo_TVE-Internacional.svg.png",TVE INTERNACIONAL (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/250px-Logo_TVE-Internacional.svg.png",TVE INTERNACIONAL (c_br)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
-#EXTINF:-1 tvg-name="TVE STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", TVE STAR (c_br)
+#EXTINF:-1  group-title="Tv_brasil" tvg-name="TVE STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", TVE STAR (c_br)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
 
