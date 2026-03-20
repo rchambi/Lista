@@ -295,12 +295,20 @@ http://38.41.8.1:8000/play/a0d7
 #EXTINF:236 group-title="BOLIVIA",Unitel Santa Cruz (BOL) [Not 24/7]
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="BOLIVIA",Unitel Santa Cruz (720p) [Not 24/7] testear (BOL)
+https://xtream.videx.lol/Yoshiro/admin/338.m3u8
+
+
+#EXTINF:-1 tvg-name="UNITEL" tvg-logo="https://i.imgur.com/B9wg1zj.png"  group-title="BOLIVIA" ,UNITEL HD test 2 (BOL)
+https://master.tucableip.com/muxunitelsc/index.mpd
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Unitel - Red Uno test
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno test
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno FHD test
 https://master.tucableip.com//monreduno/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno FHD test2
+https://master.tucableip.com/muxredunosc/index.mpd
 
 #EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (BOL) Temp
 #https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=mCWXWY8Q7iUnb5MiJJFxHALV7tU4jDsk4FoLLc9LnWum4GCDL8D3TouODDuFWkvx7bYBXOb5k065TH6bc9VdQw&dmTs=999999&dmV1st=41c8c539-7dec-4fb7-abfa-444bdac7849f
@@ -325,11 +333,11 @@ https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
 #EXTINF:-1 tvg-id="F10HD.bo@SD" group-title="BOLIVIA",F10 HD [Geo-blocked] (BOL)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="BOLIVIA", F10 (BOL)
-https://master.tucableip.com/ftvhd/index.m3u8
-
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="BOLIVIA",F10 SD  (BOL)
 https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
-#EXTINF:-1 tvg-id="FTV.bo@SD" group-title="BOLIVIA",FTV (BOL)
+
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/qdY2C3L/F10.jpg" status="timeout" group-title="BOLIVIA", FTV (BOL)
+https://master.tucableip.com/ftvhd/index.m3u8
 
 
 
@@ -5552,3 +5560,703 @@ https://cablered.iptvperu.tv:1936/transcoder/enlace_t3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://127.0.0.0" group-title="Cable_Peru", EWTN (C_PER1)
 https://cablered.iptvperu.tv:1936/cablered/ewtn/playlist.m3u8
 #https://cablered.iptvperu.tv:1936/transcoder/ewtn_t2.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO (c_br)
+http://79.127.238.228:14217/
+#EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SPO (c_br)
+http://79.127.238.228:14211/
+#EXTINF:-1 tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TVBahia25.svg/250px-TVBahia25.svg.png",TV BAHIA (c_br)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-name="+SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",+SBT (c_br)
+https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+#EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA (c_br)
+http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
+#EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/276.m3u8
+#EXTINF:-1 tvg-name="Globo Minas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png",Globo Minas HD (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/282.m3u8
+#EXTINF:-1 tvg-name="RecordTV Minas HD" tvg-logo="https://acstatic.co/logos/canais/record.png",RecordTV Minas HD (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/285.m3u8
+#EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png",SBT Minas (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/291.m3u8
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://acstatic.co/logos/canais/redetv.png", REDE TV! (c_br)
+http://tv.mapfibra.com.br:8555/live/2003/123456/289.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://acstatic.co/logos/canais/tvcultura.png", TV CULTURA SINAL 01 (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/318.m3u8
+
+#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png", GLOBONEWS HD (c_br)
+http://79.127.238.228:14093/
+#EXTINF:-1 tvg-name="SBT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/250px-SBT_News_2025.svg.png",SBT NEWS (c_br)
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/286.m3u8
+#EXTINF:-1 tvg-name="JP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/598px-Jovem_Pan_News_logo_2022.png",JOVEM PAN NEWS (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/308.m3u8
+
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA REDE (c_br)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+#EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL (c_br)
+https://virtual.tv.br/blower/alot.php?s=aHR0cHM6Ly9pc2FvY29ycC5jbG91ZGVjYXN0LmNvbS9yZWRlbWVpby90cmFja3MtdjFhMS9tb25vLm0zdTg=
+#EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS (c_br)
+https://www.tvmarrecas.com.br/servidor/tv/tvmarrecashd/chunklist.m3u8
+#EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL (c_br)
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
+#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/351.m3u8
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png?20190703044917",ISTV (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/348.m3u8
+#EXTINF:-1 tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png", TV GAZETA (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/281.m3u8
+#EXTINF:0 group-title="Tv_brasil",FUTURA (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/280.m3u8
+#EXTINF:0 group-title="Tv_brasil",CNT (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/303.m3u8
+#EXTINF:0 group-title="Tv_brasil",TV BRASIL (c_br)
+http://tv.mapfibra.com.br:8555/live/1280/123456/294.m3u8
+#EXTINF:0 group-title="Tv_brasil",TV BRASIL INTERNACIONAL (c_br)
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA (c_br)
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
+#EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD (c_br)
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil" logo="https://i.imgur.com/XqAcHMg.png", TV Marajoara (c_br)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil" logo="https://i.imgur.com/XqAcHMg.png", Rede Brasil HD (c_br)
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil" logo="https://i.imgur.com/Wu4ykxo.png", Globo News HD² (c_br)
+http://79.127.238.228:14093/
+
+
+
+
+
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS (c_br)
+http://tkosportz.live:25461/folalawal@/4044225438/10374
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC (c_br)
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC (c_br)
+http://173.225.32.123/KSFY-2363/index.m3u8
+#EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW (c_br)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil",RAI NEWS (c_br)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1749052994~exp=1749053144~acl=/*~hmac=c32747e9edafa8473c7b71873c4df01bad58b606d66f0308f8a19ca2c443b926
+#EXTINF:0 group-title="Tv_brasil",CNN PORTUGAL (c_br)
+https://video-auth5.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjUgNDo0OjQ5IFBNJmhhc2hfdmFsdWU9YXlUUE1sQm5KeGJpdEhmUTlhZnNVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThjOWUxOWZlLTYxNWMtNDgxZi1hMWUwLTUwOWRjZDE3YjE0Nw==
+#EXTINF:0 group-title="Tv_brasil",CNN INTERNATIONAL (c_br)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 group-title="Tv_brasil",CNNMONEY (c_br)
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w992789902.m3u8
+#EXTINF:0 group-title="Tv_brasil",CNN BRASIL (c_br)
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1119261070.m3u8
+#EXTINF:0 group-title="Tv_brasil",NEWSMAX (c_br)
+https://nmx1gonet.akamaized.net/hls/live/2107009/Live_1/3.m3u8
+#EXTINF:0 group-title="Tv_brasil",EVENTS (c_br)
+https://voa-ingest.akamaized.net/hls/live/2037660/tvmc13/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil",VOA (c_br)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil",SKY NEWS (c_br)
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 group-title="Tv_brasil",AL JAZEERA (c_br)
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+#EXTINF:0 group-title="Tv_brasil",CNN ESPAÑOL (c_br)
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil",TPA INTERNACIONAL SD (c_br)
+http://tv14s.xyz:8080/13851097/13851097/164855
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="2433" name="SBT" group="Canais | SBT" logo="https://imgur.com/w2CTebZ.png", ÷SBT SP HD (c_br)
+https://aovivo.maissbt.com/channel_1080.m3u8
+
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="2211" name="IT: RAI NEWS 24" group="ITALY" country="it", RAI NEWS 24 (c_br)
+http://206.212.244.71:8080/Abxc5k/363887/212913
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="2287" aspect-ratio="16:9", las estrellas (c_br)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" group="*WORLD_TV MIX", ABC TV Sydney (720p) (c_br)
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" group="*WORLD_TV MIX" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png", CBS 11 Houston TX (KHOU) (1080p) (c_br)
+https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" group="News+Busines" logo="https://i.ibb.co/XbSHxd5/cnn.png", CNN INT (c_br)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" group="News+Busines" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked] (c_br)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1444" aspect-ratio="16:9", ABC (c_br)
+http://173.225.32.123/KSFY-2363/index.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1444" aspect-ratio="16:9", KMIZ ABC (c_br)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1", TELEMUNDO 51 (c_br)
+http://190.92.10.66:4000/play/a004/index.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="895", TCM (c_br)
+http://187.120.222.12:8000/play/TCM/index.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1955" , CANAL 5 (c_br)
+http://200.115.120.1:8000/play/ca0105/index.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1317",  Fox News (c_br)
+http://152.231.29.139:8000/play/a0cn/index.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="473",  Baby TV (c_br)
+http://152.231.29.139:8000/play/a0ba/index.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" name="US CW (KTLA)" group="USA | NEWS | REGIONALS", US CW (KTLA) (c_br)
+http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/120889
+
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" name="CO | DENVER | CBS 4" group="17. LOCALS BY STATE" logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd", CO | DENVER | CBS 4 (c_br)
+http://tkosportz.live:25461/folalawal@/4044225438/149652
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="3205" name="US : CBS (KLAS- Las Vegas NV)" group="18. TEST LOCALS -ABC, CBS, NBC, FOX" logo="http://onlytimewilltell.xyz:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" country="us", CBS (KLAS- Las Vegas NV) (c_br)
+http://tkosportz.live:25461/folalawal@/4044225438/102891
+
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" name="US ▎KTLA 5 HD [LOS ANGELES]" group="US ▎GENERAL" logo="https://img.logo-cdn.cc/ktla.png", US ▎KTLA 5 HD [LOS ANGELES] (c_br)
+http://154.56.131.10:80/647707/D814C3/360795
+
+
+#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1972" logo="https://i.ibb.co/XbSHxd5/cnn.png", CNN EN ESPAÑOL [geoblocked] (c_br)
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+#EXTINF:0 group-title="Tv_brasil" type="favorites" channelId="-1", CBSNEWS (c_br)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="TVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/250px-Logo_La_2.svg.png",TVE2 (c_br)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+#EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/250px-Logo_TVE-Internacional.svg.png",TVE INTERNACIONAL (c_br)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
+#EXTINF:-1 tvg-name="TVE STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", TVE STAR (c_br)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="Tv_brasil",CNN (c_br)
+https://stream1.freetv.fun/cnn--m-1.ctv
+#EXTINF:0 group-title="Tv_brasil",CNN INT EUROPE (c_br)
+https://stream1.freetv.fun/cnn-4.ctv
+#EXTINF:1 group-title="Tv_brasil",Canal 11 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",3ACINE (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05z/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",A&E (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a034/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",A&E HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01x/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AMC (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01i/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AMC HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01y/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AXN (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01g/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AXN HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a027/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AZ HONDURAS (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AZ click HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a024/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",AZTECA 7 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06s/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",AZTECAUNO CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Animal Planet (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a037/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Animal Planet HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01u/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Antena 3 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a005/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Atres Series (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00a/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Azcorazon (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a017/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Azteca Cinema SRT (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08p/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Azteca Click SRT (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08q/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Azteca Corazon SRT (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Azteca Deporte SRT (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08v/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",AzMundo (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08u/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",BANDAMAX CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07b/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",BBC News (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01k/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",BLOONBERG IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a083/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",BUNDESLIGA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05b/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Baby First (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02a/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Baby TV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Bitme Calpules (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07s/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CANAL 5 HD Fibra (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05a/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CANAL 5 MX IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06t/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CANAL 7 CR IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CANAL CHOLOMA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05j/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",Tru TV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a072/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",CANAL DE LAS ESTRELLAS IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CARACOL TV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05t/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CARTONITO CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a073/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CARTOON NETWORK CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a071/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CARTOON NT HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00p/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CERTV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03x/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CINECANAL HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03g/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CINEMA PLATINO GT (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08j/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CLARO SPORT 2 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06u/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CNN Internacional (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00c/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",CNNE (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01j/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Canal 11 - GUA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a029/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Canal 11 - HON (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00x/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Canal 13-GUA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a028/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Canal 3 - GUA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02w/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Canal Azteca - GUA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02u/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",Canal de las Estrellas HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08z/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Cartoon Network (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00z/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Cartoonito (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a011/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Cine Familiar Tegus (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07v/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Cine Hispano Tegus  (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07x/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Cine Latino (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04g/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Cine Premium Tegus  (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a082/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CineCanal (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04j/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",CineMax (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Claro Sports 1 HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06o/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Claro Sports 3 HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07m/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Comedy Central HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03o/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Concert Channel (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04c/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",TV-107 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DHE (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00n/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DHE HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a023/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DISC THEATHER HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03l/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DISCOVERI CHANNEL CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a079/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DISCOVERY ID SPS R. (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07t/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DISTRITO COMEDIA CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a078/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DREAM WORKKS IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",DW (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06c/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Deportes TVC - HON (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00v/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Discovery Channel (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a036/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Discovery Home&Health Calpules (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07w/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Discovery Kids (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a042/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Discovery Kids HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00f/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Discovery Science (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a008/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Discovery Turbo (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a046/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Disney (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a044/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Disney JR (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a012/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",E! (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a033/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",E! Entertairment HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01v/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",E! IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a098/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",EJTV IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a09f/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05v/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN  4 HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05s/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 1 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a013/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 1 R. (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06p/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 2 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03b/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 2 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02i/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 3 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 3 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 4 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05u/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 4 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03w/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 5 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05x/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 5  HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05y/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 5 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04q/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 6 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",ESPN 6 IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04y/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",EURO Channel (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",EUROPA IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a09c/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Espn 2  R. (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07p/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Azteca 7 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06l/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",FOX SPORT 1 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06a/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",FOX SPORT 2 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06b/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",FX (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02b/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",FX HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a020/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Fox Sport 3 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",France24 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01l/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",GO TV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06f/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Golden (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02n/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Golden Choice Calpules (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07y/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Golden Premiere 2 HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Golden Premiere HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00g/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",H2 (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02e/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",HBO Family HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06q/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",HBO HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",HBO Plus HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00s/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",HBO XTREME (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00t/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",HBO2 HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",History Channel (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a038/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",History HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01o/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",LA LIGA (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",LA LIGA IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a066/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",LIFE TIME (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01c/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",National Geographic (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01b/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Nick Jr (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Nick SIM HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03j/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Nickelodeon (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a043/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Paramount (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00o/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Pasiones (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",RCN Novelas (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02c/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",RIA ITALIA IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a092/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",RTV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06m/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",SONY (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a031/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",SONY HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03f/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",SPACE (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a018/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",SPACE HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04p/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",STAR CHANNEL (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a045/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",STAR CHANNEL HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Sony Movies HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a022/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Star TVE HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a025/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Studio Universal (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04i/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Studio Universal HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01t/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",TCM (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02o/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TELESUR (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a06e/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TNT (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01h/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TNT Novelas (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01a/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TNT Series (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a019/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TUDN CP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a07i/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TUDN IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a096/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TUDN MIAMI IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08s/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TVChile (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a006/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TVE (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04l/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",TYC DEPORTES IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08e/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Telemundo (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a016/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Telemundo Internacional (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a01z/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Tigo Sports HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03i/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Tooncast (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a02z/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Tru TV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a015/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNE TV (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a069/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNICABLE IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05e/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNIVERSAL COMEDY HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03v/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNIVERSAL CRIME HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03u/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",UNIVERSAL PREMIERE HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03r/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNIVERSAL PREMIERE O HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNIVERSAL REALITY HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03t/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNIVISION CALPULES (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a08a/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",UNIVISION IXP (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a052/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",USA Latam (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a097/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Universal (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04d/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",WARNER HD (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03e/index.m3u8
+#EXTINF:0 group-title="Tv_brasil",Warner (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a032/index.m3u8
+#EXTINF:1 group-title="Tv_brasil",ZooMoo (c_br)
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a003/index.m3u8
+
