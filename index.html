@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Reproductor con Menú Desplegable</title>
+    <script src="https://cdn.jsdelivr.net"></script>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 20px; background-color: #f4f4f9; }
         .container { margin: auto; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
@@ -74,6 +75,17 @@
         <div class="video-wrapper">
             <iframe id="visor" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" allowfullscreen allow="autoplay"></iframe>
         </div>
+
+
+         <!-- Initial Button -->
+    <button id="showBtn" class="btn-show" onclick="startPlayer()">Ver Canal en Vivo</button>
+
+    <!-- Hidden Video Container -->
+    <div id="video-container">
+        <video id="video" controls></video>
+    </div>
+
+
     </div>
 
     <script>
@@ -106,6 +118,34 @@
             document.querySelectorAll('.canal').forEach(btn => btn.classList.remove('active'));
             elemento.classList.add('active');
         }
+
+        function startPlayer() {
+          const video = document.getElementById('video');
+          const container = document.getElementById('video-container');
+          const btn = document.getElementById('showBtn');
+          const videoSrc = 'https://stream1.freetv.fun';
+
+          // 1. Show container and hide button
+          container.style.display = 'block';
+          btn.style.display = 'none';
+
+          // 2. Initialize HLS
+          if (Hls.isSupported()) {
+              const hls = new Hls();
+              hls.loadSource(videoSrc);
+              hls.attachMedia(video);
+              hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                  video.play();
+              });
+          } 
+          // Support for Safari/iOS
+          else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+              video.src = videoSrc;
+              video.addEventListener('loadedmetadata', function() {
+                  video.play();
+              });
+          }
+      }
     </script>
 
 </body>
