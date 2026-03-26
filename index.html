@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Reproductor con Menú Desplegable</title>
-    <script src="https://cdn.jsdelivr.net"></script>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 20px; background-color: #f4f4f9; }
         .container { margin: auto; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
@@ -75,17 +74,20 @@
         <div class="video-wrapper">
             <iframe id="visor" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" allowfullscreen allow="autoplay"></iframe>
         </div>
-
-
-         <!-- Initial Button -->
-    <button id="showBtn" class="btn-show" onclick="startPlayer()">Ver Canal en Vivo</button>
-
-    <!-- Hidden Video Container -->
-    <div id="video-container">
-        <video id="video" controls></video>
-    </div>
-
-
+        <video
+        id="my-video"
+        class="video-js vjs-big-play-centered vjs-theme-city"
+        controls
+        preload="auto"
+        data-setup='{}'>
+        <!-- REEMPLAZA EL SRC CON TU LINK .M3U8 -->
+        <source src="https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8" type="application/x-mpegURL">
+        
+        <p class="vjs-no-js">
+            Para ver este video, por favor habilita JavaScript y considera actualizar a un navegador que
+            <a href="https://videojs.com" target="_blank">soporte video HTML5</a>
+        </p>
+    </video>
     </div>
 
     <script>
@@ -118,35 +120,7 @@
             document.querySelectorAll('.canal').forEach(btn => btn.classList.remove('active'));
             elemento.classList.add('active');
         }
-
-        function startPlayer() {
-          const video = document.getElementById('video');
-          const container = document.getElementById('video-container');
-          const btn = document.getElementById('showBtn');
-          const videoSrc = 'https://t.freetv.fun/live/cnn--m-1.ctv';
-
-          // 1. Show container and hide button
-          container.style.display = 'block';
-          btn.style.display = 'none';
-
-          // 2. Initialize HLS
-          if (Hls.isSupported()) {
-              const hls = new Hls();
-              hls.loadSource(videoSrc);
-              hls.attachMedia(video);
-              hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                  video.play();
-              });
-          } 
-          // Support for Safari/iOS
-          else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-              video.src = videoSrc;
-              video.addEventListener('loadedmetadata', function() {
-                  video.play();
-              });
-          }
-      }
     </script>
-
+ <script src="https://vjs.zencdn.net"></script>
 </body>
 </html>
