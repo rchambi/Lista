@@ -66,7 +66,11 @@
             <button class="canal" onclick="reproducir('pJ06l0haUM8', this, 'yt')">▶ FBOP2</button>
             <button class="canal" onclick="reproducir('DsUr9IorEHc', this, 'yt')">▶ FBOP3</button>
             <button class="canal" onclick="reproducir('1l9cS9Vgd_k', this, 'yt')">▶ FBOP4</button>                 -->
+             </div>
 
+            <button class="categoria-padre" onclick="toggleMenu('grupo-cable')">🇧🇴 Canales Bolivia</button>
+            <div id="grupo-cable" class="hijos-container">
+                <button class="canal" onclick="reproducir('//190.238.43.117:8000/play/a09d/index.m3u8', this, 'm3u')">▶ Dgo</button>
             </div>
 
         </div>
@@ -96,9 +100,13 @@
             let urlFinal = "";
             if (plataforma === 'dm') {
                 urlFinal = "https://www.dailymotion.com/embed/video/" + idVideo + "?autoplay=1";
-            } else {
+            } else if (plataforma === 'yt'){
                 urlFinal = "https://www.youtube.com/embed/" + idVideo + "?autoplay=1";
+            }else
+            {
+                urlFinal = "http:" +idVideo; 
             }
+
 
             document.getElementById('visor').src = urlFinal;
 
