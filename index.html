@@ -1,51 +1,69 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <title>Reproductor M3U8</title>
-
-    <!-- CORRECCIÓN 1: Cargamos la librería AQUÍ, antes que nada -->
-    <script src="https://cdnjs.cloudflare.com"></script>
-
-    <style>
-        body { font-family: sans-serif; background: #1a1a1a; color: white; text-align: center; padding: 20px; }
-        video { width: 100%; max-width: 800px; background: black; border-radius: 8px; }
-        .playlist { margin-top: 20px; display: flex; gap: 10px; justify-content: center; }
-        button { padding: 10px 15px; cursor: pointer; }
-    </style>
+    <title>Fixed M3U8 Player</title>
+    <!-- Use a very stable version from a different provider -->
+    <script src="https://cdn.jsdelivr.net"></script>
 </head>
-<body>
+<body style="font-family: sans-serif; background: #121212; color: white; text-align: center;">
 
-    <video id="video" controls></video>
+    <div style="max-width: 700px; margin: auto; padding: 20px;">
+        <h2>TV Player</h2>
+        
+        <!-- The video tag MUST have a width and height to be visible -->
+        <video id="video" controls style="width: 100%; background: #000; border-radius: 10px;"></video>
 
-    <div class="playlist">
-        <button onclick="loadChannel('http://181.78.71.71')">Canal Prueba</button>
-        <button onclick="loadChannel('http://181.78.71.71:18000/play/a03p/index.m3u8')">Canal Prueba</button>
+        <div style="margin-top: 20px;">
+            <!-- Your test channel -->
+            <button onclick="playSource('http://181.78.71.71:18000/play/a03p/index.m3u81')" 
+                    style="padding: 10px 20px; cursor: pointer;">
+                Play Test Channel
+            </button>
+        </div>
+        
+        <p id="msg" style="color: #ffaa00; margin-top: 15px;"></p>
     </div>
 
     <script>
-        // CORRECCIÓN 2: Declaramos la variable pero NO la iniciamos hasta que se use
-        var hls; 
         var video = document.getElementById('video');
+        var message = document.getElementById('msg');
+        var hls = null;
 
-        function loadChannel(url) {
-            // Verificamos si la librería cargó correctamente
-            if (typeof Hls === 'undefined') {
-                alert("La librería Hls.js no ha cargado. Revisa tu conexión a internet.");
+        function playSource(url) {
+            // Check if the library actually loaded
+            if (typeof Hls === "undefined") {
+                message.innerText = "Error: HLS Library not found. Check your internet or ad-blocker.";
                 return;
             }
 
             if (Hls.isSupported()) {
-                if (hls) { hls.destroy(); } // Limpiar si ya había uno abierto
+                if (hls) { hls.destroy(); } // Kill previous stream
                 
-                hls = new Hls();
+                hls = new Hls({
+                    debug: false,
+                    enableWorker: true
+                });
+
                 hls.loadSource(url);
                 hls.attachMedia(video);
                 hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                    video.play();
+                    video.play().catch(e => {
+                        message.innerText = "Click 'Play' on the video to start.";
+                    });
                 });
-            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+
+                // Error handler for CORS or Network issues
+                hls.on(Hls.Events.ERROR, function(event, data) {
+                    if (data.fatal) {
+                        console.error("HLS Error:", data);
+                        message.innerText = "Source Error: The stream might be offline or blocked by CORS.";
+                    }
+                });
+            } 
+            // Support for Safari/iOS
+            else if (video.canPlayType('application/vnd.apple.mpegurl')) {
                 video.src = url;
                 video.play();
             }
