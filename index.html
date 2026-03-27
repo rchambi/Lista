@@ -28,64 +28,7 @@
         <!-- BOTONES DE CANALES: Agrega aquí tus nombres y URLs -->
         <button onclick="loadChannel('URL_DE_TU_CANAL_1.m3u8')">Canal 1</button>
         <button onclick="loadChannel('URL_DE_TU_CANAL_2.m3u8')">Canal 2</button>
-        <button onclick="loadChannel('<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <title>Reproductor M3U8 con Canales</title>
-    <!-- Librería necesaria para reproducir .m3u8 en Chrome/Firefox -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <style>
-        body { font-family: sans-serif; background: #1a1a1a; color: white; text-align: center; padding: 20px; }
-        .container { max-width: 800px; margin: auto; }
-        video { width: 100%; background: black; border-radius: 8px; margin-bottom: 20px; }
-        .playlist { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
-        button { 
-            padding: 12px 20px; cursor: pointer; background: #333; color: white; 
-            border: 1px solid #555; border-radius: 5px; transition: 0.3s;
-        }
-        button:hover { background: #007bff; border-color: #007bff; }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <h2>Reproductor de Canales</h2>
-    <video id="video" controls></video>
-
-    <div class="playlist">
-        <!-- BOTONES DE CANALES: Agrega aquí tus nombres y URLs -->
-        <button onclick="loadChannel('URL_DE_TU_CANAL_1.m3u8')">Canal 1</button>
-        <button onclick="loadChannel('URL_DE_TU_CANAL_2.m3u8')">Canal 2</button>
-        <button onclick="loadChannel('https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8')">Canal de Prueba</button>
-    </div>
-</div>
-
-<script>
-    var video = document.getElementById('video');
-    var hls = new Hls();
-
-    function loadChannel(url) {
-        if (Hls.isSupported()) {
-            hls.destroy(); // Cerramos el canal anterior antes de cargar el nuevo
-            hls = new Hls();
-            hls.loadSource(url);
-            hls.attachMedia(video);
-            hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                video.play();
-            });
-        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-            // Soporte nativo (Safari)
-            video.src = url;
-            video.play();
-        }
-    }
-</script>
-
-</body>
-</html>
-')">Canal de Prueba</button>
+        <button onclick="loadChannel('http://181.78.71.71:18000/play/a03p/index.m3u8')">Canal de Prueba</button>
     </div>
 </div>
 
