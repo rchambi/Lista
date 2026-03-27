@@ -70,7 +70,7 @@
             <button class="canal" onclick="reproducir('1l9cS9Vgd_k', this, 'yt')">▶ FBOP4</button>                 -->
              </div>
 
-            <button class="categoria-padre" onclick="toggleMenu('grupo-cable')">🇧🇴 Canales Bolivia</button>
+            <button class="categoria-padre" onclick="toggleMenu('grupo-cable')">Vivo</button>
             <div id="grupo-cable" class="hijos-container">
                 <button class="canal" onclick="reproducir('//190.238.43.117:8000/play/a09d/index.m3u8', this, 'm3u')">▶ Dgo</button>
                 <button onclick="loadChannel('http://190.238.43.117:8000/play/a09d/index.m3u8')">Canal 1</button>
@@ -82,13 +82,13 @@
             <iframe id="visor" src="https://www.youtube.com/embed/SF06Qy1Ct6Y" allowfullscreen allow="autoplay"></iframe>
         </div>
 
-        <video controls="" autoplay="" name="media"><source src="http://190.238.43.117:8000/play/a09d/index.m3u8" type="application/vnd.apple.mpegurl">Directv</video>
+        <video id="video2" controls></video>
 
     </div>
 
     <script>
 
-    var video = document.getElementById('video');
+    var video = document.getElementById('video2');
     var hls = new Hls();
 
     function loadChannel(url) {
