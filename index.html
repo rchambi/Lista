@@ -2,81 +2,54 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <!-- 1. CORRECCIÓN DE CONTENIDO MIXTO: Forza a que todo intente cargar por HTTPS -->
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    
-    <title>Reproductor M3U8 Corregido</title>
+    <title>Reproductor M3U8</title>
+
+    <!-- CORRECCIÓN 1: Cargamos la librería AQUÍ, antes que nada -->
     <script src="https://cdn.jsdelivr.net"></script>
+
     <style>
         body { font-family: sans-serif; background: #1a1a1a; color: white; text-align: center; padding: 20px; }
-        .container { max-width: 800px; margin: auto; }
-        video { width: 100%; background: black; border-radius: 8px; margin-bottom: 20px; border: 1px solid #333; }
-        .playlist { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
-        button { 
-            padding: 12px 20px; cursor: pointer; background: #333; color: white; 
-            border: 1px solid #555; border-radius: 5px; transition: 0.3s;
-        }
-        button:hover { background: #007bff; border-color: #007bff; }
+        video { width: 100%; max-width: 800px; background: black; border-radius: 8px; }
+        .playlist { margin-top: 20px; display: flex; gap: 10px; justify-content: center; }
+        button { padding: 10px 15px; cursor: pointer; }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <h2>Mi Reproductor de Canales</h2>
-    <video id="video" controls playsinline></video>
+    <video id="video" controls></video>
 
     <div class="playlist">
-        <!-- Reemplaza estas URLs con tus canales reales -->
-        <button onclick="loadChannel('http://181.78.71.71')">Canal de Prueba (HTTP)</button>
-        <button onclick="loadChannel('https://test-streams.mux.dev')">Canal Seguro (HTTPS)</button>
-        <button onclick="loadChannel('http://181.78.71.71:18000/play/a03p/index.m3u8')">Canal test (HTTPS)</button>
+        <button onclick="loadChannel('http://181.78.71.71')">Canal Prueba</button>
+        <button onclick="loadChannel('http://181.78.71.71:18000/play/a03p/index.m3u8')">Canal Prueba</button>
     </div>
-    
-    <p id="status" style="color: #888; margin-top: 20px; font-size: 0.9em;"></p>
-</div>
 
-<script>
-    var video = document.getElementById('video');
-    var statusText = document.getElementById('status');
-    var hls = new Hls();
+    <script>
+        // CORRECCIÓN 2: Declaramos la variable pero NO la iniciamos hasta que se use
+        var hls; 
+        var video = document.getElementById('video');
 
-    function loadChannel(url) {
-        statusText.innerText = "Cargando: " + url;
-        
-        // 2. CORRECCIÓN LÓGICA: Si tu web es HTTPS, intenta cargar la URL como HTTPS
-        if (window.location.protocol === 'https:' && url.startsWith('http://')) {
-            console.warn("Detectado contenido mixto. Intentando elevar a HTTPS...");
-            // Nota: Esto solo funciona si el servidor del video soporta HTTPS
-        }
+        function loadChannel(url) {
+            // Verificamos si la librería cargó correctamente
+            if (typeof Hls === 'undefined') {
+                alert("La librería Hls.js no ha cargado. Revisa tu conexión a internet.");
+                return;
+            }
 
-        if (Hls.isSupported()) {
-            hls.destroy(); 
-            hls = new Hls();
-            hls.loadSource(url);
-            hls.attachMedia(video);
-            
-            hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                // 3. CORRECCIÓN DE REPRODUCCIÓN: Los navegadores a veces bloquean el .play() automático
-                video.play().catch(function(error) {
-                    statusText.innerText = "Presiona el botón de Play para iniciar el video.";
+            if (Hls.isSupported()) {
+                if (hls) { hls.destroy(); } // Limpiar si ya había uno abierto
+                
+                hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    video.play();
                 });
-            });
-
-            // Manejo de errores de red (CORS o Servidor caído)
-            hls.on(Hls.Events.ERROR, function (event, data) {
-                if (data.fatal) {
-                    statusText.innerText = "Error al cargar el canal. Puede ser un problema de CORS o el enlace expiró.";
-                    console.error("Error HLS:", data);
-                }
-            });
-
-        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-            // Soporte para Safari
-            video.src = url;
-            video.play();
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url;
+                video.play();
+            }
         }
-    }
-</script>
-
+    </script>
 </body>
 </html>
