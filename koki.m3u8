@@ -1726,266 +1726,10 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131?extension=m3u8
 
 
 
-#EXTINF:-1 group-title="CABLE_OP4", Net TV | AR (Cable4)
-http://157.100.9.51:8000/play/a1gw
-#EXTINF:-1 group-title="CABLE_OP4",A&E HD (Cable4)
-http://157.100.9.51:8000/play/a1dp
-#EXTINF:-1 group-title="CABLE_OP4",A&E Mundo (Cable4)
-http://157.100.9.51:8000/play/a0ho
-#EXTINF:-1 group-title="CABLE_OP4",AMC HD (Cable4)
-http://157.100.9.51:8000/play/a034
-#EXTINF:-1 group-title="CABLE_OP4",ATV (Cable4)
-http://157.100.9.51:8000/play/a0cn
-#EXTINF:-1 group-title="CABLE_OP4",AXN (Cable4)
-http://157.100.9.51:8000/play/a0yj
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="CABLE_OP4", AXN FHD (Cable4)
-http://200.115.120.1:8000/play/ca038/index.m3u8
-#EXTINF:-1 group-title="CABLE_OP4",America TV HD (Cable4)
-http://157.100.9.51:8000/play/a0ca
-#EXTINF:-1 group-title="CABLE_OP4",America TV PY (Cable4)
-http://157.100.9.51:8000/play/a10n
-#EXTINF:-1 group-title="CABLE_OP4",Animal Planet (Cable4)
-http://157.100.9.51:8000/play/a03e
-#EXTINF:-1 group-title="CABLE_OP4",Baby First (Cable4)
-http://157.100.9.51:8000/play/a16b
-#EXTINF:-1 group-title="CABLE_OP4",Baby TV (Cable4)
-http://157.100.9.51:8000/play/a0gl
-#EXTINF:-1 group-title="CABLE_OP4",CHV HD (Cable4)
-http://157.100.9.51:8000/play/a1bv
-#EXTINF:-1 group-title="CABLE_OP4",CNN Chile (Cable4)
-http://157.100.9.51:8000/play/a0iq
-#EXTINF:-1 group-title="CABLE_OP4",CNN Espanol (Cable4)
-http://157.100.9.51:8000/play/a1gy
-#EXTINF:-1 group-title="CABLE_OP4",Canal Claro (Cable4)
-http://157.100.9.51:8000/play/a10b
-#EXTINF:-1 group-title="CABLE_OP4",Canal Las Estrellas (Cable4)
-http://157.100.9.51:8000/play/a0hg
-#EXTINF:-1 group-title="CABLE_OP4",Cartoon Network HD (Cable4)
-http://157.100.9.51:8000/play/a038
-#EXTINF:-1 group-title="CABLE_OP4",Cinecanal (Cable4)
-http://157.100.9.51:8000/play/a15x
-#EXTINF:-1 group-title="CABLE_OP4",Cinecanal HD (Cable4)
-http://157.100.9.51:8000/play/a1cr
-#EXTINF:-1 group-title="CABLE_OP4",Cinemax (Cable4)
-http://157.100.9.51:8000/play/a0te
-#EXTINF:-1 group-title="CABLE_OP4",Cinemax HD (Cable4)
-http://157.100.9.51:8000/play/a0nv
-#EXTINF:-1 group-title="CABLE_OP4",Claro Cinema (Cable4)
-http://157.100.9.51:8000/play/a11q
-#EXTINF:-1 group-title="CABLE_OP4",Claro Sports (Cable4)
-http://157.100.9.51:8000/play/a166
-#EXTINF:-1 group-title="CABLE_OP4",Comedy Central HD (Cable4)
-http://157.100.9.51:8000/play/a02f
-#EXTINF:-1 group-title="CABLE_OP4",DHE HD (Cable4)
-http://157.100.9.51:8000/play/a0x2
-#EXTINF:-1 group-title="CABLE_OP4",Discovery Channel (Cable4)
-http://157.100.9.51:8000/play/a0hh
-#EXTINF:-1 group-title="CABLE_OP4",Discovery H&H HD (Cable4)
-http://157.100.9.51:8000/play/a02l
-#EXTINF:-1 group-title="CABLE_OP4",Discovery HD (Cable4)
-http://157.100.9.51:8000/play/a1d0
-#EXTINF:-1 group-title="CABLE_OP4",Discovery Kids HD (Cable4)
-http://157.100.9.51:8000/play/a16x
-#EXTINF:-1 group-title="CABLE_OP4",Discovery Theater HD (Cable4)
-http://157.100.9.51:8000/play/a1bx
-#EXTINF:-1 group-title="CABLE_OP4",Discovery Turbo (Cable4)
-http://157.100.9.51:8000/play/a0fz
-#EXTINF:-1 group-title="CABLE_OP4",Discovery World HD (Cable4)
-http://157.100.9.51:8000/play/a16y
-#EXTINF:-1 group-title="CABLE_OP4",Disney Channel (Cable4)
-http://157.100.9.51:8000/play/a0sy
-#EXTINF:-1 group-title="CABLE_OP4",Disney HD (Cable4)
-http://157.100.9.51:8000/play/a0hi
-#EXTINF:-1 group-title="CABLE_OP4",Disney Jr (Cable4)
-http://157.100.9.51:8000/play/a1gd
-#EXTINF:-1 group-title="CABLE_OP4",E Entertainment (Cable4)
-http://157.100.9.51:8000/play/a0i3
-#EXTINF:-1 group-title="CABLE_OP4",E Entertainment op2(Cable4)
-http://186.125.218.189:13000/play/a042/index.m3u8
-#EXTINF:-1 group-title="CABLE_OP4",ESPN Op1 (Cable4)
-http://157.100.9.51:8000/play/a0ea
-#EXTINF:-1 group-title="CABLE_OP4",ESPN Op2(Cable4)
-http://157.100.9.51:8000/play/a0mi
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 2 (Cable4)
-http://157.100.9.51:8000/play/a12q
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 2 HD (Cable4)
-http://157.100.9.51:8000/play/a0iv
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 3 (Cable4)
-http://157.100.9.51:8000/play/a11u
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 3 HD (Cable4)
-http://157.100.9.51:8000/play/a028
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 4HD (Cable4)
-http://157.100.9.51:8000/play/a035
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 5 (Cable4)
-http://157.100.9.51:8000/play/a10j
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 5HD (Cable4)
-http://157.100.9.51:8000/play/a02q
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 6 (Cable4)
-http://157.100.9.51:8000/play/a135
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 6HD (Cable4)
-http://157.100.9.51:8000/play/a029
-#EXTINF:-1 group-title="CABLE_OP4",ESPN 7 (Cable4)
-http://157.100.9.51:8000/play/a02r
-#EXTINF:-1 group-title="CABLE_OP4",ESPN HD (Cable4)
-http://157.100.9.51:8000/play/a02x
-#EXTINF:-1 group-title="CABLE_OP4",ESPN Premium HD (Cable4)
-http://157.100.9.51:8000/play/a09l
-#EXTINF:-1 group-title="CABLE_OP4",EWTN (Cable4)
-http://157.100.9.51:8000/play/a018
-#EXTINF:-1 group-title="CABLE_OP4",Ecuador TV (Cable4)
-http://157.100.9.51:8000/play/a0nt
-#EXTINF:-1 group-title="CABLE_OP4",Ecuavisa (Cable4)
-http://157.100.9.51:8000/play/a1hs
-#EXTINF:-1 group-title="CABLE_OP4",El Gourmet HD (Cable4)
-http://157.100.9.51:8000/play/a0hk
-#EXTINF:-1 group-title="CABLE_OP4",El Trece (Cable4)
-http://157.100.9.51:8000/play/a0ny
-#EXTINF:-1 group-title="CABLE_OP4",Enlace (Cable4)
-http://157.100.9.51:8000/play/a0ev
-#EXTINF:-1 group-title="CABLE_OP4",Esne (Cable4)
-http://157.100.9.51:8000/play/a11t
-#EXTINF:-1 group-title="CABLE_OP4",Eurochannel (Cable4)
-http://157.100.9.51:8000/play/a0gs
-#EXTINF:-1 group-title="CABLE_OP4",Europa Europa (Cable4)
-http://157.100.9.51:8000/play/a0qt
-#EXTINF:-1 group-title="CABLE_OP4",FX (Cable4)
-http://157.100.9.51:8000/play/a01g
-#EXTINF:-1 group-title="CABLE_OP4",FX HD (Cable4)
-http://157.100.9.51:8000/play/a02w
-#EXTINF:-1 group-title="CABLE_OP4",Food Network HD (Cable4)
-http://157.100.9.51:8000/play/a0c9
-#EXTINF:-1 group-title="CABLE_OP4",France 24 (Cable4)
-http://157.100.9.51:8000/play/a10a
-#EXTINF:-1 group-title="CABLE_OP4",GOL TV (Cable4)
-http://157.100.9.51:8000/play/a0c7
-#EXTINF:-1 group-title="CABLE_OP4",GamaTV (Cable4)
-http://157.100.9.51:8000/play/a10p
-#EXTINF:-1 group-title="CABLE_OP4",Garaje TV | AR (Cable4)
-http://157.100.9.51:8000/play/a1gv
-#EXTINF:-1 group-title="CABLE_OP4",Golden (Cable4)
-http://157.100.9.51:8000/play/a0ec
-#EXTINF:-1 group-title="CABLE_OP4",Golden HD (Cable4)
-http://157.100.9.51:8000/play/a1i2
-#EXTINF:-1 group-title="CABLE_OP4",HBO (Cable4)
-http://157.100.9.51:8000/play/a0ii
-#EXTINF:-1 group-title="CABLE_OP4",HBO Family HD (Cable4)
-http://157.100.9.51:8000/play/a09n
-#EXTINF:-1 group-title="CABLE_OP4",HBO HD (Cable4)
-http://157.100.9.51:8000/play/a036
-#EXTINF:-1 group-title="CABLE_OP4",HBO POP HD (Cable4)
-http://157.100.9.51:8000/play/a01t
-#EXTINF:-1 group-title="CABLE_OP4",HBO Plus (Cable4)
-http://157.100.9.51:8000/play/a0on
-#EXTINF:-1 group-title="CABLE_OP4",HBO Signature (Cable4)
-http://157.100.9.51:8000/play/a0oo
-#EXTINF:-1 group-title="CABLE_OP4",HBO XTREME HD (Cable4)
-http://157.100.9.51:8000/play/a09o
-#EXTINF:-1 group-title="CABLE_OP4",HEI HD (Cable4)
-http://157.100.9.51:8000/play/a0u4
-#EXTINF:-1 group-title="CABLE_OP4",History Channel (Cable4)
-http://157.100.9.51:8000/play/a01l
-#EXTINF:-1 group-title="CABLE_OP4",Home and Health (Cable4)
-http://157.100.9.51:8000/play/a10e
-#EXTINF:-1 group-title="CABLE_OP4",ID (Cable4)
-http://157.100.9.51:8000/play/a02g
-#EXTINF:-1 group-title="CABLE_OP4",IEANJSUS (Cable4)
-http://157.100.9.51:8000/play/ahj1
-#EXTINF:-1 group-title="CABLE_OP4",Las Estrellas HD (Cable4)
-http://157.100.9.51:8000/play/a1de
-#EXTINF:-1 group-title="CABLE_OP4",MEGA HD (Cable4)
-http://157.100.9.51:8000/play/a0d2
-#EXTINF:-1 group-title="CABLE_OP4",MTV (Cable4)
-http://157.100.9.51:8000/play/a0hf
-#EXTINF:-1 group-title="CABLE_OP4",MTV (Cable4)
-http://186.125.218.189:13000/play/a051/index.m3u8
-#EXTINF:-1 group-title="CABLE_OP4",National Geographic (Cable4)
-http://157.100.9.51:8000/play/a031
-#EXTINF:-1 group-title="CABLE_OP4",Nick HD (Cable4)
-http://157.100.9.51:8000/play/a01y
-#EXTINF:-1 group-title="CABLE_OP4",Nick Jr (Cable4)
-http://157.100.9.51:8000/play/a0cs
-#EXTINF:-1 group-title="CABLE_OP4",Nick Music (Cable4)
-http://157.100.9.51:8000/play/a0ep
-#EXTINF:-1 group-title="CABLE_OP4",Paramount HD (Cable4)
-http://157.100.9.51:8000/play/a039
-#EXTINF:-1 group-title="CABLE_OP4",Paramount HD (Cable4)
-http://157.100.9.51:8000/play/a1gn
-#EXTINF:-1 group-title="CABLE_OP4",Pasiones HD (Cable4)
-http://157.100.9.51:8000/play/a0f2
-#EXTINF:-1 group-title="CABLE_OP4",RCN Novelas (Cable4)
-http://157.100.9.51:8000/play/a02y
-#EXTINF:-1 group-title="CABLE_OP4",RTS (Cable4)
-http://157.100.9.51:8000/play/a1hq
-#EXTINF:-1 group-title="CABLE_OP4",RTU (Cable4)
-http://157.100.9.51:8000/play/a0a2
-#EXTINF:-1 group-title="CABLE_OP4",STAR CHANNEL HD (Cable4)
-http://157.100.9.51:8000/play/a09d
-#EXTINF:-1 group-title="CABLE_OP4",STAR Channel (Cable4)
-http://157.100.9.51:8000/play/a0n6
-#EXTINF:-1 group-title="CABLE_OP4",Sin Limites (Cable4)
-http://157.100.9.51:8000/play/a10m
-#EXTINF:-1 group-title="CABLE_OP4",Sony (Cable4)
-http://157.100.9.51:8000/play/a01n
-#EXTINF:-1 group-title="CABLE_OP4",Sony Movies HD (Cable4)
-http://157.100.9.51:8000/play/a0hb
-#EXTINF:-1 group-title="CABLE_OP4",Space (Cable4)
-http://157.100.9.51:8000/play/a11i
-#EXTINF:-1 group-title="CABLE_OP4",Space HD (Cable4)
-http://157.100.9.51:8000/play/a01q
-#EXTINF:-1 group-title="CABLE_OP4",Studio Universal HD (Cable4)
-http://157.100.9.51:8000/play/a1gl
-#EXTINF:-1 group-title="CABLE_OP4",TC (Cable4)
-http://157.100.9.51:8000/play/a1hr
-#EXTINF:-1 group-title="CABLE_OP4",TCM (Cable4)
-http://157.100.9.51:8000/play/a0ed
-#EXTINF:-1 group-title="CABLE_OP4",TLC (Cable4)
-http://157.100.9.51:8000/play/a0gn
-#EXTINF:-1 group-title="CABLE_OP4",TNT (Cable4)
-http://157.100.9.51:8000/play/a027
-#EXTINF:-1 group-title="CABLE_OP4",TNT HD (Cable4)
-http://157.100.9.51:8000/play/a0ey
-#EXTINF:-1 group-title="CABLE_OP4",TNT Novelas (Cable4)
-http://157.100.9.51:8000/play/a10c
-#EXTINF:-1 group-title="CABLE_OP4",TNT Novelas HD (Cable4)
-http://157.100.9.51:8000/play/a1dy
-#EXTINF:-1 group-title="CABLE_OP4",TNT Series HD (Cable4)
-http://157.100.9.51:8000/play/a02v
-#EXTINF:-1 group-title="CABLE_OP4",TNT Sports Premiun HD (Cable4)
-http://157.100.9.51:8000/play/a01r
-#EXTINF:-1 group-title="CABLE_OP4",TV+ HD (Cable4)
-http://157.100.9.51:8000/play/a0mm
-#EXTINF:-1 group-title="CABLE_OP4",TVE (Cable4)
-http://157.100.9.51:8000/play/a017
-#EXTINF:-1 group-title="CABLE_OP4",Teen Nick (Cable4)
-http://157.100.9.51:8000/play/a0cq
-#EXTINF:-1 group-title="CABLE_OP4",Teleamazonas (Cable4)
-http://157.100.9.51:8000/play/a1ht
-#EXTINF:-1 group-title="CABLE_OP4",Telemundo (Cable4)
-http://157.100.9.51:8000/play/a0ct
-#EXTINF:-1 group-title="CABLE_OP4",Telesur (Cable4)
-http://157.100.9.51:8000/play/a0gg
-#EXTINF:-1 group-title="CABLE_OP4",TyC Sports (Cable4)
-http://157.100.9.51:8000/play/a0iz
-#EXTINF:-1 group-title="CABLE_OP4",USA SD (Cable4)
-http://157.100.9.51:8000/play/a0qn
-#EXTINF:-1 group-title="CABLE_OP4",Universal 1 (Cable4)
-http://157.100.9.51:8000/play/a1gm
-#EXTINF:-1 group-title="CABLE_OP4",Universal 2 (Cable4)
-http://157.100.9.51:8000/play/a01e
-#EXTINF:-1 group-title="CABLE_OP4",ViaX (Cable4)
-http://157.100.9.51:8000/play/a0d6
-#EXTINF:-1 group-title="CABLE_OP4", Warner Channel HD (Cable4)
-http://157.100.9.51:8000/play/a01o
 
 
 
 
-#EXTINF:-1 group-title="CABLE_OP4", TCM (Cable4)
-http://45.5.151.62:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="CABLE_OP4", A3 Series HD (Cable4)
-http://45.5.151.62:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="CABLE_OP4", CINECANAL HD (Cable4)
-http://45.5.151.62:8000/play/a011/index.m3u8
 
 
 
@@ -3512,6 +3256,53 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.
 
 
 
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.ibb.co/By7GRw7/axn.png" status="timeout" group-title="ENTRETERIMIENTO", AXN FHD (ENT)
+http://200.115.120.1:8000/play/ca038/index.m3u8
+#EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="ENTRETERIMIENTO", AXN(ENT)
+http://181.209.37.74:8001/play/a09e/index.m3u8
+#EXTINF:-1 group-title="ENTRETERIMIENTO", CINECANAL HD (ENT)
+http://45.5.151.62:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="ENTRETERIMIENTO", Cinecanal(ENT)
+http://181.209.37.74:8001/play/a089/index.m3u8
+#EXTINF:-1 group-title="ENTRETERIMIENTO", Warner Channel HD (ENT)
+http://38.41.8.1:8000/play/a07n
+#EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="ENTRETERIMIENTO", Warner Channel(ENT)
+http://181.209.37.74:8001/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ENTRETERIMIENTO", TLC HD (ENT)
+http://45.5.151.62:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="ENTRETERIMIENTO", SUN CHANNEL HD (ENT)
+http://45.5.151.62:8000/play/a026/index.m38u
+#EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="ENTRETERIMIENTO", Star Channel(ENT)
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-68.playlist.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="ENTRETERIMIENTO", FX(ENT)
+http://181.209.37.74:8001/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="ENTRETERIMIENTO", Cinemax(ENT)
+http://181.209.37.74:8001/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="ENTRETERIMIENTO", Space(ENT)
+http://181.209.37.74:8001/play/a071/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="ENTRETERIMIENTO", Sony Channel(ENT)
+http://181.209.37.74:8001/play/a09c/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="ENTRETERIMIENTO", Universal TV(ENT)
+http://181.209.37.74:8001/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="ENTRETERIMIENTO", AMC(ENT)
+http://181.78.7.90:12500/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="ENTRETERIMIENTO", TNT(ENT)
+http://181.209.37.74:8001/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="ENTRETERIMIENTO", HBO(ENT)
+http://190.108.89.228:8000/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="ENTRETERIMIENTO", HBO 2(ENT)
+http://181.78.7.90:12500/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="ENTRETERIMIENTO", HBO Plus(ENT)
+http://181.78.7.90:12500/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="ENTRETERIMIENTO", HBO Family(ENT)
+http://181.119.111.25:4000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="ENTRETERIMIENTO", HBO Xtreme(ENT)
+http://190.108.89.228:8000/play/a0dn/index.m3u8
+
+
 
 #EXTINF:-1 group-title="ENTRETERIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",🇪🇸 Fx FHD(ENT)
 http://38.199.6.1:17001/play/a04u/index.m3u8
@@ -3594,7 +3385,7 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX Cartooon" tvg-logo="" group-title="INFANTIL", 🇺🇸 FX Cartoon (INF)
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL",🇺🇸 DisneyJrᴴᴰ (INF)
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" group-title="INFANTIL",🇺🇸 DisneyJrᴴᴰ (INF)
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="INFANTIL",🇺🇸 Nickelodeon Eastᴴᴰ (INF)
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
@@ -3612,7 +3403,18 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTIL",🇺🇸 TEENNICK (INF)
 http://live.btv.mx:2424/stream/158669/smAVz_uhytj5REM-4pYNZbkrcB2
-
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="INFANTIL", Cartoon Network(INF)
+http://181.209.37.74:8001/play/a083/index.m3u8
+#EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="INFANTIL", Nickelodeon(INF)
+http://181.209.37.74:8001/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" audio-track="spa" group-title="INFANTIL", Disney Channel(INF)
+http://181.209.37.74:8001/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="INFANTIL", Discovery Kids(INF)
+http://181.209.37.74:8001/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="INFANTIL", Nick Jr(INF)
+http://181.209.37.74:8001/play/a07s/index.m3u8
+#EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="INFANTIL", Disney Jr(INF)
+http://181.209.37.74:8001/play/a08x/index.m3u8
 
 
 
@@ -3931,13 +3733,13 @@ http://181.198.105.69:8111/play/a279/index.m3u8
 http://190.108.89.228:8000/play/a05w/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
+#EXTINF:-1  tvg-id="TyCSports1.ar"  tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
+#EXTINF:-1  tvg-id="TyCSports2.ar"  tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
+#EXTINF:-1  tvg-id="TyCSports3.ar"  tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
 http://181.209.37.74:8001/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS Internacional (Dgo)
@@ -5217,6 +5019,19 @@ https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/transcoder/tooncast_t2.stream/playlist.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Musical
 #EXTINF:-1 tvg-logo="https://127.0.0.0" group-title="Cable_Peru", TELEHIT (C_PER1)
 https://cablered.iptvperu.tv:1936/cablered/telehit-musica_new/playlist.m3u8
@@ -5233,6 +5048,11 @@ https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://127.0.0.0" group-title="Cable_Peru", TELEHIT (C_PER1)
 https://cablered.iptvperu.tv:1936/cablered/telehit-latino_new/playlist.m3u8
+
+
+
+
+
 
 
 #Deportes
