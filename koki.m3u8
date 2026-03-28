@@ -13,10 +13,10 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 #EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA", America (ARG)
 http://186.125.218.189:13000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="ARGENTINA", America HD (ARG)
+http://181.209.37.74:8001/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ARGENTINA", BRAVO TV (ARG) 🟢
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-#EXTINF:-1 tvg-id="BravoTV.ar@SD" group-title="ARGENTINA", Bravo TV (ARG)
+#EXTINF:-1 tvg-id="BravoTV.ar@SD" group-title="ARGENTINA", Bravo TV (ARG)🟢
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ARGENTINA", CADENA 3 (ARG) 🟢
@@ -34,16 +34,12 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="ARGENTINA", C5N HD (ARG) 🟢
 http://190.7.19.197:232/play/a040/index.m3u8
-#http://45.5.151.62:8000/play/a023/index.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="ARGENTINA",C5N (ARG) NFX
-#http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/105110.ts
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="ARGENTINA",C5N (ARG)
+http://181.209.37.74:8001/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="ARGENTINA", Cinco TV (ARG) 🟢
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="ARGENTINA", Magic Kids (ARG) 🟢
-#https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA", Ciudad Magazine 1 (ARG) 🟢
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA",Ciudad Magazine 2 (ARG)
@@ -52,17 +48,15 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA", CIUDAD MAGAZINE 4 (ARG)
 http://45.5.151.62:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="ARGENTINA", CM (ARG) 🟢
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
-https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
 #EXTINF:-1 logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", Cosmos (ARG) 🟢
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Cosmos TV" logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", Cosmos TV (ARG)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", COSMOS TV SAN JUAN (ARG)
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG)🟢
-#http://201.217.246.177:8000/play/a01q/index.m3u8
+http://181.209.37.74:8001/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA", CRONICA HD 2 (ARG)
 http://186.125.218.189:13000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="Cronica" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA",Cronica (ARG)
@@ -85,13 +79,16 @@ http://45.5.151.62:8000/play/a026/index.m38u
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/finwuj.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece 3 (ARG)
 #https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="ARGENTINA",EL TRECE HD (ARG)
-#https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+http://181.209.37.74:8001/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="ARGENTINA" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve (ARG)🟢
 http://107.152.39.199:8030/hls/canal7.m3u8
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="ARGENTINA",El Nueve (ARG) NFX
-#http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/97677.ts
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="ARGENTINA",El Nueve (ARG)
+http://181.209.37.74:8001/play/a08k/index.m3u8
 
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="ARGENTINA", La Nación + (ARG)
+http://181.209.37.74:8001/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",Net TV (ARG)🟢
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", Net TV (ARG)
@@ -121,7 +118,7 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD1 🟢 (ARG)
-http://190.104.67.69:234/play/a08a/index.m3u8
+http://181.209.37.74:8001/play/a08a/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD2 (ARG)
 http://181.198.105.69:8111/play/a1ez/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD3 (ARG)
@@ -166,35 +163,24 @@ http://45.5.151.62:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA",TN (ARG)
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN (ARG)
 https://cablered.iptvperu.tv:1936/cablered/todonoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN (ARG)
 http://186.125.218.189:13000/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN (ARG)
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN (ARG)
+http://181.209.37.74:8001/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN (ARG) 🟢
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD2 🟢 (ARG)
-http://200.80.230.126:8000/play/a0a8/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD3 (ARG)
-http://190.104.67.92:234/play/a095/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD4 (ARG)
-http://190.104.67.50:234/play/a095/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD5 (ARG)
-http://186.125.218.189:13000/play/a045/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD6 (ARG)
-http://190.104.67.130:234/play/a095/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD7 (ARG)
-http://181.78.27.128:12543/play/a04g/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD8 (ARG)
-http://179.51.136.23:8000/play/a04b/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD9 (ARG)
-http://181.119.85.222:8000/play/a050/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD1 🟢 (ARG)
+http://181.209.37.74:8001/play/a095/index.m3u8
+
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD10 (ARG)
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA", TVP Publica (ARG)
@@ -286,7 +272,7 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1522635208.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA", Unitel Oficial (BOL) [NOT 24/7]
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel SCZ [Not 24/7] (BOL)
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="BOLIVIA",Unitel SCZ [Not 24/7] (BOL)
 https://xtream.videx.lol/Yoshiro/admin/338.m3u8
 
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/M2jn6ky/Unitel.jpg" status="timeout" group-title="BOLIVIA", Unitel LPZ (BOL)
@@ -294,9 +280,6 @@ http://38.41.8.1:8000/play/a0d7
 
 #EXTINF:236 group-title="BOLIVIA",Unitel Santa Cruz (BOL) [Not 24/7]
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="BOLIVIA",Unitel Santa Cruz (720p) [Not 24/7] testear (BOL)
-https://xtream.videx.lol/Yoshiro/admin/338.m3u8
 
 
 #EXTINF:-1 tvg-name="UNITEL" tvg-logo="https://i.imgur.com/B9wg1zj.png"  group-title="BOLIVIA" ,UNITEL HD test 2 (BOL)
@@ -447,54 +430,47 @@ http://181.78.82.6:46090/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png" group-title="DEPORTES" ,ESPN PREMIUM HD (DEP)
 http://181.78.82.6:46090/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS (DEP)
-#http://201.217.246.177:8000/play/a02s/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DEPORTES", DSPORTS (DEP)
 #http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports (DEP)
 #http://186.125.218.189:13000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 2 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports 2 (DEP)
 #http://186.125.218.189:13000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 3 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 ESPN PREMIUM (DEP)
 http://190.7.19.197:232/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 4 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports 4 (DEP)
 http://190.7.19.197:232/play/a037/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 5 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports 5 (DEP)
 http://186.125.218.198:13000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 6 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports 6 (DEP)
 http://186.125.218.198:13000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 7 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports 7 (DEP)
 http://186.125.218.189:13000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", AR TNT Sports HD (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 TNT Sports HD (DEP)
 http://186.125.218.189:13000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 9 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 Tango Sports 9 (DEP)
 http://181.13.252.102:8000/play/a078/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 10 (DEP)
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 11 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷 ESPN Premium (DEP)
 http://181.209.37.74:8001/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 12 (DEP)
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES",🇦🇷  TNT Sports (DEP)
 http://181.209.37.74:8001/play/a06z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 13 (DEP)
-http://190.7.19.197:232/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES", Tango Sports 14 (DEP)
-http://190.7.19.197:232/play/a037/index.m3u8
 
 
 
@@ -580,13 +556,13 @@ http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(ACC) HD11 (DEP2)
 http://190.117.20.38:8000/play/a08d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT1(ACC) HD12 (DEP2)
-http://190.108.89.228:8000/play/a05w/index.m3u8
+#http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT2.HD ⚽ (DEP2)
 #http://179.51.136.19:8000/play/a112/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT+.HD1 ⚽ (DEP2)
-http://38.199.6.1:17001/play/a0vx/index.m3u8
+#http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",DSPORT+.HD2 (DEP2)
 #http://201.230.105.202:8126/play/dgt8/index.m3u8
@@ -1036,8 +1012,6 @@ http://45.5.119.43:4000/play/a05r/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD1 ⚽ (DEP2)
 #http://181.78.106.127:9000/play/ca039/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD3 (DEP2)
-http://200.59.188.3:8000/play/a0cm
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD4 (DEP2)
 #http://181.78.106.127:9000/play/ca039/index.m3u8---REPETIDO
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",BEIN SPORTS Ñ HD5 (DEP2)
@@ -1069,8 +1043,6 @@ http://190.83.9.222:8000/play/ca040/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD1 ⚽ (DEP2)
-http://181.78.71.71:18000/play/a03p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD2 (DEP2)
 #http://181.78.71.71:18000/play/a03p/index.m3u8---REPETIDO
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES2",🇨🇴 WIN SPORT HD3 (DEP2)
@@ -1960,8 +1932,6 @@ http://157.100.9.51:8000/play/a039
 http://157.100.9.51:8000/play/a1gn
 #EXTINF:-1 group-title="CABLE_OP4",Pasiones HD (Cable4)
 http://157.100.9.51:8000/play/a0f2
-#EXTINF:-1 group-title="CABLE_OP4",Playboy HD (Cable4)
-http://157.100.9.51:8000/play/a02u
 #EXTINF:-1 group-title="CABLE_OP4",RCN Novelas (Cable4)
 http://157.100.9.51:8000/play/a02y
 #EXTINF:-1 group-title="CABLE_OP4",RTS (Cable4)
@@ -2035,8 +2005,6 @@ http://38.41.8.1:8000/play/a07n
 http://45.5.151.62:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="CABLE_OP4", A3 Series HD (Cable4)
 http://45.5.151.62:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="CABLE_OP4", PLIM PLIM TV (Cable4)
-http://45.5.151.62:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="CABLE_OP4", CINECANAL HD (Cable4)
 http://45.5.151.62:8000/play/a011/index.m3u8
 
@@ -2426,7 +2394,7 @@ http://38.199.5.160:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT HD2(MOP)
 http://186.96.71.204:8000/play/z0b9/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT HD3(MOP)
-http://38.44.109.41:8003/play/a01v/index.m3u8
+#http://38.44.109.41:8003/play/a01v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT HD4(MOP)
 http://148.222.228.3:9000/play/a00v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",TNT HD5(MOP)
@@ -2462,7 +2430,7 @@ http://38.199.6.1:17001/play/a054/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",AMC HD3(MOP)
 http://209.45.81.84:8000/play/a04x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",AMC HD4(MOP)
-http://38.44.109.41:8003/play/a02a/index.m3u8
+#http://38.44.109.41:8003/play/a02a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",AMC HD5(MOP)
 http://38.199.5.160:8000/play/a09n/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",AMC HD6(MOP)
@@ -2688,7 +2656,7 @@ http://181.78.17.228:8000/play/a03e/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD1(MOP)
 http://38.199.5.160:8000/play/a03p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD2(MOP)
-http://38.44.109.41:8003/play/a01y/index.m3u8
+#http://38.44.109.41:8003/play/a01y/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD3(MOP)
 http://38.56.113.170:8000/play/a01y/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",SPACE HD4(MOP)
@@ -2755,8 +2723,6 @@ http://181.78.7.90:12500/play/a0if/index.m3u8
 http://190.83.9.222:8000/play/ca092
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",CINEMAX.ESHD3(MOP)
 http://138.204.12.14:40000/play/a0gc/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",CINEMAX.ESHD4(MOP)
-http://45.5.151.62:8000/play/a012/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",CINEMAX.ESHD5(MOP)
 http://181.78.21.162:9080/play/a084/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",CINEMAX.ESHD6(MOP)
@@ -3199,7 +3165,7 @@ http://38.252.213.10:9000/play/a078
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",DreamWorks HD4(MOP)
 http://181.78.17.228:8000/play/a05g/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",DreamWorks HD5(MOP)
-http://45.5.151.62:8000/play/a010/index.m3u8
+#http://45.5.151.62:8000/play/a010/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",DreamWorks HD6(MOP)
 http://190.119.160.100:8000/play/dwmovieshd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_MULTIPLE",DreamWorks HD7(MOP)
@@ -3574,8 +3540,7 @@ http://38.199.6.1:17001/play/a04u/index.m3u8
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="ENTRETERIMIENTO", 🇺🇸 E! Entertainment Televisionᴴᴰ(ENT)
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="ENTRETERIMIENTO", 🇺🇸 FX Eastᴴᴰ(ENT)
-http://fl2.moveonjoy.com/FX/index.m3u8
+
 #EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 FXMᴴᴰ(ENT)
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="ENTRETERIMIENTO", 🇺🇸 FXMᴴᴰ(ENT)
@@ -3664,8 +3629,6 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK (INF)
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="INFANTIL", NICK JR (INF)
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="INFANTIL", NICKTOONS (INF)
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="INFANTIL",🇺🇸 TEENNICK (INF)
@@ -3798,20 +3761,14 @@ http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3724.ts
 #EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://i.postimg.cc/sfGJsTwP/freetv-estelar.png" group-title="TV_CABLE_AMERICA",FreeTV Estelar (arg3)
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TV_CABLE_AMERICA" , AMC (arg3)
-https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="TV_CABLE_AMERICA", HBO Plus (arg3)
 http://190.123.90.146:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="TV_CABLE_AMERICA", HBO Plus (arg3)
 http://lunar.pm:8080/bonmax/blackjack816/115111
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
-http://190.60.37.154:45000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" audio-track="spa" group-title="TV_CABLE_AMERICA", Sony Channel (arg3)
 http://181.78.23.26:45000/play/a02z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="TV_CABLE_AMERICA", TNT Novelas (arg3)
 http://190.60.37.154:45000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="TV_CABLE_AMERICA", FX (arg3)
-http://190.60.37.154:45000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="TV_CABLE_AMERICA", History 2 (arg3)
 http://38.159.227.126:8000/play/a07k/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", Cinecanal (ARG1)
@@ -3847,16 +3804,12 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", CINEMAX EAST (arg3)
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="TV_CABLE_AMERICA", CINEMAX (arg3)
-http://38.44.109.41:8003/play/a023/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", CNBC (arg3)
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", CRAVE 2 (arg3)
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="TV_CABLE_AMERICA", FX (arg3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="TV_CABLE_AMERICA", FX (arg3)
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="TV_CABLE_AMERICA", FX MOVIE (arg3)
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", FXX (arg3)
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="TV_CABLE_AMERICA", INSP (arg3)
@@ -3931,8 +3884,6 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV_CABLE_AMERICA", MY TIME MOVIES 2 (arg3)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.postimg.cc/ZRM99t2c/cgtn.png" group-title="TV_CABLE_AMERICA",CGTN ES HD (arg3)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="TV_CABLE_AMERICA",BIG TV HD (arg3)
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV_CABLE_AMERICA",🇪🇨 Austral tv HD (arg3)
@@ -3986,20 +3937,41 @@ https://ub2dr.envivoslatam.org/disney11/tracks-v1a1/mono.m3u8?ip=148.227.75.206&
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/tv-abierta-1_orig.png" group-title="Directv", INDICE (Dgo)
 http://190.238.43.117:8000/play/a09d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv", TyC SPORTS (Dgo)
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Directv", DSPORTS (Dgo)
+http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Directv", DSPORTS (Dgo)
+http://181.198.105.69:8111/play/a279/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Directv", DSPORTS (Dgo)
+http://190.108.89.228:8000/play/a05w/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv", TyC SPORTS (Dgo)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv", TyC SPORTS (Dgo)
-http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS (Dgo)
+http://181.209.37.74:8001/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv",🇦🇷 TyC SPORTS Internacional (Dgo)
+http://190.108.93.75:8001/play/a05d/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Directv", ESPN (Dgo)
 http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Directv",🇦🇷 ESPN (Dgo)
+http://181.209.37.74:8001/play/a099/index.m3u8
+#EXTINF:-1 tvg-id="ar#espn-1" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Directv",🇨🇴 ESPN (Dgo)
+http://157.100.9.51:8000/play/a0mi
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Directv", ESPN 2 (Dgo)
 http://190.7.19.197:232/play/a03m/index.m3u8
@@ -4007,7 +3979,7 @@ http://190.7.19.197:232/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Directv", ESPN 3 (Dgo)
 http://190.7.19.197:232/play/a03o/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Directv", ESPN 4 (Dgo)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Directv", ESPN 4 (Dgo)
 http://190.7.19.197:232/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="Directv", ESPN 5 (Dgo)
@@ -4026,6 +3998,8 @@ http://190.7.19.197:232/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Directv", FOX Sports 3 (Dgo)
 http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Directv",🇦🇷 FOX Sports 3 (Dgo)
+http://190.7.19.197:232/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="Directv", DEPORTV (Dgo)
 http://190.7.19.197:232/play/a05d/index.m3u8
@@ -4033,8 +4007,7 @@ http://190.7.19.197:232/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="Directv", CLARO SPORTS (Dgo)
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Directv", TyC SPORTS Internacional (Dgo)
-http://190.108.93.75:8001/play/a05d/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/960px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Directv", Bein Sports Ñ (Dgo)
 http://200.59.188.3:8000/play/a0cm
@@ -4043,14 +4016,6 @@ http://200.59.188.3:8000/play/a0cm
 
 
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Directv", DSPORTS (Dgo)
-http://live.btv.mx:2424/stream/278892/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Directv", DSPORTS (Dgo)
-http://181.198.105.69:8111/play/a279/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Directv", DSPORTS (Dgo)
-http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Directv", DSPORTS 2 (Dgo)
 http://190.238.43.117:8000/play/a09g/index.m3u8
@@ -4080,20 +4045,18 @@ http://190.7.19.197:232/play/a022/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Flow", America (Flow)
-http://45.5.151.62:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="Flow", TV PUBLICA (Flow)
 http://190.7.19.197:232/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="Flow", EL NUEVE (Flow)
-http://181.13.252.102:8000/play/a04h/index.m3u8
+#http://181.13.252.102:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Flow", TELEFE (Flow)
-http://190.7.19.197:232/play/a059/index.m3u8
+#http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="Flow", EL TRECE (Flow)
-http://181.13.252.102:8000/play/a0bg/index.m3u8
+#http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="Flow", NET TV (Flow)
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -4110,8 +4073,6 @@ http://181.13.252.102:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="Flow", CARAS TV (Flow)
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Flow", TELEMAX (Flow)
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="Flow", SOMOS (Flow)
 http://190.7.19.197:232/play/a012/index.m3u8
@@ -4120,22 +4081,18 @@ http://190.7.19.197:232/play/a012/index.m3u8
 http://190.7.19.197:232/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Flow", TyC SPORTS (Flow)
-http://190.7.19.197:232/play/a04w/index.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="Flow", AM Sports (Flow)
 http://181.13.252.102:8000/play/a01v/index.m3u8
 
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="Flow", MUSIC TOP (Flow)
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="Flow", CIUDAD MAGAZINE (Flow)
 http://181.209.37.74:8001/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="Flow", Canal Claro (Flow)
 http://45.5.119.97:12500/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Flow" , METRO (Flow)
-http://181.13.252.102:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Flow" , VOLVER (Flow)
 http://181.13.252.102:8000/play/a021/index.m3u8
@@ -4145,9 +4102,6 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="Flow" , CANAL A (Flow)
 http://181.13.252.102:8000/play/a09j/index.m3u8
-
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Flow", El Gourmet (Flow)
-http://181.13.252.102:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="Flow", TEC TV (Flow)
 https://faster-viale.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
@@ -4168,7 +4122,7 @@ http://190.7.19.197:232/play/a041/index.m3u8
 https://faster-viale.cdn.rcs.net.ar/mnp/lpi5300000011aspgysk33uc55vuihwg/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="Flow", TN (Flow)
-http://181.13.252.102:8000/play/a058/index.m3u8
+#http://181.13.252.102:8000/play/a058/index.m3u8
 
 
 
@@ -4222,15 +4176,8 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="TELECENTRO", America (tlctro)
 http://45.5.151.62:8000/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="TELECENTRO", Net TV (tlctro)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="TELECENTRO", Ar|12 (tlctro)
 http://190.7.19.197:232/play/a00o/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="TELECENTRO" , Bravo TV (tlctro)
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="TELECENTRO", Cronica HD (tlctro)
 http://200.219.40.1:8000/play/a0fp/index.m3u8
@@ -4499,9 +4446,6 @@ http://181.13.252.102:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="TELECENTRO" , STAR TVE (tlctro)
 http://liketv.pro:80/User1626/28TM4MEU66/55.ts
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="TELECENTRO" , Film & Arts (tlctro)
-http://190.7.19.197:232/play/a01e/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="TELECENTRO" , HGTV (tlctro)
 http://190.7.19.197:232/play/a04n/index.m3u8
 
@@ -4526,8 +4470,6 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 
 
 
-#EXTINF:-1 group-title="Cable_Ar1" ,A&E HD (C_AR1)
-http://190.238.43.117:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,AMC HD (C_AR1)
 http://190.238.43.117:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,ATV (C_AR1)
@@ -4540,8 +4482,6 @@ http://190.238.43.117:8000/play/a0a8/index.m3u8
 http://190.238.43.117:8000/play/a09v/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,AXN HD (C_AR1)
 http://190.238.43.117:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Adult Swim (C_AR1)
-http://190.238.43.117:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,America TV HD (C_AR1)
 http://190.238.43.117:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Animal Planet HD (C_AR1)
@@ -4576,8 +4516,6 @@ http://190.238.43.117:8000/play/a01t/index.m3u8
 http://190.238.43.117:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Cartoon Network HD (C_AR1)
 http://190.238.43.117:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Cartoonito (C_AR1)
-http://190.238.43.117:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Cine Familiar HD (C_AR1)
 http://190.238.43.117:8000/play/a07y/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Cine Hispano HD (C_AR1)
@@ -4588,26 +4526,18 @@ http://190.238.43.117:8000/play/a07w/index.m3u8
 http://190.238.43.117:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Cinemax (C_AR1)
 http://190.238.43.117:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Comedy Central HD (C_AR1)
-http://190.238.43.117:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,DE PELICULA HD (C_AR1)
 http://190.238.43.117:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,DHE HD (C_AR1)
 http://190.238.43.117:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,DISTRITO COMEDIA HD (C_AR1)
 http://190.238.43.117:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,DSPORTS HD (C_AR1)
-http://190.238.43.117:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,DSPORTS+ HD (C_AR1)
 http://190.238.43.117:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,DSPORTS2 HD (C_AR1)
-http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,DW Espaæol (C_AR1)
 http://190.238.43.117:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,De PelŦcula (C_AR1)
 http://190.238.43.117:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Discovery Channel HD (C_AR1)
-http://190.238.43.117:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Discovery Kids HD (C_AR1)
 http://190.238.43.117:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Discovery Science (C_AR1)
@@ -4632,12 +4562,6 @@ http://190.238.43.117:8000/play/a0a2/index.m3u8
 http://190.238.43.117:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,ESPN 4 HD (C_AR1)
 http://190.238.43.117:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,ESPN 5 HD (C_AR1)
-http://190.238.43.117:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,ESPN 6 HD (C_AR1)
-http://190.238.43.117:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,ESPN 7 HD (C_AR1)
-http://190.238.43.117:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,ESPN HD (C_AR1)
 http://190.238.43.117:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,ESPN HD (C_AR1)
@@ -4674,20 +4598,14 @@ http://190.238.43.117:8000/play/a08o/index.m3u8
 http://190.238.43.117:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,HBO HD (C_AR1)
 http://190.238.43.117:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,HBO Mundi (C_AR1)
-http://190.238.43.117:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,HBO Plus (C_AR1)
 http://190.238.43.117:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,HBO Signature (C_AR1)
 http://190.238.43.117:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,HBO Xtreme HD (C_AR1)
-http://190.238.43.117:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,HGTV (C_AR1)
 http://190.238.43.117:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,HTV (C_AR1)
 http://190.238.43.117:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,History Channel HD (C_AR1)
-http://190.238.43.117:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Home & Health HD (C_AR1)
 http://190.238.43.117:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,ID HD (C_AR1)
@@ -4718,10 +4636,6 @@ http://190.238.43.117:8000/play/a074/index.m3u8
 http://190.238.43.117:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,MultiPremier (C_AR1)
 http://190.238.43.117:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Nat Geo HD (C_AR1)
-http://190.238.43.117:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Nickelodeon HD (C_AR1)
-http://190.238.43.117:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Nuestra Tele (C_AR1)
 http://190.238.43.117:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,OROMAR TV (C_AR1)
@@ -4730,8 +4644,6 @@ http://190.238.43.117:8000/play/a03f/index.m3u8
 http://190.238.43.117:8000/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Panamericana (C_AR1)
 http://190.238.43.117:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,Playboy HD (C_AR1)
-http://190.238.43.117:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,RPP (C_AR1)
 http://190.238.43.117:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Sony HD (C_AR1)
@@ -4764,8 +4676,6 @@ http://190.238.43.117:8000/play/a01g/index.m3u8
 http://190.238.43.117:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,TV PERU HD (C_AR1)
 http://190.238.43.117:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar1" ,TVE (C_AR1)
-http://190.238.43.117:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,Tooncast (C_AR1)
 http://190.238.43.117:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar1" ,UNIVERSAL CHANNEL HD (C_AR1)
@@ -4796,8 +4706,6 @@ http://190.238.43.117:8000/play/a00a/index.m3u8
 https://faster-viale.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", A&E (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", A24 (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/lpi5300000011aspgysk33uc55vuihwg/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", ADULT SWING (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", AM SPORTS (C_AR2)
@@ -4810,8 +4718,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/aql85vnv5iz5c2u00000002x2d0qqv8n/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", ANIMAL PLANET (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/disc_apar/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", ARGENTINA 12 (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", ARGENTINA SATELITAL (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/arg_sat/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", AXN (C_AR2)
@@ -4836,8 +4742,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/rural/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", CARTOONITO (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", CINEAR (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", CINECANAL (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", CINEMAX (C_AR2)
@@ -4848,8 +4752,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/cm/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/cnn/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", CNN ESPAÑOL (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/cnne/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", CONSTRUIR TV (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", COMEDY CENTRAL (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", CRONICA (C_AR2)
@@ -4875,8 +4777,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/disney/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", DHE (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/dhe/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", E! (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/eent/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", EL GOURMET (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", EL NUEVE (C_AR2)
@@ -4913,8 +4813,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/fx/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/garage/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", GOLF (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/golf/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", H2 (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", HBO (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", HBO 2 (C_AR2)
@@ -4975,8 +4873,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/st_universal/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", TCM (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", TEC TV (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", TELEFE (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", TELEDIARIO (C_AR2)
@@ -4995,8 +4891,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/txlqeu6iv2b1iu000002455g7hqgivpn/output.
 https://faster-viale.cdn.rcs.net.ar/mnp/bta4hb7lmj4lhrefwh000002531fcr5y/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", TNT SERIES (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/gm7w7kgdfnc09b6g8b1g00000246n0na/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", TOONCAST (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", TV CHILE (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/tvchile/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", TVP (C_AR2)
@@ -5009,8 +4903,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/zi19j9ry7r00000052tzlkotjd1msy9q/output.
 https://faster-viale.cdn.rcs.net.ar/mnp/cn23/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", UNIVERSAL (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/universal/output.mpd
-#EXTINF:-1 group-title="Cable_Ar2", USA (C_AR2)
-https://faster-viale.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", VOLVER (C_AR2)
 https://faster-viale.cdn.rcs.net.ar/mnp/volver/output.mpd
 #EXTINF:-1 group-title="Cable_Ar2", WARNER (C_AR2)
@@ -5027,8 +4919,6 @@ https://faster-viale.cdn.rcs.net.ar/mnp/zoomoo/output.mpd
 
 
 
-#EXTINF:-1 group-title="Cable_Ar3",26TV (C_AR3)
-http://190.7.19.197:232/play/a042/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",A&E HD (C_AR3)
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",A24 (C_AR3)
@@ -5061,8 +4951,6 @@ http://190.7.19.197:232/play/a006/index.m3u8
 http://190.7.19.197:232/play/a001/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",CANAL 9 PARANA (C_AR3)
 http://190.7.19.197:232/play/a0lo/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",CANAL E (C_AR3)
-http://190.7.19.197:232/play/a08t/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",CHV (C_AR3)
 http://190.7.19.197:232/play/a082/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",CM (C_AR3)
@@ -5083,12 +4971,8 @@ http://190.7.19.197:232/play/a04b/index.m3u8
 http://190.7.19.197:232/play/a05y/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Cinemax (C_AR3)
 http://190.7.19.197:232/play/a009/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Ciudad Magazine (C_AR3)
-http://190.7.19.197:232/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Comedy Central HD (C_AR3)
 http://190.7.19.197:232/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Crðnica (C_AR3)
-http://190.7.19.197:232/play/a041/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Discovery Channel HD (C_AR3)
 http://190.7.19.197:232/play/a065/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Discovery Channel HD (C_AR3)
@@ -5113,22 +4997,6 @@ http://190.7.19.197:232/play/a03d/index.m3u8
 http://190.7.19.197:232/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",EL DESTAPE TV (C_AR3)
 http://190.7.19.197:232/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",EL FOLKLORICO TV (C_AR3)
-http://190.7.19.197:232/play/a024/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",EL GARAGE (C_AR3)
-http://190.7.19.197:232/play/a034/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ENLACE (C_AR3)
-http://190.7.19.197:232/play/a020/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ESPN 2 HD (C_AR3)
-http://190.7.19.197:232/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ESPN 3 HD (C_AR3)
-http://190.7.19.197:232/play/a03o/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ESPN 4 HD (C_AR3)
-http://190.7.19.197:232/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ESPN HD (C_AR3)
-http://190.7.19.197:232/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ESPN Premium HD (C_AR3)
-http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",EWTN (C_AR3)
 http://190.7.19.197:232/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",El Canal de las Estrellas (C_AR3)
@@ -5139,22 +5007,12 @@ http://190.7.19.197:232/play/a01p/index.m3u8
 http://190.7.19.197:232/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",El Trece HD (C_AR3)
 http://190.7.19.197:232/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Encuentro (C_AR3)
-http://190.7.19.197:232/play/a013/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Europa Europa (C_AR3)
 http://190.7.19.197:232/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Eventos HD (C_AR3)
-http://190.7.19.197:232/play/a022/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",FX HD (C_AR3)
 http://190.7.19.197:232/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Film & Arts HD (C_AR3)
 http://190.7.19.197:232/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Fox Sports 2 HD (C_AR3)
-http://190.7.19.197:232/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Fox Sports 3 HD (C_AR3)
-http://190.7.19.197:232/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Fox Sports HD (C_AR3)
-http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Galicia TV (C_AR3)
 http://190.7.19.197:232/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",HBO (C_AR3)
@@ -5163,32 +5021,20 @@ http://190.7.19.197:232/play/a05e/index.m3u8
 http://190.7.19.197:232/play/a05g/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",HBO Family (C_AR3)
 http://190.7.19.197:232/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",HBO POP (C_AR3)
-http://190.7.19.197:232/play/a016/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",HBO Plus (C_AR3)
 http://190.7.19.197:232/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",HBO Signature (C_AR3)
 http://190.7.19.197:232/play/a04g/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",HBO Xtreme (C_AR3)
 http://190.7.19.197:232/play/a017/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",HGTV (C_AR3)
-http://190.7.19.197:232/play/a04n/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",HTV (C_AR3)
 http://190.7.19.197:232/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",History 2 (C_AR3)
 http://190.7.19.197:232/play/a019/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",History Channel (C_AR3)
 http://190.7.19.197:232/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",ID HD (C_AR3)
-http://190.7.19.197:232/play/a083/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",IN (C_AR3)
-http://190.7.19.197:232/play/a012/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",IP (C_AR3)
-http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Kidoo HD (C_AR3)
 http://190.7.19.197:232/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",La Nacion TV (C_AR3)
-http://190.7.19.197:232/play/a043/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Lifetime (C_AR3)
 http://190.7.19.197:232/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",MTV (C_AR3)
@@ -5207,16 +5053,12 @@ http://190.7.19.197:232/play/a01n/index.m3u8
 http://190.7.19.197:232/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",O GLOBO (C_AR3)
 http://190.7.19.197:232/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",PAKA PAKA (C_AR3)
-http://190.7.19.197:232/play/a08e/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",PASIONES (C_AR3)
 http://190.7.19.197:232/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Pakapaka (C_AR3)
 http://190.7.19.197:232/play/a03y/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Paramount HD (C_AR3)
 http://190.7.19.197:232/play/a052/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Playboy (C_AR3)
-http://190.7.19.197:232/play/a056/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Quiero Musica (C_AR3)
 http://190.7.19.197:232/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",RAI Italia (C_AR3)
@@ -5227,12 +5069,6 @@ http://190.7.19.197:232/play/a003/index.m3u8
 http://190.7.19.197:232/play/a036/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",RT en Español (C_AR3)
 http://190.7.19.197:232/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Record (C_AR3)
-http://190.7.19.197:232/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Rural (C_AR3)
-http://190.7.19.197:232/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Sextreme (C_AR3)
-http://190.7.19.197:232/play/a058/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Sony HD (C_AR3)
 http://190.7.19.197:232/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Sony Movies HD (C_AR3)
@@ -5255,34 +5091,22 @@ http://190.7.19.197:232/play/a01q/index.m3u8
 http://190.7.19.197:232/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",TNT HD (C_AR3)
 http://190.7.19.197:232/play/a060/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",TNT Novelas HD (C_AR3)
-http://190.7.19.197:232/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",TNT Series HD (C_AR3)
 http://190.7.19.197:232/play/a088/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",TNT Sports HD (C_AR3)
-http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",TOONCAST (C_AR3)
 http://190.7.19.197:232/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",TV Publica HD (C_AR3)
-http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",TVE (C_AR3)
 http://190.7.19.197:232/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",TeleSUR (C_AR3)
 http://190.7.19.197:232/play/a08p/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Telefe HD (C_AR3)
-http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",The History Channel HD (C_AR3)
 http://190.7.19.197:232/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",TyC Sports HD (C_AR3)
-http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",UCL (C_AR3)
 http://190.7.19.197:232/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",USA Network (C_AR3)
 http://190.7.19.197:232/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Universal HD (C_AR3)
 http://190.7.19.197:232/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Cable_Ar3",Venus (C_AR3)
-http://190.7.19.197:232/play/a057/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Volver (C_AR3)
 http://190.7.19.197:232/play/a048/index.m3u8
 #EXTINF:-1 group-title="Cable_Ar3",Warner Channel HD (C_AR3)
@@ -5626,8 +5450,6 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:0 group-title="Tv_brasil" logo="https://i.imgur.com/XqAcHMg.png", Rede Brasil HD (c_br)
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:0 group-title="Tv_brasil" logo="https://i.imgur.com/Wu4ykxo.png", Globo News HD² (c_br)
-http://79.127.238.228:14093/
 
 
 
@@ -5657,8 +5479,6 @@ https://nmx1gonet.akamaized.net/hls/live/2107009/Live_1/3.m3u8
 https://voa-ingest.akamaized.net/hls/live/2037660/tvmc13/playlist.m3u8
 #EXTINF:0 group-title="Tv_brasil",VOA (c_br)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:0 group-title="Tv_brasil",SKY NEWS (c_br)
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 group-title="Tv_brasil",AL JAZEERA (c_br)
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:0 group-title="Tv_brasil",CNN ESPAÑOL (c_br)
@@ -5678,10 +5498,6 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 #EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" group="News+Busines" logo="https://i.ibb.co/XbSHxd5/cnn.png", CNN INT (c_br)
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" group="News+Busines" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked] (c_br)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1444" aspect-ratio="16:9", ABC (c_br)
-http://173.225.32.123/KSFY-2363/index.m3u8
 #EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1444" aspect-ratio="16:9", KMIZ ABC (c_br)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1", TELEMUNDO 51 (c_br)
@@ -5705,9 +5521,6 @@ http://tkosportz.live:25461/folalawal@/4044225438/102891
 #EXTINF:0 group-title="Tv_brasil" type="stream" channelId="-1" name="US ▎KTLA 5 HD [LOS ANGELES]" group="US ▎GENERAL" logo="https://img.logo-cdn.cc/ktla.png", US ▎KTLA 5 HD [LOS ANGELES] (c_br)
 http://154.56.131.10:80/647707/D814C3/360795
 
-
-#EXTINF:0 group-title="Tv_brasil" type="stream" channelId="1972" logo="https://i.ibb.co/XbSHxd5/cnn.png", CNN EN ESPAÑOL [geoblocked] (c_br)
-https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 #EXTINF:0 group-title="Tv_brasil" type="favorites" channelId="-1", CBSNEWS (c_br)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -6259,4 +6072,18 @@ http://200.229.147.142:8000/play/a032/index.m3u8
 #EXTINF:1 group-title="Tv_brasil",ZooMoo (c_br)
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a003/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
