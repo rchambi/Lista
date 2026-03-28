@@ -80,8 +80,9 @@ http://181.209.37.74:8001/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="ARGENTINA", LN+ (ARG)🟢
 http://181.209.37.74:8001/play/a05y/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA", LN+ HD (ARG) NF🟢
-#http://45.5.151.62:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA", LN+ HD (ARG)
+https://val04.ride.com.ar/tvmia/an14/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",Net TV (ARG)🟢
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", Net TV (ARG)
@@ -1975,8 +1976,7 @@ http://157.100.9.51:8000/play/a01e
 http://157.100.9.51:8000/play/a0d6
 #EXTINF:-1 group-title="CABLE_OP4", Warner Channel HD (Cable4)
 http://157.100.9.51:8000/play/a01o
-#EXTINF:-1 group-title="CABLE_OP4", Warner Channel HD (Cable4)
-http://38.41.8.1:8000/play/a07n
+
 
 
 
