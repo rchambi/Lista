@@ -19,15 +19,12 @@ http://181.209.37.74:8001/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar@SD" group-title="ARGENTINA", Bravo TV (ARG)🟢
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ARGENTINA", CADENA 3 (ARG) 🟢
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="ARGENTINA", CANAL E (ARG) 🟢
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg" group-title="ARGENTINA", CANAL 26 HD (ARG) 🟢
-http://45.5.151.62:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 (ARG)
+
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 (ARG)🟢
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 (ARG)
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 HD(ARG)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="ARGENTINA", Canal 13 La Rioja (ARG) 🟢
@@ -37,17 +34,12 @@ http://190.7.19.197:232/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="ARGENTINA",C5N (ARG)
 http://181.209.37.74:8001/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="ARGENTINA", Cinco TV (ARG) 🟢
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA", Ciudad Magazine 1 (ARG) 🟢
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA",Ciudad Magazine 2 (ARG)
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ARGENTINA", CIUDAD MAGAZINE 3(ARG)
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA", CIUDAD MAGAZINE 4 (ARG)
-http://45.5.151.62:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="ARGENTINA", Cosmos (ARG) 🟢
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -58,26 +50,25 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ARGENTINA", Cronica HD (ARG)🟢
 http://181.209.37.74:8001/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA", CRONICA HD 2 (ARG)
-http://186.125.218.189:13000/play/a082/index.m3u8
+#http://186.125.218.189:13000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="Cronica" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ARGENTINA",Cronica (ARG)
 https://g4.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png" group-title="ARGENTINA",El Trece (ARG) NF🟢
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326902.ts
-
-#EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 1 (ARG)
+#EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece (ARG)🟢
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png" group-title="ARGENTINA",El Trece 1 (ARG)
+#http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326902.ts
+
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png" tvg-id="ElTrece.ar"group-title="ARGENTINA", El Trece 2 (ARG) NFX
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="ARGENTINA", El Trece HD (ARG) NFX
-http://45.5.151.62:8000/play/a026/index.m38u
+#https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/finwuj.png" tvg-country="AR" tvg-language="Spanish" group-title="ARGENTINA",El Trece 3 (ARG)
 #https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="ARGENTINA",EL TRECE HD (ARG)
 http://181.209.37.74:8001/play/a07b/index.m3u8
 
@@ -87,8 +78,10 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 http://181.209.37.74:8001/play/a08k/index.m3u8
 
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="ARGENTINA", La Nación + (ARG)
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="ARGENTINA", LN+ (ARG)🟢
 http://181.209.37.74:8001/play/a05y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA", LN+ HD (ARG) NF🟢
+#http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",Net TV (ARG)🟢
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", Net TV (ARG)
@@ -96,17 +89,16 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV (ARG)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="ARGENTINA",NET TV HD (ARG)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="ARGENTINA", Net TV (ARG)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA", Neo TV2 (ARG)🟢
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA", Neox TV (ARG)🟢
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG) 🟢
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG)NFX
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 group-title="ARGENTINA", LN+ HD (ARG) NF🟢
-http://45.5.151.62:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA", Neox TV (ARG)
+#https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
 
 
 
@@ -120,47 +112,31 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD1 🟢 (ARG)
 http://181.209.37.74:8001/play/a08a/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD2 (ARG)
-http://181.198.105.69:8111/play/a1ez/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD3 (ARG)
-http://201.219.11.182:7777/play/a32f/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD4 (ARG)
-http://190.104.67.170:234/play/a08a/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD5 (ARG)
 http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD6 (ARG)
-http://190.104.67.87:234/play/a08a/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD7 (ARG)
-http://190.104.67.1:234/play/a08a/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD8 (ARG)
-http://201.219.11.182:7777/play/a33e/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD9 (ARG)
-http://179.51.136.23:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="ARGENTINA",TELEFE HD10 (ARG)
-http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326893.ts
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="ARGENTINA",TELEFE HD11 (ARG)
-http://181.78.27.128:12543/play/a04h/index.m3u8
-#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD3 (ARG)
+#http://201.219.11.182:7777/play/a32f/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD4 (ARG)
+#http://190.104.67.170:234/play/a08a/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA",TELEFE HD5 (ARG)
+#http://181.198.105.69:8111/play/a1ez/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2000_telefe.svg/330px-2000_telefe.svg.png" group-title="ARGENTINA", TELEFE CORDOBA (ARG)🟢
-https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA", 7 JUJUY - Telefe (ARG) 🟢
-http://45.5.151.62:8000/play/a02a/index.m3u8
+#https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="ARGENTINA", 7 Jujuy - Telefe (ARG)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" group-title="ARGENTINA",Canal 4 Jujuy (ARG)
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" group-title="ARGENTINA",Canal 4 Posadas (576p) (ARG)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" group-title="ARGENTINA",Canal 4 San Juan (576p) (ARG)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" group-title="ARGENTINA",Canal 5 Del Pueblo [Not 24/7] (ARG)
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA", TN (ARG)🟢
-http://45.5.151.62:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA",TN (ARG)
+
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA",TN (ARG)🟢
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="ARGENTINA", TN (ARG)
@@ -180,26 +156,20 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD1 🟢 (ARG)
 http://181.209.37.74:8001/play/a095/index.m3u8
-
-#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD10 (ARG)
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA",ARG TVPUBLICA.HD2 (ARG)
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="ARGENTINA", TVP Publica (ARG)
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="ARGENTINA", TV Publica PampA (ARG)🟢
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA",A24 (ARG) 🟢
-https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA" ,A24 (720p) (ARG)
+
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA" ,A24 (720p) (ARG)🟢
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hYbrc6g.jpeg" group-title="ARGENTINA",A24 ᴴᴰ (ARG)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-id="ATVArgentina.ar@SD" group-title="ARGENTINA",ATV Argentina (ARG)
-https://tv.streaming.com.bo/atvargentina/index.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.ar@SD" group-title="ARGENTINA", Metro TV (720p) (ARG)
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="ARGENTINA",A24 (ARG)
+#https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group-title="ARGENTINA" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png", CANAL 34 SAN JUAN (ARG)
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
@@ -208,8 +178,21 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group-title="ARGENTINA" logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png", CANAL 21 POSADAS (ARG)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="ARGENTINA" logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png", CANAL 12 TUCUMAN (ARG)
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -241,10 +224,6 @@ https://master.tucableip.com/univalletv/index.m3u8
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA", Bolivision SCZ op2 (BOL)
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD [NOT 24/7] (BOL)
-#https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION SCZ HD [NOT 24/7] (BOL)
-#https://d2e599a9ekjlc5.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA LP OFICIAL" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD [NOT 24/7] (BOL)
 https://dcta0kithhulo.cloudfront.net/index.m3u8
@@ -286,12 +265,12 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 https://master.tucableip.com/muxunitelsc/index.mpd
 #EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Unitel - Red Uno test
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno test
-https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno FHD test
-https://master.tucableip.com//monreduno/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="RedUno" tvg-logo="https://i.ibb.co/mDBcFJB/red-uno-bo.png" status="timeout" group-title="BOLIVIA", Red Uno FHD test2
-https://master.tucableip.com/muxredunosc/index.mpd
+#https://master.tucableip.com//monreduno/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="BOLIVIA", Red Uno - La Paz (BOL) Temp
 #https://cdndirector.dailymotion.com/cdn/live/video/x9mmebq.m3u8?sec=mCWXWY8Q7iUnb5MiJJFxHALV7tU4jDsk4FoLLc9LnWum4GCDL8D3TouODDuFWkvx7bYBXOb5k065TH6bc9VdQw&dmTs=999999&dmV1st=41c8c539-7dec-4fb7-abfa-444bdac7849f
