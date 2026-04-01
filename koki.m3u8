@@ -2,6 +2,13 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
 
+#EXTINF:-1 tvg-name="UNITEL" tvg-logo="https://i.imgur.com/B9wg1zj.png"  group-title="BOLIVIA" ,BOLIVIA VS IRAK (BOL)
+https://mze7u.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=74.244.135.25&token=5c986df1db1a8a56722c0ce246fa5302df5b94d6-ad-1775055695-1775001695
+
+#EXTINF:-1 tvg-name="UNITEL" tvg-logo="https://i.imgur.com/B9wg1zj.png"  group-title="BOLIVIA" ,BOLIVIA VS IRAK  2 (BOL)
+https://kh5vy.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=74.244.135.25&token=d9cfbc44b1e9407a50a40f0ac2dc571a57dd2c9d-a1-1775055842-1775001842
+
+
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg" group-title="ARGENTINA", America TV 1(ARG)🟢
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
